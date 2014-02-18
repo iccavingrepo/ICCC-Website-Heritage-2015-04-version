@@ -1,0 +1,18 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.3) Gecko/20070309 Firefox/2.0.0.3
+author=
+host=155.198.202.146
+name=Main.TShirt
+rev=3
+targets=
+text=[[http://www.union.ic.ac.uk/rcc/caving/photo_archive/t-shirt/dirindex.html|T-shirt Drafts and Designs on the PhotoArchive]]%0a%0a''Philosophy'': The general design conensus is:%0a* Avoid witty sayings - they're not witty on the 999th rereading%0a* No gallows humour - this is offputting to new-members%0a* Do try for an original design%0a%0a'''2005''' shirt design [[http://www.union.ic.ac.uk/rcc/caving/photo_archive/t-shirt/back_mockup.html]]%0a%0aWas printed with ???. Cost was ~£10 per t-shirt, about £15 for a Hoody. Three colours, including an opaque white. Alignment was good (%3c1mm), and screen-print has shown to be extremely hard wearing. Max. screenprint size was just sub A3.%0a%0a'''2007''' design [[http://www.union.ic.ac.uk/rcc/caving/photo_archive/t-shirt/2007_design/cavingt.html]]%0a%0aWas printed with [[http://www.erewhon.co.uk/|Megashirts]], two colours front & back. No alignment as monochrome print. Resolution of print was below that of the 2004 design - lots of ink bleed. But they were incredibly cheap - £5 per t-shirt. Tel: 01797 363 499%0a
+time=1177420940
+author:1177420940=
+diff:1177420940:1175886317:=14c14%0a%3c Was printed with [[http://www.erewhon.co.uk/|Megashirts]], two colours front & back. No alignment as monochrome print. Resolution of print was below that of the 2004 design - lots of ink bleed. But they were incredibly cheap - £5 per t-shirt. Tel: 01797 363 499%0a---%0a> Was printed with [[http://www.erewhon.co.uk/|Megashirts]], two colours front & back. No alignment as monochrome print. Resolution of print was below that of the 2004 design - lots of ink bleed. But they were incredibly cheap - £5 per t-shirt.%0a
+host:1177420940=155.198.202.146
+author:1175886317=
+diff:1175886317:1175883893:=3,7d2%0a%3c ''Philosophy'': The general design conensus is:%0a%3c * Avoid witty sayings - they're not witty on the 999th rereading%0a%3c * No gallows humour - this is offputting to new-members%0a%3c * Do try for an original design%0a%3c %0a
+host:1175886317=155.198.186.235
+author:1175883893=
+diff:1175883893:1175883893:=1,9d0%0a%3c [[http://www.union.ic.ac.uk/rcc/caving/photo_archive/t-shirt/dirindex.html|T-shirt Drafts and Designs on the PhotoArchive]]%0a%3c %0a%3c '''2005''' shirt design [[http://www.union.ic.ac.uk/rcc/caving/photo_archive/t-shirt/back_mockup.html]]%0a%3c %0a%3c Was printed with ???. Cost was ~£10 per t-shirt, about £15 for a Hoody. Three colours, including an opaque white. Alignment was good (%3c1mm), and screen-print has shown to be extremely hard wearing. Max. screenprint size was just sub A3.%0a%3c %0a%3c '''2007''' design [[http://www.union.ic.ac.uk/rcc/caving/photo_archive/t-shirt/2007_design/cavingt.html]]%0a%3c %0a%3c Was printed with [[http://www.erewhon.co.uk/|Megashirts]], two colours front & back. No alignment as monochrome print. Resolution of print was below that of the 2004 design - lots of ink bleed. But they were incredibly cheap - £5 per t-shirt.%0a
+host:1175883893=155.198.186.235

@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9b5) Gecko/2008041514 Firefox/3.0b5
+author=
+csum=
+ctime=1209920324
+host=129.31.242.170
+name=Main.GREYCstoration
+rev=1
+targets=
+text=[[http://cimg.sourceforge.net/greycstoration/]] GREYCstoration is a FREE digital camera noise removal program, which integrates into the Gimp & as a stand alone utility. Its very very tunable, so here is a place to stash params developed.%0a%0a!!Jarv%0a!!!Canon A520%0a!!!Flash Photo (1/60 synchro, 200ASA)%0a%0aMost noise is evident in low level areas.%0a%0a*anisotropy --> 0.5%0a*noise scale --> 3.6%0a*contour preservation --> 1.0%0a%0aEnds up a bit 'pastel painted'. A Work in Progres...
+time=1209920324
+author:1209920324=
+diff:1209920324:1209920324:=1,13d0%0a%3c [[http://cimg.sourceforge.net/greycstoration/]] GREYCstoration is a FREE digital camera noise removal program, which integrates into the Gimp & as a stand alone utility. Its very very tunable, so here is a place to stash params developed.%0a%3c %0a%3c !!Jarv%0a%3c !!!Canon A520%0a%3c !!!Flash Photo (1/60 synchro, 200ASA)%0a%3c %0a%3c Most noise is evident in low level areas.%0a%3c %0a%3c *anisotropy --> 0.5%0a%3c *noise scale --> 3.6%0a%3c *contour preservation --> 1.0%0a%3c %0a%3c Ends up a bit 'pastel painted'. A Work in Progres...%0a\ No newline at end of file%0a
+host:1209920324=129.31.242.170

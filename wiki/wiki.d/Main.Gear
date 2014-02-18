@@ -1,0 +1,46 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.8.1.13) Gecko/20080325 Ubuntu/7.10 (gutsy) Firefox/2.0.0.13
+author=Jarv
+csum=
+host=129.31.242.95
+name=Main.Gear
+rev=12
+targets=Main.Bolts
+text=!! New or Second Hand?%0aAlmost every item of caving equipment (from thermal underwear to rope) is an essential piece of safety equipment, as without it - you're liable to die. However, there is a difference between things such as SRT equipment, whose failure would result in death and for which simply inspecting its quality is insufficent, and things for which failure (such as holes in your furry) is far more clear.%0a%0a'''Things ok to buy secondhand / cheaply''' Furry, wellies, oversuit, thermals, Bottles, SRT Bags, Rucksacks, Tents, books%0a%0a'''Things never ok''' Rope, slings, metalwork, harnesses, battery belts (used to belay)%0a%0a'''Things dubiously''' Lights, batteries%0a%0aBasically - use your common sense. Quite often, its still best to buy some things (such as wellies) new as they'll wear much better.%0a%0a'''Army Surplus'''%0a%0a*Laurence Corner (Was a little bit shit & expensive)%0a**Address: 62-64 Hampstead Road, London , NW1 2NU%0a**Telephone: 020 7813 1010%0a%0a'World of Surplus' Army Kitbag [[http://www.worldofsurplus.com/ishop/1061/shopscr774.html]]%0a%0a'eBay' seems the way forward...%0a%0a'''Sigg Bottles'''%0a%0aBesy supplier appears to be simply-outdoors: [[http://www.simply-outdoors.co.uk/acatalog/Water_Bottles.html]]%0a%0a* 0.6L 7.99%0a* 1.0L 8.99%0a* 1.5L 9.99%0a%0a'''Daren Drums'''%0a%0a6.4L (two to a tackle sack) Dimensions: 198mm x 266mm (Neck diameter 136mm)%0a%0aFrom: [[http://www.caving-gear.co.uk/show_product.asp?id=771]]%0a%0a'''Flat Cell (= Duracell MN1203)'''%0a%0a* [[http://www.batterycompany.co.uk]] Mn1203 5 boxes of 10 = £96.12 (48hr parcelforce delivery), scoped on 28-12-07%0a%0a!!Hardwear%0a%0aCarlisle glass seems very cheap [[https://www.cglass.co.uk/]]. Good reviews on google products.%0a%0aHad a Bosch DLE50 Laser Rangefinder for £97 delivered inc. VAT, scooped 6-4-08%0aSells rawl bolts per unit (only found zinc/yellow coated steel - no stainless)%0a%0a'''[[Bolts]]'''%0a%0a
+time=1207484945
+author:1207484945=Jarv
+diff:1207484945:1206041089:=40,46d39%0a%3c !!Hardwear%0a%3c %0a%3c Carlisle glass seems very cheap [[https://www.cglass.co.uk/]]. Good reviews on google products.%0a%3c %0a%3c Had a Bosch DLE50 Laser Rangefinder for £97 delivered inc. VAT, scooped 6-4-08%0a%3c Sells rawl bolts per unit (only found zinc/yellow coated steel - no stainless)%0a%3c %0a
+host:1207484945=129.31.242.95
+author:1206041089=
+diff:1206041089:1198976574:=30,35d29%0a%3c '''Daren Drums'''%0a%3c %0a%3c 6.4L (two to a tackle sack) Dimensions: 198mm x 266mm (Neck diameter 136mm)%0a%3c %0a%3c From: [[http://www.caving-gear.co.uk/show_product.asp?id=771]]%0a%3c %0a
+host:1206041089=155.198.186.162
+author:1198976574=
+diff:1198976574:1198879696:=34,35c34,36%0a%3c '''[[Bolts]]'''%0a%3c %0a---%0a> '''Bolts'''%0a> %0a> * Suicide bolts cheap from hardware manufac: [[http://www.pvrdirect.co.uk/products.aspx?tier1=Fixings&tier2=Rawl+Bolts+Fixings&tier3=Throughbolts+-+Zinc+%2526+Yellow&cmd=list]] Zinc/Steel [[http://www.pvrdirect.co.uk/products.aspx?id=-1&tier1=Fixings&tier2=Rawl+Bolts+Fixings&tier3=Throughbolts+-+Stainless+Steel]] Stainless. Boxes of 50/100.%0a\ No newline at end of file%0a
+host:1198976574=79.75.171.29
+author:1198879696=
+diff:1198879696:1198867087:=32,36c32%0a%3c * [[http://www.batterycompany.co.uk]] Mn1203 5 boxes of 10 = £96.12 (48hr parcelforce delivery), scoped on 28-12-07%0a%3c %0a%3c '''Bolts'''%0a%3c %0a%3c * Suicide bolts cheap from hardware manufac: [[http://www.pvrdirect.co.uk/products.aspx?tier1=Fixings&tier2=Rawl+Bolts+Fixings&tier3=Throughbolts+-+Zinc+%2526+Yellow&cmd=list]] Zinc/Steel [[http://www.pvrdirect.co.uk/products.aspx?id=-1&tier1=Fixings&tier2=Rawl+Bolts+Fixings&tier3=Throughbolts+-+Stainless+Steel]] Stainless. Boxes of 50/100.%0a\ No newline at end of file%0a---%0a> * [[http://www.batterycompany.co.uk]] Mn1203 5 boxes of 10 = £96.12 (48hr parcelforce delivery), scoped on 28-12-07%0a\ No newline at end of file%0a
+host:1198879696=155.198.186.162
+author:1198867087=
+diff:1198867087:1198867067:=30,32c30,33%0a%3c '''Flat Cell (= Duracell MN1203)'''%0a%3c %0a%3c * [[http://www.batterycompany.co.uk]] Mn1203 5 boxes of 10 = £96.12 (48hr parcelforce delivery), scoped on 28-12-07%0a\ No newline at end of file%0a---%0a> * Flat Cell (= Duracell MN1203)%0a> %0a> %0a> [[http://www.batterycompany.co.uk]] Mn1203 5 boxes of 10 = £96.12 (48hr parcelforce delivery), scoped on 28-12-07%0a\ No newline at end of file%0a
+host:1198867087=155.198.186.162
+author:1198867067=
+diff:1198867067:1177350833:=29,33d28%0a%3c %0a%3c * Flat Cell (= Duracell MN1203)%0a%3c %0a%3c %0a%3c [[http://www.batterycompany.co.uk]] Mn1203 5 boxes of 10 = £96.12 (48hr parcelforce delivery), scoped on 28-12-07%0a\ No newline at end of file%0a
+host:1198867067=155.198.186.162
+author:1177350833=
+diff:1177350833:1177350824:=5d4%0a%3c %0a7d5%0a%3c %0a
+host:1177350833=155.198.186.235
+author:1177350824=
+diff:1177350824:1176858196:=1,9d0%0a%3c !! New or Second Hand?%0a%3c Almost every item of caving equipment (from thermal underwear to rope) is an essential piece of safety equipment, as without it - you're liable to die. However, there is a difference between things such as SRT equipment, whose failure would result in death and for which simply inspecting its quality is insufficent, and things for which failure (such as holes in your furry) is far more clear.%0a%3c %0a%3c '''Things ok to buy secondhand / cheaply''' Furry, wellies, oversuit, thermals, Bottles, SRT Bags, Rucksacks, Tents, books%0a%3c '''Things never ok''' Rope, slings, metalwork, harnesses, battery belts (used to belay)%0a%3c '''Things dubiously''' Lights, batteries%0a%3c %0a%3c Basically - use your common sense. Quite often, its still best to buy some things (such as wellies) new as they'll wear much better.%0a%3c %0a
+host:1177350824=155.198.186.235
+author:1176858196=
+diff:1176858196:1174095991:=1,2d0%0a%3c '''Army Surplus'''%0a%3c %0a9,17c7%0a%3c 'eBay' seems the way forward...%0a%3c %0a%3c '''Sigg Bottles'''%0a%3c %0a%3c Besy supplier appears to be simply-outdoors: [[http://www.simply-outdoors.co.uk/acatalog/Water_Bottles.html]]%0a%3c %0a%3c * 0.6L 7.99%0a%3c * 1.0L 8.99%0a%3c * 1.5L 9.99%0a---%0a> 'eBay' seems the way forward...%0a\ No newline at end of file%0a
+host:1176858196=212.1.152.11
+author:1174095991=
+diff:1174095991:1169750062:=1c1,2%0a%3c *Laurence Corner (Was a little bit shit & expensive)%0a---%0a> Best Army Surplus in London:%0a> *Laurence Corner%0a6,7d6%0a%3c %0a%3c 'eBay' seems the way forward...%0a\ No newline at end of file%0a
+host:1174095991=80.41.23.251
+author:1169750062=
+diff:1169750062:1169749931:=4,6c4%0a%3c **Telephone: 020 7813 1010%0a%3c %0a%3c 'World of Surplus' Army Kitbag [[http://www.worldofsurplus.com/ishop/1061/shopscr774.html]]%0a---%0a> **Telephone: 020 7813 1010%0a\ No newline at end of file%0a
+host:1169750062=155.198.186.235
+author:1169749931=
+diff:1169749931:1169749931:=1,4d0%0a%3c Best Army Surplus in London:%0a%3c *Laurence Corner%0a%3c **Address: 62-64 Hampstead Road, London , NW1 2NU%0a%3c **Telephone: 020 7813 1010%0a\ No newline at end of file%0a
+host:1169749931=155.198.186.235

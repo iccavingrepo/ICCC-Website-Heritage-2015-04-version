@@ -1,0 +1,17 @@
+version=pmwiki-2.2.17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1
+author=
+charset=ISO-8859-1
+csum=
+host=155.198.199.174
+name=Main.FireFly
+rev=2
+targets=
+text=Replacement batteries for Firefly 2 (Jans') are L1142 buttoncell batteries.%0aTwo replacement sets in stores, 11th Sept 2007.%0a%0aUpdate 2011: All used up now! Get in touch with Jarv if you need some...
+time=1317924998
+author:1317924998=
+diff:1317924998:1189526630:=2,4c2%0a%3c Two replacement sets in stores, 11th Sept 2007.%0a%3c %0a%3c Update 2011: All used up now! Get in touch with Jarv if you need some...%0a\ No newline at end of file%0a---%0a> Two replacement sets in stores, 11th Sept 2007.%0a\ No newline at end of file%0a
+host:1317924998=155.198.199.174
+author:1189526630=jarv
+diff:1189526630:1189526630:=1,2d0%0a%3c Replacement batteries for Firefly 2 (Jans') are L1142 buttoncell batteries.%0a%3c Two replacement sets in stores, 11th Sept 2007.%0a\ No newline at end of file%0a
+host:1189526630=155.198.186.235

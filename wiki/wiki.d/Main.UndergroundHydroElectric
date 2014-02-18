@@ -1,0 +1,25 @@
+version=pmwiki-2.2.48 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.57 Safari/537.17
+author=jarv
+charset=ISO-8859-1
+csum=
+ctime=1265153056
+host=155.198.199.174
+name=Main.UndergroundHydroElectric
+rev=4
+targets=
+text=!!2012 Work%0a%0aCheck Jarv's blog post for the latest: http://jarvist.posterous.com/migovec-hydroelectric-project%0a%0a!!Theory, Background & Motivation%0a%0a''It's never going to work!''%0a%0a!!2010 Implementation%0a%0a!!!DC Pump%0a%0aThe pump we found is made by the Dongguan Zhonglong Motor & Electric Company: [[http://www.zhonglongmotor.com/english/chanpinok.asp?PicID=6]]%0a%0aIt's a tiny 24V DC Water Pump, spec'd at 420ml/s to 11m head height running off 24V DC, pulling over 60W.%0a%0aThe construction is really quite nice - four nuts + bolts hold the pump assembly together, which is made out of 3 injection moulded pieces of plastic. The volute chamber and inlet/outlet hoses form the first bit of plastic which has a o-ring seal.%0a%0a£30, delivered, from China.%0a%0a!!!Lay flat Discharge Hose%0a%0aThis stuff appears to be perfect for lightweight hydro - coiling flat for transport yet still standing an atmosphere or two. This appears to have quite large use on building sites + farms as pump discharge hose when training ponds.%0aSearch eBay using the above magic words to find it in diameters from 20-50mm, cut to the metre.
+time=1360870873
+author:1360870873=jarv
+diff:1360870873:1360870870:=
+host:1360870873=155.198.199.174
+author:1360870870=jarv
+diff:1360870870:1265155209:=1,4d0%0a%3c !!2012 Work%0a%3c %0a%3c Check Jarv's blog post for the latest: http://jarvist.posterous.com/migovec-hydroelectric-project%0a%3c %0a
+host:1360870870=155.198.199.174
+author:1265155209=
+diff:1265155209:1265153056:=13,16c13,14%0a%3c The construction is really quite nice - four nuts + bolts hold the pump assembly together, which is made out of 3 injection moulded pieces of plastic. The volute chamber and inlet/outlet hoses form the first bit of plastic which has a o-ring seal.%0a%3c %0a%3c £30, delivered, from China.%0a%3c %0a---%0a> The construction is really quite nice - four nuts + bolts hold the pump assembly together, which is made out of 3 injection moulded pieces of plastic. The volute chamber and inlet/outlet hoses form the first bit of plastic which has a o-ring seal. %0a> %0a
+host:1265155209=217.34.5.49
+author:1265153056=Jarv
+csum:1265153056=First
+diff:1265153056:1265153056:=1,18d0%0a%3c !!Theory, Background & Motivation%0a%3c %0a%3c ''It's never going to work!''%0a%3c %0a%3c !!2010 Implementation%0a%3c %0a%3c !!!DC Pump%0a%3c %0a%3c The pump we found is made by the Dongguan Zhonglong Motor & Electric Company: [[http://www.zhonglongmotor.com/english/chanpinok.asp?PicID=6]]%0a%3c %0a%3c It's a tiny 24V DC Water Pump, spec'd at 420ml/s to 11m head height running off 24V DC, pulling over 60W.%0a%3c %0a%3c The construction is really quite nice - four nuts + bolts hold the pump assembly together, which is made out of 3 injection moulded pieces of plastic. The volute chamber and inlet/outlet hoses form the first bit of plastic which has a o-ring seal. %0a%3c %0a%3c !!!Lay flat Discharge Hose%0a%3c %0a%3c This stuff appears to be perfect for lightweight hydro - coiling flat for transport yet still standing an atmosphere or two. This appears to have quite large use on building sites + farms as pump discharge hose when training ponds.%0a%3c Search eBay using the above magic words to find it in diameters from 20-50mm, cut to the metre.%0a\ No newline at end of file%0a
+host:1265153056=87.224.38.38

@@ -1,0 +1,12 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.0.7) Gecko/20060919 Firefox/1.5.0.7
+author=
+host=155.198.186.235
+name=Site.EditQuickReference
+rev=29
+targets=PmWiki.BasicEditing,PmWiki.TextFormattingRules,PmWiki.DocumentationIndex,PmWiki.SimpleTables,PmWiki.AdvancedTables
+text=(:table class='quickref' width='100%25' cellspacing='0' cellpadding='0' style='font-size:12px; font-family:Arial; padding:2px; border:1px solid #cccccc;' bgcolor=#000000 :)%0a(:cellnr:)%0a%25target=_blank%25 [[PmWiki/Basic Editing]] - [[PmWiki/Text Formatting Rules]] - [[PmWiki/Documentation Index]]%0a(:cell align=right:)%0a%25target=_blank%25 '''Tables:''' [[PmWiki/Simple(Tables)]] - [[PmWiki/Advanced(Tables)]]%0a(:cellnr:)%0a-%3c'''Paragraphs:''' for a new paragraph, use a blank line;\\%0a'''[=->=]''' to indent text, '''[=-%3c=]''' hanging text %0a(:cell align=right:)%0a'''Line break:''' '''[=\\=]''' or '''[=[[%3c%3c]]=]'''%0a(:cellnr colspan='2':)%0a-%3c'''Lists:''' '''*''' for bullet lists, '''#''' for numbered lists, ''':'''term''':'''definition for definition lists%0a-%3c'''Emphasis:''' [=''italics'', '''bold''', '''''bold italics''''', @@typewriter@@ (monospaced)=]%0a-%3c'''References:''' [=[[another page]], [[http://www.example.com]], [[another page | link text]], [[#anchor]]=]%0a-%3c'''Groups:''' [=[[Group/Page]] displays Page, [[Group.Page]] displays Group.Page, [[Group(.Page)]] displays Group=]%0a(:cellnr:)%0a-%3c'''Separators:''' '''!!''', '''!!!''' for headings, '''[=----=]''' for horizontal line%0a-%3c'''Other markups:''' [=[+bigger+], [-smaller-], '^superscript^', '_subscript_', {+inserted+}, {-deleted-}=]%0a(:cell align=right:)%0a'''Prevent formatting:''' [=[=...=]=]\\%0a'''Preformatted block:''' [=[@...@]=]%0a(:tableend:)
+time=1175884938
+author:1175884938=
+diff:1175884938:1124072814:=1c1%0a%3c (:table class='quickref' width='100%25' cellspacing='0' cellpadding='0' style='font-size:12px; font-family:Arial; padding:2px; border:1px solid #cccccc;' bgcolor=#000000 :)%0a---%0a> (:table class='quickref' width='100%25' cellspacing='0' cellpadding='0' style='font-size:12px; font-family:Arial; padding:2px; border:1px solid #cccccc;' bgcolor=#f9f9f9 :)%0a
+host:1175884938=155.198.186.235

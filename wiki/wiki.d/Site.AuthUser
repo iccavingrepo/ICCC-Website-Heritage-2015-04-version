@@ -1,0 +1,15 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.0.7) Gecko/20060919 Firefox/1.5.0.7
+author=
+host=155.198.186.235
+name=Site.AuthUser
+rev=2
+targets=
+text=
+time=1177016366
+author:1177016366=
+diff:1177016366:1177016334:=0a1%0a> jarvist: (:encrypt kinkyyogi:)%0a\ No newline at end of file%0a
+host:1177016366=155.198.186.235
+author:1177016334=
+diff:1177016334:1177016334:=1d0%0a%3c jarvist: (:encrypt kinkyyogi:)%0a\ No newline at end of file%0a
+host:1177016334=155.198.186.235

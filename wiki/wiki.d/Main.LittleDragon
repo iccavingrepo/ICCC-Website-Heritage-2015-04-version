@@ -1,0 +1,18 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.0.7) Gecko/20060919 Firefox/1.5.0.7
+author=
+host=155.198.186.235
+name=Main.LittleDragon
+rev=3
+targets=Main.CO2,Main.WR3
+text=The little dragon was made by Brian Joplin, part of 'JA&RE React', phone 01639 730429.%0a%0aThe replacement CO2 cyclinders are made by a company called 'Widget World Ltd'. %0a* Address: Blackpole Trading Estate, Blackpole Road, Worcester, WR3 8ZR.%0a* Number: 01905 754520 (CORRECTED!)%0a%0aLeslie picked up the phone, was very helpful indeed!%0a%0aCost was ~£15.10, taken from my switch, of which £7 was deposit for cylinder.%0a%0aJarv
+time=1171638892
+author:1171638892=
+diff:1171638892:1169739832:=3c3%0a%3c The replacement CO2 cyclinders are made by a company called 'Widget World Ltd'. %0a---%0a> The replacement CO2 cyclinders are made by a company called 'Mighty Widget'. %0a5,11c5,7%0a%3c * Number: 01905 754520 (CORRECTED!)%0a%3c %0a%3c Leslie picked up the phone, was very helpful indeed!%0a%3c %0a%3c Cost was ~£15.10, taken from my switch, of which £7 was deposit for cylinder.%0a%3c %0a%3c Jarv%0a\ No newline at end of file%0a---%0a> * Number: 01905 754720%0a> %0a> If you speak to 'Leslie', she should know exactly what you're after...%0a\ No newline at end of file%0a
+host:1171638892=155.198.186.235
+author:1169739832=
+diff:1169739832:1169739800:=4,6c4,6%0a%3c * Address: Blackpole Trading Estate, Blackpole Road, Worcester, WR3 8ZR.%0a%3c * Number: 01905 754720%0a%3c %0a---%0a> Address: Blackpole Trading Estate, Blackpole Road, Worcester, WR3 8ZR.%0a> Number: 01905 754720%0a> %0a
+host:1169739832=155.198.186.235
+author:1169739800=
+diff:1169739800:1169739800:=1,7d0%0a%3c The little dragon was made by Brian Joplin, part of 'JA&RE React', phone 01639 730429.%0a%3c %0a%3c The replacement CO2 cyclinders are made by a company called 'Mighty Widget'. %0a%3c Address: Blackpole Trading Estate, Blackpole Road, Worcester, WR3 8ZR.%0a%3c Number: 01905 754720%0a%3c %0a%3c If you speak to 'Leslie', she should know exactly what you're after...%0a\ No newline at end of file%0a
+host:1169739800=155.198.186.235

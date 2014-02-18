@@ -1,0 +1,12 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.8.1.11) Gecko/20071204 Ubuntu/7.10 (gutsy) Firefox/2.0.0.11
+author=
+host=79.75.209.176
+name=Main.ExCommittee
+rev=1
+targets=
+text=!!95/96 - from ICCC-20 Newsletter%0a!!!Club Officials 1995/6:%0a* President Tony Hayden (Tonx)%0a* Treasurer Paul Wilcox (Bond)%0a* Tours Officer Sarah Wingrove (Scuzza)%0a* Secretary Kathryn Atherton%0a* Explo Officer Mark Evans (Mark)%0a* Dig Officer Jim Evans (Jizza)%0a* Webmaster Chris Roberts (Sausage)%0a%0a!!!Mafia/RCC connections%0a* Rob Lea RCC Chairman (Blob)%0a* Paul Wilbox RCC Treasurer%0a* Mark Evans RCC Secretary%0a%0a
+time=1199254739
+author:1199254739=
+diff:1199254739:1199254739:=1,15d0%0a%3c !!95/96 - from ICCC-20 Newsletter%0a%3c !!!Club Officials 1995/6:%0a%3c * President Tony Hayden (Tonx)%0a%3c * Treasurer Paul Wilcox (Bond)%0a%3c * Tours Officer Sarah Wingrove (Scuzza)%0a%3c * Secretary Kathryn Atherton%0a%3c * Explo Officer Mark Evans (Mark)%0a%3c * Dig Officer Jim Evans (Jizza)%0a%3c * Webmaster Chris Roberts (Sausage)%0a%3c %0a%3c !!!Mafia/RCC connections%0a%3c * Rob Lea RCC Chairman (Blob)%0a%3c * Paul Wilbox RCC Treasurer%0a%3c * Mark Evans RCC Secretary%0a%3c %0a
+host:1199254739=79.75.209.176

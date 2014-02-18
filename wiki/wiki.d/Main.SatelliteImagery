@@ -1,0 +1,18 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.4) Gecko/20060508 Firefox/1.5.0.4
+author=
+host=81.178.81.89
+name=Main.SatelliteImagery
+rev=3
+targets=
+text=NASA page on Landsat, cheap sources of Data:%0a%0a[[http://landsat.gsfc.nasa.gov/data/reduced.html]]%0a%0aLandsat year 2000 ETM+ (15m resolution) '''FREE''':%0aData split into multiple bands...%0a%0a[[ftp://ftp.glcf.umiacs.umd.edu/glcf/Landsat/WRS2/p191/r028/p191r028_7x20000816.ETM-EarthSat-Orthorectified/]]%0a
+time=1149383767
+author:1149383767=
+diff:1149383767:1149382766:=5,8c5,7%0a%3c Landsat year 2000 ETM+ (15m resolution) '''FREE''':%0a%3c Data split into multiple bands...%0a%3c %0a%3c [[ftp://ftp.glcf.umiacs.umd.edu/glcf/Landsat/WRS2/p191/r028/p191r028_7x20000816.ETM-EarthSat-Orthorectified/]]%0a---%0a> Landsat year 2000 ETM+ (15m resolution) FREE data: (large TIFF)%0a> %0a> [[http://glcfapp.umiacs.umd.edu:8080/esdi/previewList?granule_id=36385]]%0a\ No newline at end of file%0a
+host:1149383767=81.178.81.89
+author:1149382766=
+diff:1149382766:1149382412:=1,4d0%0a%3c NASA page on Landsat, cheap sources of Data:%0a%3c %0a%3c [[http://landsat.gsfc.nasa.gov/data/reduced.html]]%0a%3c %0a
+host:1149382766=81.178.81.89
+author:1149382412=
+diff:1149382412:1149382412:=1,3d0%0a%3c Landsat year 2000 ETM+ (15m resolution) FREE data: (large TIFF)%0a%3c %0a%3c [[http://glcfapp.umiacs.umd.edu:8080/esdi/previewList?granule_id=36385]]%0a\ No newline at end of file%0a
+host:1149382412=81.178.81.89

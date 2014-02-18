@@ -1,0 +1,12 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.8.1.8) Gecko/20071022 Ubuntu/7.10 (gutsy) Firefox/2.0.0.8
+author=
+host=79.75.141.6
+name=Main.VoltaGora2008EquipmentOrder
+rev=1
+targets=
+text=#Give me rope, lots of rope and a bolting kit in hand, don't fence me in...
+time=1196294654
+author:1196294654=
+diff:1196294654:1196294654:=1d0%0a%3c #Give me rope, lots of rope and a bolting kit in hand, don't fence me in...%0a\ No newline at end of file%0a
+host:1196294654=79.75.141.6

@@ -1,0 +1,15 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.8.1.11) Gecko/20071204 Ubuntu/7.10 (gutsy) Firefox/2.0.0.11
+author=
+host=79.64.73.23
+name=Main.FamousQuotes
+rev=2
+targets=
+text=''There must be a beginning of any great matter, but the continuing unto the end until it be thoroughly finished yields the true glory.'' - Francis Drake ( One I mutter to myself while editing the webshite at 3am... ''Jarv'' )%0a%0a
+time=1197687741
+author:1197687741=
+diff:1197687741:1197687724:=1,2c1,3%0a%3c ''There must be a beginning of any great matter, but the continuing unto the end until it be thoroughly finished yields the true glory.'' - Francis Drake ( One I mutter to myself while editing the webshite at 3am... ''Jarv'' )%0a%3c %0a---%0a> ''There must be a beginning of any great matter, but the continuing unto the end until it be thoroughly finished yields the true glory.'' - Francis Drake%0a> %0a> One I mutter to myself while editing the webshite at 3am... ''Jarv''%0a\ No newline at end of file%0a
+host:1197687741=79.64.73.23
+author:1197687724=
+diff:1197687724:1197687724:=1,3d0%0a%3c ''There must be a beginning of any great matter, but the continuing unto the end until it be thoroughly finished yields the true glory.'' - Francis Drake%0a%3c %0a%3c One I mutter to myself while editing the webshite at 3am... ''Jarv''%0a\ No newline at end of file%0a
+host:1197687724=79.64.73.23

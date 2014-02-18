@@ -1,0 +1,22 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.8.1.12) Gecko/20080207 Ubuntu/7.10 (gutsy) Firefox/2.0.0.12
+author=Jarv
+csum=
+host=79.73.58.9
+name=VotlaGora2008.HotelMigBookings
+rev=4
+targets=
+text=Swanky google document / spreadsheet...%0a%0a[[http://spreadsheets.google.com/pub?key=pHk_eSKWOnFE-Hy3mbfEwHQ]]%0a%0a* '''Your Name Here'''%0a%0a%25blue%25 below is now outdated...%0a* Tet: 5 weeks%0a* Jarv: 5 weeks%0a* Rik: 5 weeks (if supervisor lets him)%0a* Jana: 3 weeks (at start?)%0a
+time=1207086444
+author:1207086444=Jarv
+diff:1207086444:1207086429:=5,6d4%0a%3c * '''Your Name Here'''%0a%3c %0a7a6%0a> %0a11a11,12%0a> %0a> * '''Your Name Here'''%0a\ No newline at end of file%0a
+host:1207086444=79.73.58.9
+author:1207086429=Jarv
+diff:1207086429:1196295146:=1,6d0%0a%3c Swanky google document / spreadsheet...%0a%3c %0a%3c [[http://spreadsheets.google.com/pub?key=pHk_eSKWOnFE-Hy3mbfEwHQ]]%0a%3c %0a%3c %25blue%25 below is now outdated...%0a%3c %0a
+host:1207086429=79.73.58.9
+author:1196295146=
+diff:1196295146:1196295129:=4,6c4%0a%3c * Jana: 3 weeks (at start?)%0a%3c %0a%3c * '''Your Name Here'''%0a\ No newline at end of file%0a---%0a> * Jana: 3 weeks (at start?)%0a\ No newline at end of file%0a
+host:1196295146=79.75.141.6
+author:1196295129=
+diff:1196295129:1196295129:=1,4d0%0a%3c * Tet: 5 weeks%0a%3c * Jarv: 5 weeks%0a%3c * Rik: 5 weeks (if supervisor lets him)%0a%3c * Jana: 3 weeks (at start?)%0a\ No newline at end of file%0a
+host:1196295129=79.75.141.6

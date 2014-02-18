@@ -1,0 +1,12 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.8.1.8) Gecko/20071022 Ubuntu/7.10 (gutsy) Firefox/2.0.0.8
+author=
+host=79.75.141.6
+name=VotlaGora2008.Sponsorship
+rev=1
+targets=
+text='''In Kind'''%0a%0aImagine we need nice small producers so that our letters aren't simply answered by a robot.%0a%0a* Tea - Twinnings (turned us down 2005), Yorkshire (?)%0a* Coffee%0a* Chocolate - Mars, Nestle (both a bit too big to approach?)%0a* Nido - Nestle - any other skimmed milkies out there?%0a* Soreen - Malt Loaves [[http://www.soreen.com/]]%0a%0a
+time=1196295441
+author:1196295441=
+diff:1196295441:1196295441:=1,10d0%0a%3c '''In Kind'''%0a%3c %0a%3c Imagine we need nice small producers so that our letters aren't simply answered by a robot.%0a%3c %0a%3c * Tea - Twinnings (turned us down 2005), Yorkshire (?)%0a%3c * Coffee%0a%3c * Chocolate - Mars, Nestle (both a bit too big to approach?)%0a%3c * Nido - Nestle - any other skimmed milkies out there?%0a%3c * Soreen - Malt Loaves [[http://www.soreen.com/]]%0a%3c %0a
+host:1196295441=79.75.141.6

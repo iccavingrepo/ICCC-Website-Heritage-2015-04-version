@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9b5) Gecko/2008050509 Firefox/3.0b5
+author=
+csum=
+ctime=1213228851
+host=79.74.10.28
+name=Trip.Yorkshire-2008-06-06
+rev=2
+targets=
+text=!Yorkshire%0a%0a[[caving:photo_archive/trips/2008-06-06%2520-%2520yorkshire| Photos]]%0a%0a!!Avalanche - surveying (down via Bar Pot)%0a!!!Team: Jana, Jarv, Tom, Sandeep, Marc%0a%0aOnce again Tom was free and so was his car to drive us long way up to%0aYorkshire.%0a%0aOn Saturday the weather was perfect to walk up Gaping Gill – not to%0ahot and not too sunny. I start rigging at about 2 PM. Later on rigging%0aget a bit complicated, since I kind of manage to take instead of 40m%0arope the 90m rope. The number 9 on the side that I looked look almost%0alike 4. And packing in a rush was an easy mistake. Jarv was the one%0awho suffered that mistake by taking out not just 90m but also another%0awet 60m rope left in Avalanche.%0a%0aFirst time we tried our new laser distance meter. It works great. All%0ayou must be careful is to hold it still, preferably with both hands.%0a%0aWe were back to the hut at 11 PM.%0a%0aBut that the evening would not be to short, we manage to forget the%0aphone near the cave entrance. It was midnight when Jarv and Tom%0asacrifice themselves to walk up again.%0a%0aWe woke up in a perfect Sunday. And a natural response was – let's go walking. We walk up Pen-y-gent. All sunburnt a bit we drove back to%0aLondon.%0a%0a~Jana~
+time=1213662333
+author:1213662333=
+diff:1213662333:1213228851:=3,4d2%0a%3c [[caving:photo_archive/trips/2008-06-06%2520-%2520yorkshire| Photos]]%0a%3c %0a
+host:1213662333=79.74.10.28
+author:1213228851=
+diff:1213228851:1213228851:=1,29d0%0a%3c !Yorkshire%0a%3c %0a%3c !!Avalanche - surveying (down via Bar Pot)%0a%3c !!!Team: Jana, Jarv, Tom, Sandeep, Marc%0a%3c %0a%3c Once again Tom was free and so was his car to drive us long way up to%0a%3c Yorkshire.%0a%3c %0a%3c On Saturday the weather was perfect to walk up Gaping Gill – not to%0a%3c hot and not too sunny. I start rigging at about 2 PM. Later on rigging%0a%3c get a bit complicated, since I kind of manage to take instead of 40m%0a%3c rope the 90m rope. The number 9 on the side that I looked look almost%0a%3c like 4. And packing in a rush was an easy mistake. Jarv was the one%0a%3c who suffered that mistake by taking out not just 90m but also another%0a%3c wet 60m rope left in Avalanche.%0a%3c %0a%3c First time we tried our new laser distance meter. It works great. All%0a%3c you must be careful is to hold it still, preferably with both hands.%0a%3c %0a%3c We were back to the hut at 11 PM.%0a%3c %0a%3c But that the evening would not be to short, we manage to forget the%0a%3c phone near the cave entrance. It was midnight when Jarv and Tom%0a%3c sacrifice themselves to walk up again.%0a%3c %0a%3c We woke up in a perfect Sunday. And a natural response was – let's go walking. We walk up Pen-y-gent. All sunburnt a bit we drove back to%0a%3c London.%0a%3c %0a%3c ~Jana~%0a\ No newline at end of file%0a
+host:1213228851=79.74.10.28

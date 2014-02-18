@@ -1,0 +1,17 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9) Gecko/2008061015 Firefox/3.0
+author=
+csum=
+ctime=1211402756
+host=79.73.30.86
+name=Main.SlovenianTranslations
+rev=2
+targets=
+text=!!2007%0a%0a*Cliff Meander / Klif Meander (S1, new cave from 2007 along from M2, where meander etched into edge of plateau can be seen)%0a%0a!!2005%0a* Captain Kangaroo  - Kapitan Kenguru%0a* Bonus Chamber –  Dvorana bonus%0a* Mud Slump –  Blatni sifon (Mud sniffles / siphon)%0a* Olympic Rift – Olimpijski meander%0a* Traverse Chamber – Dvorana traverza%0a* Ulrika Jonction – Križiš&#269;e Ulrika
+time=1215354011
+author:1215354011=
+diff:1215354011:1211402756:=3,4c3,5%0a%3c *Cliff Meander / Klif Meander (S1, new cave from 2007 along from M2, where meander etched into edge of plateau can be seen)%0a%3c %0a---%0a> Cliff Meander / Klif Meander%0a> (S1, new cave from 2007 along from M2, where meander etched into edge of plateau can be seen)%0a> %0a6,11c7,11%0a%3c * Captain Kangaroo  - Kapitan Kenguru%0a%3c * Bonus Chamber –  Dvorana bonus%0a%3c * Mud Slump –  Blatni sifon (Mud sniffles / siphon)%0a%3c * Olympic Rift – Olimpijski meander%0a%3c * Traverse Chamber – Dvorana traverza%0a%3c * Ulrika Jonction – Križiš&#269;e Ulrika%0a\ No newline at end of file%0a---%0a> %0a> Captain Kangaroo / Kapitan Kangaroo%0a> %0a> Mud Slump / Blatni Snifon %0a> (Mud sniffles / siphon)%0a\ No newline at end of file%0a
+host:1215354011=79.73.30.86
+author:1211402756=
+diff:1211402756:1211402756:=1,11d0%0a%3c !!2007%0a%3c %0a%3c Cliff Meander / Klif Meander%0a%3c (S1, new cave from 2007 along from M2, where meander etched into edge of plateau can be seen)%0a%3c %0a%3c !!2005%0a%3c %0a%3c Captain Kangaroo / Kapitan Kangaroo%0a%3c %0a%3c Mud Slump / Blatni Snifon %0a%3c (Mud sniffles / siphon)%0a\ No newline at end of file%0a
+host:1211402756=155.198.186.162

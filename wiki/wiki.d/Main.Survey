@@ -1,0 +1,21 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.8.1.11) Gecko/20071204 Ubuntu/7.10 (gutsy) Firefox/2.0.0.11
+author=jarv
+host=79.64.75.106
+name=Main.Survey
+rev=4
+targets=
+text='''SAP'''%0a%0aAutomated survey clino/compass (fluxgate?) with logging to memory card. No built in laser distance finder as of yet, but its coming. Talking to Pybus (OUCC) at BPF, most laser rangefinders have random ferrous metals in the optics / containers, which throws compass off (i.e. can't house together, yet). £250 per unit cost, rather crusty user interface - but certainly the way things are going.%0a%0a[[http://shetlandattackpony.co.uk/]]%0a%0a'''Tape Lengths'''%0a%0aRegarding the necessary length of a tape:%0aFrom G.W. 2007 survex data, 795 tape lengths were easily extracted (by grep + regex).%0a* 56/795 ~ 7%25 > 15.00m in length%0a* 2/795 ~ 0%25 > 30.00m in length%0a%0ahttp://www.toolshopdirect.co.uk%0aSeems cheapest for the Lufkin tape measures:%0a* 15m for £23 inc. VAT%0a* 30m for £35.54%0a%0aJarv
+time=1202431136
+author:1202431136=jarv
+diff:1202431136:1187902261:=1,6d0%0a%3c '''SAP'''%0a%3c %0a%3c Automated survey clino/compass (fluxgate?) with logging to memory card. No built in laser distance finder as of yet, but its coming. Talking to Pybus (OUCC) at BPF, most laser rangefinders have random ferrous metals in the optics / containers, which throws compass off (i.e. can't house together, yet). £250 per unit cost, rather crusty user interface - but certainly the way things are going.%0a%3c %0a%3c [[http://shetlandattackpony.co.uk/]]%0a%3c %0a
+host:1202431136=79.64.75.106
+author:1187902261=jarv
+diff:1187902261:1187901899:=6,13c6%0a%3c * 2/795 ~ 0%25 > 30.00m in length%0a%3c %0a%3c http://www.toolshopdirect.co.uk%0a%3c Seems cheapest for the Lufkin tape measures:%0a%3c * 15m for £23 inc. VAT%0a%3c * 30m for £35.54%0a%3c %0a%3c Jarv%0a\ No newline at end of file%0a---%0a> * 2/795 ~ 0%25 > 30.00m in length%0a\ No newline at end of file%0a
+host:1187902261=155.198.186.235
+author:1187901899=jarv
+diff:1187901899:1187901890:=5,6c5,6%0a%3c * 56/795 ~ 7%25 > 15.00m in length%0a%3c * 2/795 ~ 0%25 > 30.00m in length%0a\ No newline at end of file%0a---%0a> 56/795 ~ 7%25 > 15.00m in length%0a> 2/795 ~ 0%25 > 30.00m in length%0a\ No newline at end of file%0a
+host:1187901899=155.198.186.235
+author:1187901890=jarv
+diff:1187901890:1187901890:=1,6d0%0a%3c '''Tape Lengths'''%0a%3c %0a%3c Regarding the necessary length of a tape:%0a%3c From G.W. 2007 survex data, 795 tape lengths were easily extracted (by grep + regex).%0a%3c 56/795 ~ 7%25 > 15.00m in length%0a%3c 2/795 ~ 0%25 > 30.00m in length%0a\ No newline at end of file%0a
+host:1187901890=155.198.186.235

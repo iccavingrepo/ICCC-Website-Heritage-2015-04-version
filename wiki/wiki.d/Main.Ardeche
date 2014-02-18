@@ -1,0 +1,15 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.11) Gecko/20070312 Firefox/1.5.0.11
+author=
+host=212.1.143.82
+name=Main.Ardeche
+rev=2
+targets=
+text=Dave Loeffler's been here lots, and there's a few cave LOCATION guides on the CUCC webshite: [[http://cucc.survex.com/cucc/ardeche/]]%0a%0aThis is all a supplement to: Speleo Sportive en Ardèche%0a%0aEuro 10.45 on Amazon.fr: [[http://www.amazon.fr/Sp%25C3%25A9l%25C3%25A9o-sportive-en-Ard%25C3%25A8che-Drouin/dp/285744401X/ref=sr_1_1/171-9185929-8736218?ie=UTF8&s=books&qid=1176151397&sr=8-1]]
+time=1176151463
+author:1176151463=
+diff:1176151463:1175891698:=1,5c1%0a%3c Dave Loeffler's been here lots, and there's a few cave LOCATION guides on the CUCC webshite: [[http://cucc.survex.com/cucc/ardeche/]]%0a%3c %0a%3c This is all a supplement to: Speleo Sportive en Ardèche%0a%3c %0a%3c Euro 10.45 on Amazon.fr: [[http://www.amazon.fr/Sp%25C3%25A9l%25C3%25A9o-sportive-en-Ard%25C3%25A8che-Drouin/dp/285744401X/ref=sr_1_1/171-9185929-8736218?ie=UTF8&s=books&qid=1176151397&sr=8-1]]%0a\ No newline at end of file%0a---%0a> Dave Loeffler's been here lots, and there's a few location-guides on the CUCC webshite.%0a\ No newline at end of file%0a
+host:1176151463=212.1.143.82
+author:1175891698=
+diff:1175891698:1175891698:=1d0%0a%3c Dave Loeffler's been here lots, and there's a few location-guides on the CUCC webshite.%0a\ No newline at end of file%0a
+host:1175891698=155.198.186.235

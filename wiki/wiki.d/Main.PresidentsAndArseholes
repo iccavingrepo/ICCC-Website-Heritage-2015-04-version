@@ -1,0 +1,18 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.0.7) Gecko/20060919 Firefox/1.5.0.7
+author=jarv
+host=155.198.186.162
+name=Main.PresidentsAndArseholes
+rev=3
+targets=
+text='''Objective'''%0a%0aGet rid of your cards.%0a%0a'''Ranks'''%0a%0aSuits don't matter. Aces high.%0aUse two decks if people>7. Doesn't matter if people start with diff. number of cards.%0a%0a'''Rules'''%0a%0aFirst person starts with i.e. two 7s. Following person has to either pass, or play a higher set i.e. two Jacks. After a full round of passing, played cards are turned over and person to left starts play again.%0aDo not have to play, can pass then play etc.%0a%0a'''P&A'''%0a%0aFirst person to get rid of cards is President, second is Vice President. Last two are Vice Arsehole and Arsehole.%0a%0aOn next round, Arsehole gives two highest ranking cards to Pres, Pres gives two worst (his choice) to arsehole. Same for vice pres + vice arse, except one card.%0a%0a'''Cheating'''%0a%0aStrongly encouraged. In particular, hiding other cards below the correct top card (i.e. putting down 3,4,5,5 instead of 5,5,5,5) works quite well.
+time=1191097924
+author:1191097924=jarv
+diff:1191097924:1191097910:=2d1%0a%3c %0a6d4%0a%3c %0a11d8%0a%3c %0a
+host:1191097924=155.198.186.162
+author:1191097910=jarv
+diff:1191097910:1191097902:=1c1%0a%3c '''Objective'''%0a---%0a> '''Objective''%0a
+host:1191097910=155.198.186.162
+author:1191097902=jarv
+diff:1191097902:1191097902:=1,20d0%0a%3c '''Objective''%0a%3c Get rid of your cards.%0a%3c %0a%3c '''Ranks'''%0a%3c Suits don't matter. Aces high.%0a%3c Use two decks if people>7. Doesn't matter if people start with diff. number of cards.%0a%3c %0a%3c '''Rules'''%0a%3c First person starts with i.e. two 7s. Following person has to either pass, or play a higher set i.e. two Jacks. After a full round of passing, played cards are turned over and person to left starts play again.%0a%3c Do not have to play, can pass then play etc.%0a%3c %0a%3c '''P&A'''%0a%3c %0a%3c First person to get rid of cards is President, second is Vice President. Last two are Vice Arsehole and Arsehole.%0a%3c %0a%3c On next round, Arsehole gives two highest ranking cards to Pres, Pres gives two worst (his choice) to arsehole. Same for vice pres + vice arse, except one card.%0a%3c %0a%3c '''Cheating'''%0a%3c %0a%3c Strongly encouraged. In particular, hiding other cards below the correct top card (i.e. putting down 3,4,5,5 instead of 5,5,5,5) works quite well.%0a\ No newline at end of file%0a
+host:1191097902=155.198.186.162

@@ -1,0 +1,12 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.0.7) Gecko/20060919 Firefox/1.5.0.7
+author=jarv
+host=155.198.186.235
+name=Main.RubbishInBeitQuad
+rev=1
+targets=
+text=We got our hands slapped Aug 08 for leaving rubbish next to the bins, apparently carrying it 50m across the quad to the grey steel rubbish lockup makes all the difference: go up to union reception if its locked.%0a%0aDon't forget when clearing stores - we were threatened with a fine!
+time=1187366977
+author:1187366977=jarv
+diff:1187366977:1187366977:=1,3d0%0a%3c We got our hands slapped Aug 08 for leaving rubbish next to the bins, apparently carrying it 50m across the quad to the grey steel rubbish lockup makes all the difference: go up to union reception if its locked.%0a%3c %0a%3c Don't forget when clearing stores - we were threatened with a fine!%0a\ No newline at end of file%0a
+host:1187366977=155.198.186.235

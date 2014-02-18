@@ -1,0 +1,26 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9b5) Gecko/2008050509 Firefox/3.0b5
+author=
+csum=
+ctime=1210106233
+host=79.73.6.103
+name=Main.Kataster
+rev=5
+targets=
+text=Basically, Form A is for new caves, Form B is for updates to registered caves and Form E is for survey information.%0a%0aVia Miha Cekada, head of the Cave Registry of the Speleological Association of Slovenia%0a%0aThe procedure%0aincluding the forms is extensively described in%0a[[http://www.jamarska-zveza.si/kataster/navodila.html]]%0aThere is an English version (in construction) at%0a[[http://www.jamarska-zveza.si/cave_registry/instructions.html]]%0aThe most appropriate option is to fill in the Slovenian form in Slovene, but%0ayou may opt for an English one as well. Try to fill in as many forms as you%0acan, with special emphasys on the metric data (location, dimensions). A%0asurvey is a must, however, if you haven't measured the cave extensively, a%0asketch is possible, or even a sketch of the upper part of the cave.%0a%0a!!Dictionary%0a%0a* North = Sever%0a* South = Jug%0a* East = Vzhod%0a* West = Zahod%0a%0a* N_mag = S_mag%0a%0a* Plan = Tloris%0a* North-South Projection = SEVER-JUG PROJEKCIJA%0a%0a!!Kataster Official Reference Numbers for Mig%0a%0a||border=1%0a|| M1 || 4621 ||%0a|| M2 || 4465 ||%0a|| M3 || 4468 ||%0a|| M4 || 4485 ||%0a|| M5 || 4469 ||%0a|| M6 || 4622 ||%0a|| M7 || 4623 || %0a|| M8 || 4624 ||%0a|| M9 || 4625 ||%0a|| M10 || 4626 ||%0a|| M11 || 4627 ||%0a|| M12 || 4628 ||%0a|| M13 || 4629 ||%0a|| M14 || 4630 ||%0a|| M15 || 4631 ||%0a|| M16 || 6001 ||%0a|| M17 || 5878 ||%0a|| M18 || 8284 || Torn-T, 1995? ||%0a|| M19 || 8285 ||%0a|| M20 || 8286 || White Shiver Pot ||%0a|| M21 || 8287 || B9 / Jackie's Blower 1995 ||%0a|| M22 || 8288 || Venus Fly Trap ||%0a|| M23 || 8289 || Julie's Pantry ||%0a|| M24 || 8290 || PF10 ||%0a|| Vrtnarija || 8283 || Gardeners' World ||%0a||Primadona || 8282 || Also now U-Bend ||%0a|| Planika || TBA ||%0a|| Monatip || TBA ||
+time=1212360821
+author:1212360821=
+diff:1212360821:1212358809:=32,35d31%0a%3c || M2 || 4465 ||%0a%3c || M3 || 4468 ||%0a%3c || M4 || 4485 ||%0a%3c || M5 || 4469 ||%0a
+host:1212360821=79.73.6.103
+author:1212358809=
+diff:1212358809:1210110453:=26,54c26%0a%3c * North-South Projection = SEVER-JUG PROJEKCIJA%0a%3c %0a%3c !!Kataster Official Reference Numbers for Mig%0a%3c %0a%3c ||border=1%0a%3c || M1 || 4621 ||%0a%3c || M6 || 4622 ||%0a%3c || M7 || 4623 || %0a%3c || M8 || 4624 ||%0a%3c || M9 || 4625 ||%0a%3c || M10 || 4626 ||%0a%3c || M11 || 4627 ||%0a%3c || M12 || 4628 ||%0a%3c || M13 || 4629 ||%0a%3c || M14 || 4630 ||%0a%3c || M15 || 4631 ||%0a%3c || M16 || 6001 ||%0a%3c || M17 || 5878 ||%0a%3c || M18 || 8284 || Torn-T, 1995? ||%0a%3c || M19 || 8285 ||%0a%3c || M20 || 8286 || White Shiver Pot ||%0a%3c || M21 || 8287 || B9 / Jackie's Blower 1995 ||%0a%3c || M22 || 8288 || Venus Fly Trap ||%0a%3c || M23 || 8289 || Julie's Pantry ||%0a%3c || M24 || 8290 || PF10 ||%0a%3c || Vrtnarija || 8283 || Gardeners' World ||%0a%3c ||Primadona || 8282 || Also now U-Bend ||%0a%3c || Planika || TBA ||%0a%3c || Monatip || TBA ||%0a\ No newline at end of file%0a---%0a> * North-South Projection = SEVER-JUG PROJEKCIJA%0a\ No newline at end of file%0a
+host:1212358809=79.73.6.103
+author:1210110453=
+diff:1210110453:1210110398:=18,26c18,26%0a%3c * North = Sever%0a%3c * South = Jug%0a%3c * East = Vzhod%0a%3c * West = Zahod%0a%3c %0a%3c * N_mag = S_mag%0a%3c %0a%3c * Plan = Tloris%0a%3c * North-South Projection = SEVER-JUG PROJEKCIJA%0a\ No newline at end of file%0a---%0a> North = Sever%0a> South = Jug%0a> East = Vzhod%0a> West = Zahod%0a> %0a> N_mag = S_mag%0a> %0a> Plan = Tloris%0a> North-South Projection = SEVER-JUG PROJEKCIJA%0a\ No newline at end of file%0a
+host:1210110453=79.73.124.190
+author:1210110398=
+diff:1210110398:1210106233:=15,26d14%0a%3c %0a%3c !!Dictionary%0a%3c %0a%3c North = Sever%0a%3c South = Jug%0a%3c East = Vzhod%0a%3c West = Zahod%0a%3c %0a%3c N_mag = S_mag%0a%3c %0a%3c Plan = Tloris%0a%3c North-South Projection = SEVER-JUG PROJEKCIJA%0a\ No newline at end of file%0a
+host:1210110398=79.73.124.190
+author:1210106233=
+diff:1210106233:1210106233:=1,14d0%0a%3c Basically, Form A is for new caves, Form B is for updates to registered caves and Form E is for survey information.%0a%3c %0a%3c Via Miha Cekada, head of the Cave Registry of the Speleological Association of Slovenia%0a%3c %0a%3c The procedure%0a%3c including the forms is extensively described in%0a%3c [[http://www.jamarska-zveza.si/kataster/navodila.html]]%0a%3c There is an English version (in construction) at%0a%3c [[http://www.jamarska-zveza.si/cave_registry/instructions.html]]%0a%3c The most appropriate option is to fill in the Slovenian form in Slovene, but%0a%3c you may opt for an English one as well. Try to fill in as many forms as you%0a%3c can, with special emphasys on the metric data (location, dimensions). A%0a%3c survey is a must, however, if you haven't measured the cave extensively, a%0a%3c sketch is possible, or even a sketch of the upper part of the cave.%0a
+host:1210106233=79.73.124.190

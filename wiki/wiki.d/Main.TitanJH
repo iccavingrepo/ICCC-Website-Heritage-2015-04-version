@@ -1,0 +1,12 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.8.1.12) Gecko/20080207 Ubuntu/7.10 (gutsy) Firefox/2.0.0.12
+author=jarvjan
+host=79.64.75.106
+name=Main.TitanJH
+rev=1
+targets=
+text=Based on trip of 2008-02-08 [[http://www.union.ic.ac.uk/rcc/caving/derbyshire/derbyshire-2008-02-08.php]]%0a%0a!! Titan --> JH%0a%0aJan: for what its worth this is the bit from Titan to JH.%0a%0aTitan, crawl under large slab and you'll see scaffold pole, pop out into a%0achamber, cross straight over slide down slot with fixed rope, pop out into%0atop of chamber climb down fixed rope and down to a streamway, turn right%0aoff the streamway by roll of conservation tape, fixed ladder, traverse,%0afixed ladder, traverse, pass two ropes hanging down, straight on (not%0aright) to flat out crawling in sharp gravel/glutinous mud/through a gate,%0aLeviathan.
+time=1202829854
+author:1202829854=jarvjan
+diff:1202829854:1202829854:=1,13d0%0a%3c Based on trip of 2008-02-08 [[http://www.union.ic.ac.uk/rcc/caving/derbyshire/derbyshire-2008-02-08.php]]%0a%3c %0a%3c !! Titan --> JH%0a%3c %0a%3c Jan: for what its worth this is the bit from Titan to JH.%0a%3c %0a%3c Titan, crawl under large slab and you'll see scaffold pole, pop out into a%0a%3c chamber, cross straight over slide down slot with fixed rope, pop out into%0a%3c top of chamber climb down fixed rope and down to a streamway, turn right%0a%3c off the streamway by roll of conservation tape, fixed ladder, traverse,%0a%3c fixed ladder, traverse, pass two ropes hanging down, straight on (not%0a%3c right) to flat out crawling in sharp gravel/glutinous mud/through a gate,%0a%3c Leviathan.%0a\ No newline at end of file%0a
+host:1202829854=79.64.75.106

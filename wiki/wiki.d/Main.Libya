@@ -1,0 +1,12 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en) AppleWebKit/419 (KHTML, like Gecko) Safari/419.3
+author=
+host=194.247.233.54
+name=Main.Libya
+rev=1
+targets=
+text=Prev. 1959 CUCC Expo there:%0a[[http://cucc.survex.com/archive/jnl/others/libya.htm]]%0a%0aGoat + 2; looking for aquifiers - 4 weeks in Nov 2006. Is this written up somewhere?
+time=1179589096
+author:1179589096=
+diff:1179589096:1179589096:=1,4d0%0a%3c Prev. 1959 CUCC Expo there:%0a%3c [[http://cucc.survex.com/archive/jnl/others/libya.htm]]%0a%3c %0a%3c Goat + 2; looking for aquifiers - 4 weeks in Nov 2006. Is this written up somewhere?%0a\ No newline at end of file%0a
+host:1179589096=194.247.233.54

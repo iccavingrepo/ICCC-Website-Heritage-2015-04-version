@@ -1,0 +1,37 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9.0.14) Gecko/2009090216 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+author=
+csum=
+host=86.177.14.63
+name=Main.Weather
+rev=9
+targets=
+text=%0a'''Met Office Mountain Forecasts (Recommended!)'''%0a* http://www.metoffice.com/loutdoor/mountainsafety/yorkshiredales/yorkshiredales_forecast_print.html '''Dales'''%0a* http://www.metoffice.com/loutdoor/mountainsafety/brecon/brecon_forecast_print.html '''Brecon'''%0a* http://www.metoffice.com/loutdoor/mountainsafety/peakdistrict/peakdistrict_forecast_print.html '''Peaks'''%0a%0a'''Met Office Regional Breakdown:'''%0a* http://www.metoffice.gov.uk/weather/europe/uk/wales.html%0a* http://www.metoffice.gov.uk/weather/europe/uk/westcountry.html%0a* http://www.metoffice.gov.uk/weather/europe/uk/midlands.html%0a* http://www.metoffice.gov.uk/weather/europe/uk/yorkslincs.html%0a%0a[[http://www.cavedivinggroup.org.uk/cgi-bin/vishtml | Cave Rainfall]] '''V Useful for past history in caving areas - CDG organised'''%0a%0a'''BBC 5 Day Forecasts:'''%0a* [[http://www.bbc.co.uk/weather/5day.shtml?id=3422 | Buxton/Derbyshire]] %0a* [[http://www.bbc.co.uk/weather/5day.shtml?id=2459  |Kendal/Yorkshire ]]%0a* [[http://www.bbc.co.uk/weather/5day.shtml?id=1137  |Wells/Mendips ]]%0a* [[http://www.bbc.co.uk/weather/5day.shtml?id=2854  |Newport/Wales ]]
+time=1256082383
+author:1256082383=
+diff:1256082383:1207940496:=1,6c1,6%0a%3c %0a%3c '''Met Office Mountain Forecasts (Recommended!)'''%0a%3c * http://www.metoffice.com/loutdoor/mountainsafety/yorkshiredales/yorkshiredales_forecast_print.html '''Dales'''%0a%3c * http://www.metoffice.com/loutdoor/mountainsafety/brecon/brecon_forecast_print.html '''Brecon'''%0a%3c * http://www.metoffice.com/loutdoor/mountainsafety/peakdistrict/peakdistrict_forecast_print.html '''Peaks'''%0a%3c %0a---%0a> '''BBC 5 Day Forecasts:'''%0a> * [[http://www.bbc.co.uk/weather/5day.shtml?id=3422 | Buxton/Derbyshire]] %0a> * [[http://www.bbc.co.uk/weather/5day.shtml?id=2459  |Kendal/Yorkshire ]]%0a> * [[http://www.bbc.co.uk/weather/5day.shtml?id=1137  |Wells/Mendips ]]%0a> * [[http://www.bbc.co.uk/weather/5day.shtml?id=2854  |Newport/Wales ]]%0a> %0a13,19c13%0a%3c [[http://www.cavedivinggroup.org.uk/cgi-bin/vishtml | Cave Rainfall]] '''V Useful for past history in caving areas - CDG organised'''%0a%3c %0a%3c '''BBC 5 Day Forecasts:'''%0a%3c * [[http://www.bbc.co.uk/weather/5day.shtml?id=3422 | Buxton/Derbyshire]] %0a%3c * [[http://www.bbc.co.uk/weather/5day.shtml?id=2459  |Kendal/Yorkshire ]]%0a%3c * [[http://www.bbc.co.uk/weather/5day.shtml?id=1137  |Wells/Mendips ]]%0a%3c * [[http://www.bbc.co.uk/weather/5day.shtml?id=2854  |Newport/Wales ]]%0a\ No newline at end of file%0a---%0a> [[http://www.cavedivinggroup.org.uk/cgi-bin/vishtml | Cave Rainfall]] '''VERY USEFUL'''%0a\ No newline at end of file%0a
+host:1256082383=86.177.14.63
+author:1207940496=Jarv
+diff:1207940496:1207940481:=13c13%0a%3c [[http://www.cavedivinggroup.org.uk/cgi-bin/vishtml | Cave Rainfall]] '''VERY USEFUL'''%0a\ No newline at end of file%0a---%0a> [[http://www.cavedivinggroup.org.uk/cgi-bin/vishtml | Cave Rainfall]] '''VERY USEFUL''' t%0a\ No newline at end of file%0a
+host:1207940496=155.198.186.162
+author:1207940481=Jarv
+diff:1207940481:1197584572:=13c13%0a%3c [[http://www.cavedivinggroup.org.uk/cgi-bin/vishtml | Cave Rainfall]] '''VERY USEFUL''' t%0a\ No newline at end of file%0a---%0a> [[http://www.cavedivinggroup.org.uk/cgi-bin/vishtml | Cave Rainfall]] '''VERY USEFUL'''%0a\ No newline at end of file%0a
+host:1207940481=155.198.186.162
+author:1197584572=
+diff:1197584572:1197584558:=8,12c8,12%0a%3c * http://www.metoffice.gov.uk/weather/europe/uk/wales.html%0a%3c * http://www.metoffice.gov.uk/weather/europe/uk/westcountry.html%0a%3c * http://www.metoffice.gov.uk/weather/europe/uk/midlands.html%0a%3c * http://www.metoffice.gov.uk/weather/europe/uk/yorkslincs.html%0a%3c %0a---%0a> http://www.metoffice.gov.uk/weather/europe/uk/wales.html%0a> http://www.metoffice.gov.uk/weather/europe/uk/westcountry.html%0a> http://www.metoffice.gov.uk/weather/europe/uk/midlands.html%0a> http://www.metoffice.gov.uk/weather/europe/uk/yorkslincs.html%0a> %0a
+host:1197584572=79.64.73.23
+author:1197584558=
+diff:1197584558:1197584542:=1c1%0a%3c '''BBC 5 Day Forecasts:'''%0a---%0a> BBC 5 Day Forecasts:%0a7c7%0a%3c '''Met Office Regional Breakdown:'''%0a---%0a> Met Office Regional Breakdown:%0a
+host:1197584558=79.64.73.23
+author:1197584542=
+diff:1197584542:1187902878:=7,12d6%0a%3c Met Office Regional Breakdown:%0a%3c http://www.metoffice.gov.uk/weather/europe/uk/wales.html%0a%3c http://www.metoffice.gov.uk/weather/europe/uk/westcountry.html%0a%3c http://www.metoffice.gov.uk/weather/europe/uk/midlands.html%0a%3c http://www.metoffice.gov.uk/weather/europe/uk/yorkslincs.html%0a%3c %0a
+host:1197584542=79.64.73.23
+author:1187902878=jarv
+diff:1187902878:1155993613:=2,6c2,6%0a%3c * [[http://www.bbc.co.uk/weather/5day.shtml?id=3422 | Buxton/Derbyshire]] %0a%3c * [[http://www.bbc.co.uk/weather/5day.shtml?id=2459  |Kendal/Yorkshire ]]%0a%3c * [[http://www.bbc.co.uk/weather/5day.shtml?id=1137  |Wells/Mendips ]]%0a%3c * [[http://www.bbc.co.uk/weather/5day.shtml?id=2854  |Newport/Wales ]]%0a%3c %0a---%0a> [[http://www.bbc.co.uk/weather/5day.shtml?id=3422 | Buxton/Derbyshire]] %0a> [[http://www.bbc.co.uk/weather/5day.shtml?id=2459  |Kendal/Yorkshire ]]%0a> [[http://www.bbc.co.uk/weather/5day.shtml?id=1137  |Wells/Mendips ]]%0a> [[http://www.bbc.co.uk/weather/5day.shtml?id=2854  |Newport/Wales ]]%0a> %0a
+host:1187902878=155.198.186.235
+author:1155993613=
+diff:1155993613:1148131434:=1d0%0a%3c BBC 5 Day Forecasts:%0a
+host:1155993613=82.154.34.84
+author:1148131434=
+diff:1148131434:1148131434:=1,6d0%0a%3c [[http://www.bbc.co.uk/weather/5day.shtml?id=3422 | Buxton/Derbyshire]] %0a%3c [[http://www.bbc.co.uk/weather/5day.shtml?id=2459  |Kendal/Yorkshire ]]%0a%3c [[http://www.bbc.co.uk/weather/5day.shtml?id=1137  |Wells/Mendips ]]%0a%3c [[http://www.bbc.co.uk/weather/5day.shtml?id=2854  |Newport/Wales ]]%0a%3c %0a%3c [[http://www.cavedivinggroup.org.uk/cgi-bin/vishtml | Cave Rainfall]] '''VERY USEFUL'''%0a\ No newline at end of file%0a
+host:1148131434=81.179.154.66

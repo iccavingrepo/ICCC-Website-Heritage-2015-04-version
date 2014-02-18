@@ -1,0 +1,12 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.8.1.8) Gecko/20071022 Ubuntu/7.10 (gutsy) Firefox/2.0.0.8
+author=
+host=79.75.141.6
+name=VoltaGora2008.HomePage
+rev=1
+targets=VoltaGora2008.Slovenia2007Logbook,VoltaGora2008.Sponsorship,VoltaGora2008.EquipmentOrder,VoltaGora2008.HotelMigBookings
+text='''[[http://union.ic.ac.uk/caving/slovenia/slov2008 | Content on Main Website]] '''%0a%0a2008 Dates: 12th July -> 17th August (5 weeks)%0a%0a%0a[[Slovenia2007Logbook | Stuff left up top 2007]] :- Could keep a platoon gainfully employed for a month...%0a%0a%0aJust putting some placeholders that should be here, ''Jarv''%0a%0a[[VoltaGora2008/Sponsorship]]%0a%0a[[VoltaGora2008/EquipmentOrder]]%0a%0a[[VoltaGora2008/HotelMigBookings]]
+time=1196294808
+author:1196294808=
+diff:1196294808:1196294808:=1,15d0%0a%3c '''[[http://union.ic.ac.uk/caving/slovenia/slov2008 | Content on Main Website]] '''%0a%3c %0a%3c 2008 Dates: 12th July -> 17th August (5 weeks)%0a%3c %0a%3c %0a%3c [[Slovenia2007Logbook | Stuff left up top 2007]] :- Could keep a platoon gainfully employed for a month...%0a%3c %0a%3c %0a%3c Just putting some placeholders that should be here, ''Jarv''%0a%3c %0a%3c [[VoltaGora2008/Sponsorship]]%0a%3c %0a%3c [[VoltaGora2008/EquipmentOrder]]%0a%3c %0a%3c [[VoltaGora2008/HotelMigBookings]]%0a\ No newline at end of file%0a
+host:1196294808=79.75.141.6

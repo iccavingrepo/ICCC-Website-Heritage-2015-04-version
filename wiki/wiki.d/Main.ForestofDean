@@ -1,0 +1,21 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.0.7) Gecko/20060919 Firefox/1.5.0.7
+author=
+host=155.198.186.235
+name=Main.ForestofDean
+rev=4
+targets=Main.MissGracesLane
+text=The Royal Forest of Dean Caving Club (RFDCC) are the people to talk to:%0ahttp://www.rfdcc.org.uk/%0a%0aBen Banfield: Selected caves seems to only cover Slaughter Stream in Forest of Dean. Three bypassable sumps, a low damp crawl and only a small amount of rope needed.  Sounds interesting.%0a%0aThara: There is detailed guide for MissGracesLane on RFDCC website%0a%0aDTT have a short slaughtered writeup:%0ahttp://www.oucc.org.uk/dtt/vol06/dtt6_26.htm%0a
+time=1175782780
+author:1175782780=
+diff:1175782780:1175782740:=1,3d0%0a%3c The Royal Forest of Dean Caving Club (RFDCC) are the people to talk to:%0a%3c http://www.rfdcc.org.uk/%0a%3c %0a
+host:1175782780=155.198.186.235
+author:1175782740=
+diff:1175782740:1175782685:=5c5%0a%3c DTT have a short slaughtered writeup:%0a---%0a> Another site that might be useful:%0a
+host:1175782740=155.198.186.235
+author:1175782685=
+diff:1175782685:1175782505:=5a6%0a> %0a6a8,12%0a> %0a> apparrently you can get more information from these clubs%0a> (http://www.rrcpc.org.uk/C_surveys_q_s.htm):%0a> Craven Pothole Club%0a> Caves and Caving%0a\ No newline at end of file%0a
+host:1175782685=155.198.186.235
+author:1175782505=
+diff:1175782505:1175782505:=1,12d0%0a%3c Ben Banfield: Selected caves seems to only cover Slaughter Stream in Forest of Dean. Three bypassable sumps, a low damp crawl and only a small amount of rope needed.  Sounds interesting.%0a%3c %0a%3c Thara: There is detailed guide for MissGracesLane on RFDCC website%0a%3c %0a%3c Another site that might be useful:%0a%3c %0a%3c http://www.oucc.org.uk/dtt/vol06/dtt6_26.htm%0a%3c %0a%3c apparrently you can get more information from these clubs%0a%3c (http://www.rrcpc.org.uk/C_surveys_q_s.htm):%0a%3c Craven Pothole Club%0a%3c Caves and Caving%0a\ No newline at end of file%0a
+host:1175782505=155.198.186.235

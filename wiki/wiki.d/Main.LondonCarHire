@@ -1,0 +1,22 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.9.0.14) Gecko/2009090216 Ubuntu/9.04 (jaunty) Firefox/3.0.14
+author=Jarv
+csum=Added Streetcar
+ctime=1220750941
+host=86.180.120.217
+name=Main.LondonCarHire
+rev=3
+targets=
+text=!!We love streetcar!%0a%0aWell - at least since they gave 'unlimited' (* subject to fair use policy) mileage on >24hr hires. The fair use stipulates something like 200miles per day, which if you consider each Calendar day + the usual time out of London, allows one to get to Yorkshire entirely within mileage, and get back at a bit of a push + fine if you don't mind being back late.%0a%0aSixt [[http://www.sixt.co.uk/]] have a hire place in Olympia. Not open on Sundays.%0a%0aIn Sept 2008, booking for a sensible caving weekend 5 weeks in advance with the cheapest pos was £95.%0a%0aAvis [[http://www.avis.co.uk]] have one in Earls Court, just off Warwick Way (20 Seagrave Rd, SW6 1RX), near the big Tescos. They have out of hours return.%0a%0aPrice ~£110 for same as above, Sept 08.%0a£224.26 for 10day hire over Christmas for economy 4 seater.%0a%0aAlamo [[https://www.alamo.co.uk]] have an office in Kennington (SW9 OJJ), and will do a micro car (website has amazing graphics, with little, med & big passengers - inviting a squeezing comp!) for £63.%0aIn Fulham (SW6 2JR) the same options are £77. £14 for going South of the River - hah!%0aVauxhall Corsa 10 day hire over christmas (winter tour) ~£250.%0a%0aYoung driver surcharge of £9 pd (23-24), or £15 pd (21-22).%0aWeird rule where if you book for >5days, they fill up for you & charge a complete tank of petrol. Mmm, driving home on fumes to fight the fascists.
+time=1255020809
+author:1255020809=Jarv
+csum:1255020809=Added Streetcar
+diff:1255020809:1220751469:=1,4d0%0a%3c !!We love streetcar!%0a%3c %0a%3c Well - at least since they gave 'unlimited' (* subject to fair use policy) mileage on >24hr hires. The fair use stipulates something like 200miles per day, which if you consider each Calendar day + the usual time out of London, allows one to get to Yorkshire entirely within mileage, and get back at a bit of a push + fine if you don't mind being back late.%0a%3c %0a
+host:1255020809=86.180.120.217
+author:1220751469=
+diff:1220751469:1220750941:=8,9c8%0a%3c £224.26 for 10day hire over Christmas for economy 4 seater.%0a%3c %0a---%0a> %0a11,15c10,11%0a%3c In Fulham (SW6 2JR) the same options are £77. £14 for going South of the River - hah!%0a%3c Vauxhall Corsa 10 day hire over christmas (winter tour) ~£250.%0a%3c %0a%3c Young driver surcharge of £9 pd (23-24), or £15 pd (21-22).%0a%3c Weird rule where if you book for >5days, they fill up for you & charge a complete tank of petrol. Mmm, driving home on fumes to fight the fascists.%0a\ No newline at end of file%0a---%0a> %0a> Young driver surcharge of £9 pd (23-24), or £15 pd (21-22).%0a\ No newline at end of file%0a
+host:1220751469=86.129.180.110
+author:1220750941=Jarv
+csum:1220750941=Initial data trawl
+diff:1220750941:1220750941:=1,11d0%0a%3c Sixt [[http://www.sixt.co.uk/]] have a hire place in Olympia. Not open on Sundays.%0a%3c %0a%3c In Sept 2008, booking for a sensible caving weekend 5 weeks in advance with the cheapest pos was £95.%0a%3c %0a%3c Avis [[http://www.avis.co.uk]] have one in Earls Court, just off Warwick Way (20 Seagrave Rd, SW6 1RX), near the big Tescos. They have out of hours return.%0a%3c %0a%3c Price ~£110 for same as above, Sept 08.%0a%3c %0a%3c Alamo [[https://www.alamo.co.uk]] have an office in Kennington (SW9 OJJ), and will do a micro car (website has amazing graphics, with little, med & big passengers - inviting a squeezing comp!) for £63.%0a%3c %0a%3c Young driver surcharge of £9 pd (23-24), or £15 pd (21-22).%0a\ No newline at end of file%0a
+host:1220750941=86.129.180.110

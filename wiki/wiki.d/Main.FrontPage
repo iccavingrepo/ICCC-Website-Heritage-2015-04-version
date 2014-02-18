@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.0.7) Gecko/20060919 Firefox/1.5.0.7
+author=
+csum=
+ctime=1206126535
+host=155.198.186.162
+name=Main.FrontPage
+rev=1
+targets=
+text=!Bang test%0a!!Bang Bang test%0a!!! Bang Bang Bang test%0a%0ahr%0a----%0a%0a''italics'', '''bold''', '''''bold italics''''', @@typewriter@@ 
+time=1206126535
+author:1206126535=
+diff:1206126535:1206126535:=1,8d0%0a%3c !Bang test%0a%3c !!Bang Bang test%0a%3c !!! Bang Bang Bang test%0a%3c %0a%3c hr%0a%3c ----%0a%3c %0a%3c ''italics'', '''bold''', '''''bold italics''''', @@typewriter@@ %0a\ No newline at end of file%0a
+host:1206126535=155.198.186.162

@@ -1,0 +1,12 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.3) Gecko/20060426 Firefox/1.5.0.3
+author=
+host=81.179.154.66
+name=Main.AquaMole
+rev=1
+targets=
+text=Aquamole rope lengths%0a%0aEntrance pitch:%0a70m rope, can be done with a single length, 25m and 45m or 35m and 35m.%0a12 mions%0a%0aMiddle pitch:%0a25m rope & 3 mions.%0a%0aFinal (quite impressive) pitch:%0a55m rope%0a3 x 8' slings and crabs%0a5 mions
+time=1148129832
+author:1148129832=
+diff:1148129832:1148129832:=1,13d0%0a%3c Aquamole rope lengths%0a%3c %0a%3c Entrance pitch:%0a%3c 70m rope, can be done with a single length, 25m and 45m or 35m and 35m.%0a%3c 12 mions%0a%3c %0a%3c Middle pitch:%0a%3c 25m rope & 3 mions.%0a%3c %0a%3c Final (quite impressive) pitch:%0a%3c 55m rope%0a%3c 3 x 8' slings and crabs%0a%3c 5 mions%0a\ No newline at end of file%0a
+host:1148129832=81.179.154.66

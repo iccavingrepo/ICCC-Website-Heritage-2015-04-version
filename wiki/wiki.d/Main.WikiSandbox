@@ -1,0 +1,25 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9b3) Gecko/2008020513 Firefox/3.0b3
+author=
+csum=
+host=79.74.74.166
+name=Main.WikiSandbox
+rev=8
+targets=PmWiki.TextFormattingRules,Main.SimpleTables,Main.AdvancedTables
+text=Feel free to use this page to experiment with the [[PmWiki/Text Formatting Rules]].  Just click the "Edit Page" link at the bottom of the page.%0a%0aDummy Trip Report%0a----%0a%0a!Yorkshire%0a!!Weekend Trip 32nd December 1999%0a(Photo?)%0a!!!People: Sue, Sue, Sue & Sue%0a%0a!!Saturday%0a!!!Rowtens Horrid Hole: Sue & Sue%0aThis is the first para.%0a%0aThis is the second para. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. %0a%0aThird............... Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto.%0a%0a----%0a%0a||Border=1px%0a||Table||%0a||t1||t2||%0a%0a(:table border=1 width=30%25 align=right bgcolor=#cccc99 cellspacing=0 :)%0a(:cellnr:)%0a'''Navigation Links'''%0a(:cellnr:)%0a*[[Simple tables]]%0a*[[Advanced tables]]%0a(:tableend:)%0a
+time=1205888921
+author:1205888921=
+diff:1205888921:1205888873:=23,31c23%0a%3c ||t1||t2||%0a%3c %0a%3c (:table border=1 width=30%25 align=right bgcolor=#cccc99 cellspacing=0 :)%0a%3c (:cellnr:)%0a%3c '''Navigation Links'''%0a%3c (:cellnr:)%0a%3c *[[Simple tables]]%0a%3c *[[Advanced tables]]%0a%3c (:tableend:)%0a---%0a> ||t1||t2||%0a\ No newline at end of file%0a
+host:1205888921=79.74.74.166
+author:1205888873=
+diff:1205888873:1205885930:=4,5c4%0a%3c ----%0a%3c %0a---%0a> ---%0a17,23c16%0a%3c Third............... Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto.%0a%3c %0a%3c ----%0a%3c %0a%3c ||Border=1px%0a%3c ||Table||%0a%3c ||t1||t2||%0a\ No newline at end of file%0a---%0a> Third............... Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto.%0a\ No newline at end of file%0a
+host:1205888873=79.74.74.166
+author:1205885930=
+diff:1205885930:1205885787:=2c2,6%0a%3c %0a---%0a> ----%0a> !!!Three bangs%0a> !!Two Bangs%0a> !One Bang%0a> %0a
+host:1205885930=79.74.74.166
+author:1205885787=
+diff:1205885787:1205885673:=5,20c5%0a%3c !One Bang%0a%3c %0a%3c Dummy Trip Report%0a%3c ---%0a%3c !Yorkshire%0a%3c !!Weekend Trip 32nd December 1999%0a%3c (Photo?)%0a%3c !!!People: Sue, Sue, Sue & Sue%0a%3c %0a%3c !!Saturday%0a%3c !!!Rowtens Horrid Hole: Sue & Sue%0a%3c This is the first para.%0a%3c %0a%3c This is the second para. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. %0a%3c %0a%3c Third............... Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. Ipsum Facto. %0a\ No newline at end of file%0a---%0a> !One Bang%0a\ No newline at end of file%0a
+host:1205885787=79.74.74.166
+author:1205885673=
+diff:1205885673:1093548433:=3,5d2%0a%3c !!!Three bangs%0a%3c !!Two Bangs%0a%3c !One Bang%0a\ No newline at end of file%0a
+host:1205885673=79.74.74.166

@@ -1,0 +1,43 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-GB; rv:1.9.0.3) Gecko/2008101315 Ubuntu/8.10 (intrepid) Firefox/3.0.3
+author=Jv
+csum=
+host=155.198.186.162
+name=Main.VotlaGora2008
+rev=11
+targets=Main.VotlaGora2008InterimReport,Main.Slovenia2007Logbook,Main.Slovenia2007InitialReport,VotlaGora2008.EquipmentOrder
+text='''[[http://union.ic.ac.uk/caving/slovenia/slov2008 | Content on Main Website]] '''%0a%0a!![[VotlaGora2008InterimReport]]%0a%0a2008 Dates: 19th July-24th August, 5 weeks%0a%0a[[Slovenia2007Logbook | Stuff left up top 2007]] :- Could keep a platoon gainfully employed for a month...%0a%0a[[Slovenia2007InitialReport]] - Leads + etc.%0a%0a[[http://spreadsheets.google.com/pub?key=pHk_eSKWOnFE-Hy3mbfEwHQ | Hotel Mig Booksing (Google Document)]]%0a%0a[[VotlaGora2008/EquipmentOrder]]%0a%0a[[http://www.union.ic.ac.uk/rcc/caving/slovenia/slov2007/surveys.php | Extra surveys from 2007]]
+time=1227035706
+author:1227035706=Jv
+diff:1227035706:1213055687:=3,4d2%0a%3c !![[VotlaGora2008InterimReport]]%0a%3c %0a
+host:1227035706=155.198.186.162
+author:1213055687=
+diff:1213055687:1196296997:=3,4c3,5%0a%3c 2008 Dates: 19th July-24th August, 5 weeks%0a%3c %0a---%0a> 2008 Dates: 12th July -> 17th August (5 weeks)%0a> %0a> %0a9,10c10,14%0a%3c [[http://spreadsheets.google.com/pub?key=pHk_eSKWOnFE-Hy3mbfEwHQ | Hotel Mig Booksing (Google Document)]]%0a%3c %0a---%0a> %0a> Just putting some placeholders that should be here, ''Jarv''%0a> %0a> [[VotlaGora2008/Sponsorship]]%0a> %0a13c17%0a%3c [[http://www.union.ic.ac.uk/rcc/caving/slovenia/slov2007/surveys.php | Extra surveys from 2007]]%0a\ No newline at end of file%0a---%0a> [[VotlaGora2008/HotelMigBookings]]%0a\ No newline at end of file%0a
+host:1213055687=79.74.10.28
+author:1196296997=
+diff:1196296997:1196294977:=8,10c8%0a%3c [[Slovenia2007InitialReport]] - Leads + etc.%0a%3c %0a%3c %0a---%0a> %0a
+host:1196296997=79.75.141.6
+author:1196294977=
+diff:1196294977:1196294724:=11,15c11,15%0a%3c [[VotlaGora2008/Sponsorship]]%0a%3c %0a%3c [[VotlaGora2008/EquipmentOrder]]%0a%3c %0a%3c [[VotlaGora2008/HotelMigBookings]]%0a\ No newline at end of file%0a---%0a> [[VoltaGora2008/Sponsorship]]%0a> %0a> [[VoltaGora2008/EquipmentOrder]]%0a> %0a> [[VoltaGora2008/HotelMigBookings]]%0a\ No newline at end of file%0a
+host:1196294977=79.75.141.6
+author:1196294724=
+diff:1196294724:1196294700:=13,15c13,17%0a%3c [[VoltaGora2008/EquipmentOrder]]%0a%3c %0a%3c [[VoltaGora2008/HotelMigBookings]]%0a\ No newline at end of file%0a---%0a> [[VoltaGora2008Sponsorship]]%0a> %0a> [[VoltaGora2008EquipmentOrder]]%0a> %0a> [[VoltaGora2008HotelMigBookings]]%0a\ No newline at end of file%0a
+host:1196294724=79.75.141.6
+author:1196294700=
+diff:1196294700:1196294616:=11,12d10%0a%3c [[VoltaGora2008/Sponsorship]]%0a%3c %0a
+host:1196294700=79.75.141.6
+author:1196294616=
+diff:1196294616:1196294489:=6,15c6%0a%3c [[Slovenia2007Logbook | Stuff left up top 2007]] :- Could keep a platoon gainfully employed for a month...%0a%3c %0a%3c %0a%3c Just putting some placeholders that should be here, ''Jarv''%0a%3c %0a%3c [[VoltaGora2008Sponsorship]]%0a%3c %0a%3c [[VoltaGora2008EquipmentOrder]]%0a%3c %0a%3c [[VoltaGora2008HotelMigBookings]]%0a\ No newline at end of file%0a---%0a> [[Slovenia2007Logbook | Stuff left up top 2007]] :- Could keep a platoon gainfully employed for a month...%0a\ No newline at end of file%0a
+host:1196294616=79.75.141.6
+author:1196294489=
+diff:1196294489:1196294409:=6c6%0a%3c [[Slovenia2007Logbook | Stuff left up top 2007]] :- Could keep a platoon gainfully employed for a month...%0a\ No newline at end of file%0a---%0a> [[Slovenia2007Logbook | Stuff left up top 2007]]%0a\ No newline at end of file%0a
+host:1196294489=79.75.141.6
+author:1196294409=
+diff:1196294409:1196294119:=4,6d3%0a%3c %0a%3c %0a%3c [[Slovenia2007Logbook | Stuff left up top 2007]]%0a\ No newline at end of file%0a
+host:1196294409=79.75.141.6
+author:1196294119=
+diff:1196294119:1196294074:=1,2c1,2%0a%3c '''[[http://union.ic.ac.uk/caving/slovenia/slov2008 | Content on Main Website]] '''%0a%3c %0a---%0a> '+Votla Gora 2008+'%0a> %0a
+host:1196294119=79.75.141.6
+author:1196294074=
+diff:1196294074:1196294074:=1,3d0%0a%3c '+Votla Gora 2008+'%0a%3c %0a%3c 2008 Dates: 12th July -> 17th August (5 weeks)%0a
+host:1196294074=79.75.141.6

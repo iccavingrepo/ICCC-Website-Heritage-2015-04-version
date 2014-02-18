@@ -1,0 +1,12 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.0.7) Gecko/20060919 Firefox/1.5.0.7
+author=
+host=155.198.186.235
+name=Main.CavingNewsStories
+rev=1
+targets=
+text=Nature's Chemistry Set [[http://news.bbc.co.uk/1/hi/sci/tech/6518161.stm]]%0a%0aCaving on Mars [[http://news.bbc.co.uk/1/hi/sci/tech/6461201.stm]]
+time=1175885119
+author:1175885119=
+diff:1175885119:1175885119:=1,3d0%0a%3c Nature's Chemistry Set [[http://news.bbc.co.uk/1/hi/sci/tech/6518161.stm]]%0a%3c %0a%3c Caving on Mars [[http://news.bbc.co.uk/1/hi/sci/tech/6461201.stm]]%0a\ No newline at end of file%0a
+host:1175885119=155.198.186.235

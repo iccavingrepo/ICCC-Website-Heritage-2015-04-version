@@ -1,0 +1,18 @@
+version=pmwiki-2.2.17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1
+author=
+charset=ISO-8859-1
+csum=
+ctime=1317856883
+host=129.31.247.106
+name=Main.Test2011
+rev=2
+targets=
+text=File permissions.%0a%0aRe-Edit test.%0a%0a
+time=1317857058
+author:1317857058=
+diff:1317857058:1317856883:=1,4c1%0a%3c File permissions.%0a%3c %0a%3c Re-Edit test.%0a%3c %0a---%0a> File permissions.%0a\ No newline at end of file%0a
+host:1317857058=129.31.247.106
+author:1317856883=
+diff:1317856883:1317856883:=1d0%0a%3c File permissions.%0a\ No newline at end of file%0a
+host:1317856883=129.31.247.106

@@ -1,0 +1,14 @@
+version=pmwiki-2.1.27 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.8.1.13) Gecko/20080325 Ubuntu/7.10 (gutsy) Firefox/2.0.0.13
+author=Jarv
+csum=
+ctime=1207955149
+host=129.31.242.192
+name=Trip.Yorkshire-2008-02-22
+rev=1
+targets=
+text=!!The King of Kingsdale 22-24th Feb 2008%0a!!!Elite Core: Dave Wilson, Tim O, Clew, Jarv, James KP%0a%0a!!Saturday%0a!!!King Pot: Everyone%0a%0aA. Caver 
+time=1207955149
+author:1207955149=Jarv
+diff:1207955149:1207955149:=1,7d0%0a%3c !!The King of Kingsdale 22-24th Feb 2008%0a%3c !!!Elite Core: Dave Wilson, Tim O, Clew, Jarv, James KP%0a%3c %0a%3c !!Saturday%0a%3c !!!King Pot: Everyone%0a%3c %0a%3c A. Caver %0a\ No newline at end of file%0a
+host:1207955149=129.31.242.192

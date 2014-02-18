@@ -1,0 +1,27 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.0.7) Gecko/20060919 Firefox/1.5.0.7
+author=
+host=155.198.186.235
+name=Main.GoogleMaps
+rev=6
+targets=Main.MasonGill
+text=County Pot; very good Sat Data:%0a* [[http://maps.google.co.uk/maps?ie=UTF8&z=18&ll=54.219551,-2.49962&spn=0.002167,0.005021&t=h&om=1]]%0aTop Sink?:%0a* [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.223738,-2.493084&spn=0.001084,0.002511&t=h]]%0aPity that the high-res data dies just as you reach cow-pot or Bullpot farm! Feb 2007%0a%0aLeck Fell Parking spot; Rowten & Lost Johns off to the side!%0a* [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=17&ll=54.205842,-2.500527&spn=0.004336,0.010042&t=h]]%0a%0aKingsdale:%0a* Rumbling [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.197078,-2.464033&spn=0.001084,0.002511&t=h]]%0a* Yordas [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.207223,-2.454052&spn=0.001084,0.002511&t=h]]%0a* Valley Ent [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.207223,-2.454052&spn=0.001084,0.002511&t=h]]%0a%0aMasonGill:%0a* Pumping Station [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.181413,-2.49822&spn=0.001085,0.002511&t=h]]%0a* Large/Little [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.181413,-2.49822&spn=0.001085,0.002511&t=h]]%0a* Rift [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.186247,-2.493411&spn=0.001085,0.002511&t=h]]%0a
+time=1171917505
+author:1171917505=
+diff:1171917505:1171917236:=13,18c13%0a%3c * Valley Ent [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.207223,-2.454052&spn=0.001084,0.002511&t=h]]%0a%3c %0a%3c MasonGill:%0a%3c * Pumping Station [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.181413,-2.49822&spn=0.001085,0.002511&t=h]]%0a%3c * Large/Little [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.181413,-2.49822&spn=0.001085,0.002511&t=h]]%0a%3c * Rift [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.186247,-2.493411&spn=0.001085,0.002511&t=h]]%0a---%0a> * Valley Ent [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.207223,-2.454052&spn=0.001084,0.002511&t=h]]%0a\ No newline at end of file%0a
+host:1171917505=155.198.186.235
+author:1171917236=
+diff:1171917236:1171917199:=12,13c12%0a%3c * Yordas [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.207223,-2.454052&spn=0.001084,0.002511&t=h]]%0a%3c * Valley Ent [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.207223,-2.454052&spn=0.001084,0.002511&t=h]]%0a\ No newline at end of file%0a---%0a> * Yordas [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.207223,-2.454052&spn=0.001084,0.002511&t=h]]%0a\ No newline at end of file%0a
+host:1171917236=155.198.186.235
+author:1171917199=
+diff:1171917199:1171634658:=8,12c8%0a%3c * [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=17&ll=54.205842,-2.500527&spn=0.004336,0.010042&t=h]]%0a%3c %0a%3c Kingsdale:%0a%3c * Rumbling [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.197078,-2.464033&spn=0.001084,0.002511&t=h]]%0a%3c * Yordas [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.207223,-2.454052&spn=0.001084,0.002511&t=h]]%0a\ No newline at end of file%0a---%0a> * [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=17&ll=54.205842,-2.500527&spn=0.004336,0.010042&t=h]]%0a\ No newline at end of file%0a
+host:1171917199=155.198.186.235
+author:1171634658=
+diff:1171634658:1171634532:=4,8c4%0a%3c * [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.223738,-2.493084&spn=0.001084,0.002511&t=h]]%0a%3c Pity that the high-res data dies just as you reach cow-pot or Bullpot farm! Feb 2007%0a%3c %0a%3c Leck Fell Parking spot; Rowten & Lost Johns off to the side!%0a%3c * [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=17&ll=54.205842,-2.500527&spn=0.004336,0.010042&t=h]]%0a\ No newline at end of file%0a---%0a> * [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.223738,-2.493084&spn=0.001084,0.002511&t=h]]%0a\ No newline at end of file%0a
+host:1171634658=155.198.186.235
+author:1171634532=
+diff:1171634532:1171634492:=2,4c2%0a%3c * [[http://maps.google.co.uk/maps?ie=UTF8&z=18&ll=54.219551,-2.49962&spn=0.002167,0.005021&t=h&om=1]]%0a%3c Top Sink?:%0a%3c * [[http://maps.google.co.uk/maps?ie=UTF8&om=1&z=19&ll=54.223738,-2.493084&spn=0.001084,0.002511&t=h]]%0a\ No newline at end of file%0a---%0a> * [[http://maps.google.co.uk/maps?ie=UTF8&z=18&ll=54.219551,-2.49962&spn=0.002167,0.005021&t=h&om=1]]%0a\ No newline at end of file%0a
+host:1171634532=155.198.186.235
+author:1171634492=
+diff:1171634492:1171634492:=1,2d0%0a%3c County Pot; very good Sat Data:%0a%3c * [[http://maps.google.co.uk/maps?ie=UTF8&z=18&ll=54.219551,-2.49962&spn=0.002167,0.005021&t=h&om=1]]%0a\ No newline at end of file%0a
+host:1171634492=155.198.186.235

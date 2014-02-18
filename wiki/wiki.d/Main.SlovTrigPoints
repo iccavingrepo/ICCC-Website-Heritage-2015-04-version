@@ -1,0 +1,12 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; sl-SI; rv:1.7.13) Gecko/20060418 Firefox/1.0.8 (Ubuntu package 1.0.8)
+author=
+host=84.255.240.185
+name=Main.SlovTrigPoints
+rev=1
+targets=
+text=Via Zdenko,%0a%0aHi, Jarvist%0a%0aOn internet, ( http://kremen.arso.gov.si/NVatlas- but you need registration) I find GK coordinates of Trig Points:%0a%0a#352 Tolminski Migovec:     5405022,6         5123150,0%0a%0a#20 Vrh nad Skrbino:          5406302,7         5124087,4%0a%0a#364 Grusnica:                    5403984,6         5122439,8%0a%0a#120 Planina Razor:            5407087,3         5122035,1%0a%0a#55 Tolminski Kuk:            5404539,7         5124804,8
+time=1163438669
+author:1163438669=
+diff:1163438669:1163438669:=1,15d0%0a%3c Via Zdenko,%0a%3c %0a%3c Hi, Jarvist%0a%3c %0a%3c On internet, ( http://kremen.arso.gov.si/NVatlas- but you need registration) I find GK coordinates of Trig Points:%0a%3c %0a%3c #352 Tolminski Migovec:     5405022,6         5123150,0%0a%3c %0a%3c #20 Vrh nad Skrbino:          5406302,7         5124087,4%0a%3c %0a%3c #364 Grusnica:                    5403984,6         5122439,8%0a%3c %0a%3c #120 Planina Razor:            5407087,3         5122035,1%0a%3c %0a%3c #55 Tolminski Kuk:            5404539,7         5124804,8%0a\ No newline at end of file%0a
+host:1163438669=84.255.240.185

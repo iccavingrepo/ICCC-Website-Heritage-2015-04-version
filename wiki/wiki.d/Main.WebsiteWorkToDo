@@ -1,0 +1,26 @@
+version=pmwiki-2.2.17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1
+author=
+charset=ISO-8859-1
+csum=
+host=155.198.199.174
+name=Main.WebsiteWorkToDo
+rev=5
+targets=
+text=* Finish placing rest of photos within text on Sardinia 07 page [[http://www.union.ic.ac.uk/rcc/caving/sardinia/sardinia07.php]]%0a%0a* Sort Wiki Out%0a %0a** Figure out what watch words are triggering modsecurity...%0a%0a** Figure out how to get sessions + cookies working to avoid entering password AGAIN AND AGAIN ''DONE'' - needs path relative to /htdocs, not symbolic link from home
+time=1317924747
+author:1317924747=
+diff:1317924747:1317924707:=7c7%0a%3c ** Figure out how to get sessions + cookies working to avoid entering password AGAIN AND AGAIN ''DONE'' - needs path relative to /htdocs, not symbolic link from home%0a\ No newline at end of file%0a---%0a> ** Figure out how to get sessions + cookies working to avoid entering password AGAIN AND AGAIN%0a\ No newline at end of file%0a
+host:1317924747=155.198.199.174
+author:1317924707=
+diff:1317924707:1317924662:=7c7%0a%3c ** Figure out how to get sessions + cookies working to avoid entering password AGAIN AND AGAIN  %0a\ No newline at end of file%0a---%0a> ** Figure out how to get sessions + cookies working to avoid entering password AGAIN AND AGAIN%0a\ No newline at end of file%0a
+host:1317924707=155.198.199.174
+author:1317924662=
+diff:1317924662:1317924596:=3,7c3%0a%3c * Sort Wiki Out%0a%3c  %0a%3c ** Figure out what watch words are triggering modsecurity...%0a%3c %0a%3c ** Figure out how to get sessions + cookies working to avoid entering password AGAIN AND AGAIN%0a\ No newline at end of file%0a---%0a> * Figure out what watch words are triggering modsecurity...%0a\ No newline at end of file%0a
+host:1317924662=155.198.199.174
+author:1317924596=
+diff:1317924596:1190908125:=1,3c1%0a%3c * Finish placing rest of photos within text on Sardinia 07 page [[http://www.union.ic.ac.uk/rcc/caving/sardinia/sardinia07.php]]%0a%3c %0a%3c * Figure out what watch words are triggering modsecurity...%0a\ No newline at end of file%0a---%0a> * Finish placing rest of photos within text on Sardinia 07 page [[http://www.union.ic.ac.uk/rcc/caving/sardinia/sardinia07.php]]%0a\ No newline at end of file%0a
+host:1317924596=155.198.199.174
+author:1190908125=jarv
+diff:1190908125:1190908125:=1d0%0a%3c * Finish placing rest of photos within text on Sardinia 07 page [[http://www.union.ic.ac.uk/rcc/caving/sardinia/sardinia07.php]]%0a\ No newline at end of file%0a
+host:1190908125=129.31.240.172

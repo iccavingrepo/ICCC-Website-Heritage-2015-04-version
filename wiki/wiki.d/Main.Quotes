@@ -1,0 +1,24 @@
+version=pmwiki-2.2.17 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1
+author=
+charset=ISO-8859-1
+csum=
+host=155.198.199.174
+name=Main.Quotes
+rev=4
+targets=Main.FamousQuotes
+text=[[FamousQuotes]] %0a%0a"Do you think I've gone past Jesus and straight into Rasputin?"%0aJames 12/12/06%0a%0a"I'm not that easy!"%0aBen 14/11/06%0a%0a"Sandeep, put me down."%0aBen 14/11/06%0a%0a"Open your legs"%0aSandeep - several occasions%0a%0a"...i'm going to press-drill my knob..."%0aRik 17/10/06%0a%0a"Even monastaries must have internet porn."%0aRik 17/10/06%0a%0a"Let call it a day and just have fun with the sheep."%0aNatasha 15/10/06%0a%0a"I had a really good night in your sleeping bag."%0aNatasha 15/10/06%0a%0a"Two queens and I'm out."%0aSandeep 14/10/06%0a%0a"I've got a huge hole in my bum!"%0aLiz 14/10/06%0a%0a"Just stick it all in."%0aSandeep 14/10/06%0a%0aDo I have a dirty bum?"%0aNatasha 14/10/06%0a%0a"Is that a Christmas pudding in your pocket or are you just pleased to see us."%0aMarc to Sandeep 14/10/06%0a%0a"I like it wet all over."%0aNatasha 14/10/06
+time=1317924959
+author:1317924959=
+diff:1317924959:1197687624:=1c1%0a%3c [[FamousQuotes]] %0a---%0a> [[FamousQuotes]]%0a
+host:1317924959=155.198.199.174
+author:1197687624=
+diff:1197687624:1179007812:=1,2d0%0a%3c [[FamousQuotes]]%0a%3c %0a
+host:1197687624=79.64.73.23
+author:1179007812=Jarv
+diff:1179007812:1179007799:=15a16,17%0a> !!Quotes%0a> %0a
+host:1179007812=80.176.153.253
+author:1179007799=Jarv
+csum:1179007799=Taken from main site
+diff:1179007799:1179007799:=1,43d0%0a%3c "Do you think I've gone past Jesus and straight into Rasputin?"%0a%3c James 12/12/06%0a%3c %0a%3c "I'm not that easy!"%0a%3c Ben 14/11/06%0a%3c %0a%3c "Sandeep, put me down."%0a%3c Ben 14/11/06%0a%3c %0a%3c "Open your legs"%0a%3c Sandeep - several occasions%0a%3c %0a%3c "...i'm going to press-drill my knob..."%0a%3c Rik 17/10/06%0a%3c %0a%3c !!Quotes%0a%3c %0a%3c "Even monastaries must have internet porn."%0a%3c Rik 17/10/06%0a%3c %0a%3c "Let call it a day and just have fun with the sheep."%0a%3c Natasha 15/10/06%0a%3c %0a%3c "I had a really good night in your sleeping bag."%0a%3c Natasha 15/10/06%0a%3c %0a%3c "Two queens and I'm out."%0a%3c Sandeep 14/10/06%0a%3c %0a%3c "I've got a huge hole in my bum!"%0a%3c Liz 14/10/06%0a%3c %0a%3c "Just stick it all in."%0a%3c Sandeep 14/10/06%0a%3c %0a%3c Do I have a dirty bum?"%0a%3c Natasha 14/10/06%0a%3c %0a%3c "Is that a Christmas pudding in your pocket or are you just pleased to see us."%0a%3c Marc to Sandeep 14/10/06%0a%3c %0a%3c "I like it wet all over."%0a%3c Natasha 14/10/06 %0a\ No newline at end of file%0a
+host:1179007799=80.176.153.253

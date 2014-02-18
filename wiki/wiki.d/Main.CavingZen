@@ -1,0 +1,18 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.0.3) Gecko/20060426 Firefox/1.5.0.3
+author=
+host=81.179.154.66
+name=Main.CavingZen
+rev=3
+targets=
+text=->Deep is better than shallow%0a->Horizontal is better than vertical%0a->Surveyed is better than pushed%0a->Caving is better than carrying%0a->Carrying is better than lounging around%0a->Camping trips are better than epic trips%0a->Union/Laško* is better than Laško/Union*%0a%0a *delete as appropriate%0a%0a''Clewin Griffith''
+time=1148131108
+author:1148131108=
+diff:1148131108:1148131083:=9,10c9,10%0a%3c  *delete as appropriate%0a%3c %0a---%0a> *delete as appropriate%0a> %0a
+host:1148131108=81.179.154.66
+author:1148131083=
+diff:1148131083:1148131058:=2c2%0a%3c ->Horizontal is better than vertical%0a---%0a> -->Horizontal is better than vertical%0a4c4%0a%3c ->Caving is better than carrying%0a---%0a> -->Caving is better than carrying%0a6c6%0a%3c ->Camping trips are better than epic trips%0a---%0a> -->Camping trips are better than epic trips%0a10,11d9%0a%3c %0a%3c ''Clewin Griffith''%0a\ No newline at end of file%0a
+host:1148131083=81.179.154.66
+author:1148131058=
+diff:1148131058:1148131058:=1,9d0%0a%3c ->Deep is better than shallow%0a%3c -->Horizontal is better than vertical%0a%3c ->Surveyed is better than pushed%0a%3c -->Caving is better than carrying%0a%3c ->Carrying is better than lounging around%0a%3c -->Camping trips are better than epic trips%0a%3c ->Union/Laško* is better than Laško/Union*%0a%3c %0a%3c *delete as appropriate%0a
+host:1148131058=81.179.154.66

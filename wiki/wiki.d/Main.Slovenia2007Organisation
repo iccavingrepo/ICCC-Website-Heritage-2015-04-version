@@ -1,0 +1,27 @@
+version=pmwiki-2.0.13 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.3) Gecko/20061201 Firefox/2.0.0.3 (Ubuntu-feisty)
+author=
+host=194.247.228.84
+name=Main.Slovenia2007Organisation
+rev=6
+targets=Main.Slovenia2005Logbook,Main.SeaFrance
+text=[[Slovenia2005Logbook]]%0a%0a'''W566 BFR'' is our bus of joy%0a5.6 metres long%0a%0a'''Ferries'''%0a%0aOut on Sat 14th July, 1345 ish, back Sun 12th August, 1100 ish.%0a%0aQuotes (8-12 weeks in advance): %0aP&O (9 passengers):156.25%0aWith Sea France: 112.00%0a%0aSea France (4 weeks in advance): 140 '''BOUGHT'''%0a%0a"22. PASSENGER LISTINGS, we are legally required to record the name, age group and gender of each passenger, along with details of any special care or assistance needs. This information must be given to SeaFrance at the time of booking. If you wish to make any amendments after this time, please call '''0871 663 2546''' and speak to our Customer Service section. Failure to do this could cause delays when checking in at the port and may even result in passengers missing their booked sailing."%0a%0a%0aJarv
+time=1181751672
+author:1181751672=
+diff:1181751672:1181750362:=4,5c4%0a%3c 5.6 metres long%0a%3c %0a---%0a> %0a8,18c7,16%0a%3c Out on Sat 14th July, 1345 ish, back Sun 12th August, 1100 ish.%0a%3c %0a%3c Quotes (8-12 weeks in advance): %0a%3c P&O (9 passengers):156.25%0a%3c With Sea France: 112.00%0a%3c %0a%3c Sea France (4 weeks in advance): 140 '''BOUGHT'''%0a%3c %0a%3c "22. PASSENGER LISTINGS, we are legally required to record the name, age group and gender of each passenger, along with details of any special care or assistance needs. This information must be given to SeaFrance at the time of booking. If you wish to make any amendments after this time, please call '''0871 663 2546''' and speak to our Customer Service section. Failure to do this could cause delays when checking in at the port and may even result in passengers missing their booked sailing."%0a%3c %0a%3c %0a---%0a> Out on Sat 14th July, 1800 ish, back Sun 12th August, 0900 ish.%0a> %0a> Quote with P&O (9 passengers):%0a> 156.25%0a> %0a> With Sea France:%0a> 112.00%0a> %0a> Have to specify names of passengers when booking; so will leave till later...%0a> %0a
+host:1181751672=194.247.228.84
+author:1181750362=
+diff:1181750362:1178921679:=3,4d2%0a%3c '''W566 BFR'' is our bus of joy%0a%3c %0a
+host:1181750362=194.247.228.84
+author:1178921679=
+diff:1178921679:1175706089:=1,2d0%0a%3c [[Slovenia2005Logbook]]%0a%3c %0a
+host:1178921679=80.176.153.253
+author:1175706089=
+diff:1175706089:1175446361:=9,13c9%0a%3c 112.00%0a%3c %0a%3c Have to specify names of passengers when booking; so will leave till later...%0a%3c %0a%3c Jarv%0a\ No newline at end of file%0a---%0a> 112.00%0a\ No newline at end of file%0a
+host:1175706089=155.198.186.235
+author:1175446361=
+diff:1175446361:1175446354:=8c8%0a%3c With Sea France:%0a---%0a> With SeaFrance:%0a
+host:1175446361=155.198.186.235
+author:1175446354=
+diff:1175446354:1175446354:=1,9d0%0a%3c '''Ferries'''%0a%3c %0a%3c Out on Sat 14th July, 1800 ish, back Sun 12th August, 0900 ish.%0a%3c %0a%3c Quote with P&O (9 passengers):%0a%3c 156.25%0a%3c %0a%3c With SeaFrance:%0a%3c 112.00%0a\ No newline at end of file%0a
+host:1175446354=155.198.186.235
