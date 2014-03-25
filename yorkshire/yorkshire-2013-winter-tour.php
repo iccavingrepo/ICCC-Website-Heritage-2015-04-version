@@ -21,14 +21,10 @@
 <div class="p"><!----></div>
  <a id="tth_sEc1"></a><h2>
 1&nbsp;&nbsp;13th December</h2>
-The club was it's usual efficient, well-oiled machine on Friday. We were packed and ready to go as quick as we ever are. We made the wise decision to have our food delivered by Tesco to our accommodation rather than shop en route but bizarrely this had no effect on our arrival time.
 
-<div class="p"><!----></div>
+<p>The club was it's usual efficient, well-oiled machine on Friday. We were packed and ready to go as quick as we ever are. We made the wise decision to have our food delivered by Tesco to our accommodation rather than shop en route but bizarrely this had no effect on our arrival time.
 
-
-
-<table align="center" border="0"><tr><td>
-<a href="/rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/Tetley19.html"><img width=800 src="/rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/Tetley19.jpg"></a></td></tr></table><!--hboxt-->
+<img align=right width=400 src="/rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/Tetley19.jpg">
 
 
 <div class="p"><!----></div>
@@ -88,16 +84,15 @@ Lost Johns, a classic winter tour trip, was the obvious choice to get everyone e
 </li>
 </ul>
 
-<div class="p"><!----></div>
+<p>
+<a href="/rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/JackHare04.html"><img align=right width=400 src="/rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/JackHare04.jpg"></a>
 Now that we had all seen enough of each other we decided to spread out a bit in the Easegill system. A relatively complicated exchange was organised with 4 entrances in use. The day started inauspiciously with Tetley forgetting his helmet. Between us we had enough light less helmets and off brand head torches to cobble together something with the lighting power of a sickly firefly. I was leading the County, out Wretched Rabbit because I had claimed to remember the route. Luckily we ended up sticking with Tetley and crew until past Eureka Junction so we weren't held up by my attempt to walk past Poetic Justice. After we split, Pete, Mel, Eli and I went in search of Easter Grotto. We took a deliberate detour further into the main passage, occasionally sending Eli to recon the dodgier looking things, before we headed back and up into EG. The grotto impressed as usual, and we turned back satisfied. I decided to try the higher route back to Wretched Rabbit. The whole way out there were just enough familiar landmarks to keep me going but not enough to convince me that we were going the right way. Eventually we found the ridiculously over-engineered fixed ropes and were soon out. With only a stop to quickly derig county we headed back to the van.
+</p>
 
 <div class="p"><!----></div>
 Back at the NPC we had our traditional winter tour Christmas dinner, expertly cooked by the stay at homes, Oli, Saber and Toni. 
 
 <div class="p"><!----></div>
-
-<table align="center" border="0"><tr><td>
-<a href="/rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/JackHare04.html"><img width=800 src="/rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/JackHare04.jpg"></a></td></tr></table><!--hboxt-->
 
 
 <div class="p"><!----></div>
@@ -114,12 +109,11 @@ Back at the NPC we had our traditional winter tour Christmas dinner, expertly co
 <div class="p"><!----></div>
 </li>
 </ul>
+
+<p>
+<a href="/rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/JackHare14.html"><img align=left width=600 src="/rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/JackHare14.jpg"></a>
 Another day, another fine example of our competence. Chris, Jack, Dave and I had been sent as super keen, super fast, preriggers. We would rig the centre route to be followed by others who would rig the left route and adamson's route. Confident in Dave's ability to locate any cave in the Dales we followed blindly, even as we traipsed back and forth across the same field. Listening occasionally to Dave explaining how the Notts "couldn't possibly be over in that field, it has to be over here somewhere". Eventually we decided to check the other field on the off chance that Notts had moved since Dave has last been here and we found the entrance almost immediately.
-
-<div class="p"><!----></div>
-
-<table align="center" border="0"><tr><td>
-<a href="/rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/JackHare14.html"><img width=800 src="/rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/JackHare14.jpg"></a></td></tr></table><!--hboxt-->
+</p>
 
 
 <div class="p"><!----></div>
@@ -128,10 +122,8 @@ Another day, another fine example of our competence. Chris, Jack, Dave and I had
 <div class="p"><!----></div>
  We do enough exchanges anyway.
 
-<div class="p"><!----></div>
+<a href="/rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/JackHare20.html"><img align=right width=400 src="/rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/JackHare20.jpg"></a>
 
-<table align="center" border="0"><tr><td>
-<a href="/rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/JackHare20.html"><img width=800 src="/rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/JackHare20.jpg"></a></td></tr></table><!--hboxt-->
 
 
 <div class="p"><!----></div>
@@ -147,7 +139,7 @@ Recovering from the night before and with many people leaving at inconvenient ti
 
 <div class="p"><!----></div>
 
-
+<br>
 <table align="center" border="0"><tr><td>
 <a href="/rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/RhysTyers20.html"><img width=800 src="/rcc/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/RhysTyers20.jpg"></a></td></tr></table><!--hboxt-->
 
@@ -244,10 +236,58 @@ Income
 <tr><td width="197">Trip Fees </td><td width="197">&#163;1070.37 </td></tr>
 <tr><td width="197">RCC Subsidy </td><td width="197">&#163;232.73 </td></tr></table>
 
+<h1>Yorkshire old lags redux</h1>
 
-<br /><br /><hr /><small>File translated from
-T<sub><span class="small">E</span></sub>X
-by <a href="http://hutchinson.belmont.ma.us/tth/">
-T<sub><span class="small">T</span></sub>H</a>,
-version 4.03.<br />On 14 Feb 2014, 18:01.</small>
-</html>
+<p>Oh Yorkshire. I missed the main thrust of the winter tour as I had a conference to go to, but had a plan &amp; a loan of FEU the happy red Fiesta from Dani. So I found myself at stores, 24hrs after the IC minibus had returned, gazing in admiration at the sheer quantity of choss present. Why was there a massive metal wardrobe in the middle of stores? What was the meaning of the tackle sacs full of glass bottles? Finding my diving harness was particularly difficult, I finally found it carefully folded into the 'lost property' drawer with 6kg of lead still attached - a challenging feat in itself.</p>
+
+<p>So rather later than intended (driving past the RSM at Midnight I seem to recall) and with a storm brewing, I powered up to Yorkshire and made my nest at the NPC. It started raining, and did not let up for days, neatly torpedoing my cave diving plans. Joined by Andy (car) and Tetley (train) we were finally ready to try a (wet weather option) cave - the plan, Jean Pot. </p>
+
+<p align=right>Jarvist Moore Frost</p>
+
+<h2>24th Dec - Jean Pot</h2>
+
+<h3>Jarv, Andy, Tetley, A nice guy we met at the NPC</h3>
+
+<p>Beautiful walk up Love Lane in the cool air, and found our entrance (bang on where NFTFH suggested). The rigging down here is 'expo', i.e. sketchy as hell. The few bolts are Spitz &amp; a few rawls, the rest are moveable chockstones and dubious flakes. To be honest it's somewhere where a bit of extra bolting with stainless rawls wouldn't go amiss... But everything is essentially fine. Between the first and second pitch, the rift is fairly acrobatic but nothing actually that tight. The 4th pitch has a wedged boulder pitch head you need to wriggle past (in the water).
+Beyond the 4th the passage is really quite muddy with a fairly wet clay. Meanders / PVC oversuits definitely better for this as they are self cleaning. The traverse has a lot of pretties above it, but is quite slippery. Between the traverse and the 6th is a nice body-sized crawl with a good dog leg.</p>
+
+<p>The 6th itself is probably the biggest pitch in the cave, but is really quite loose, the bolts minimalist (though I also missed one) and the naturals on the ledge really quite dubious, but lands in a nice little chamber of smashed rock.</p>
+
+<p>Having the rope, I then free climbed down to the 7th, whose pitch-head was tight ('one bolt and down' rigging). This I dropped, with quite a wriggle to make progress. There's nothing at the bottom but a small rift, bits of the ladder that used to rig the pitch and typical miscellaneous digging rubbish. Tetley joined me. I was rather dubious how much breathable air there was down here, so stood there thinking happy thoughts and breathing gently while Tetley grunted through the pitch head. I found the pitch top quite tough with no foot jammer, and was quite happy to finally drag myself through with fingertips and toes.</p>
+
+<p>After derigging, Tetley and I were standing just down the corridor away from the bottom of the 6th when with a 'woa!' a portable-TV sized boulder flew off the ledge, and the natural rebelay + dodgy bolt were suddenly loaded. This rock drifted down to the boulder in the centre of the chamber exploding into shards.</p>
+
+<p>Otherwise un-notable exit from the cave, to get to the surface to Jagermeister and a blizzard. Rather thankful for the GPS to confirm we were tracking the correct wall, less thankful for the recognisable 'double stiles' near Bar-pot being replaced with an entirely different set of limestone slabs! </p>
+
+<p>A great wet-weather option, really enjoyable caving. Don't bother with the 7th &amp; consider how much you love life with regards to the 6th (unless someone puts some sensible bolts in).</p>
+
+<p align=right>Jarvist Moore Frost</p>
+
+<h2>25th Dec - Easegill Traverse</h2>
+
+<h3>Jarv, Andy, Tetley</h3>
+
+<p>I love top sink; so it was with joy that we set off to Bullpot farm in Andy's car with a tacklesac of pull through ropes, some odd photocopies of NFTFH (unfortunately only covering the middle, everyone remembers, section of the trip) aiming for Top->Pip. We bumped into Gavin up on the fell, who was just returning from a little solo dally in County, and promised to give the evil triangular bolder (see Christmas Cracker) a kick for him.</p>
+
+<p>The weather was lovely, cleared up delightfully from the blizzard of yesterday. Down to Top we wiggled our way to Walrus pot. Tetley rigged, I had the dubious honour of derigging the traverse before pull through. All went smoothly, and we shuffled on to Penknife pitch.</p>
+
+<p>Tetley took us on an interesting high level traverse between Limerick Junction and the fairy steps to Nagasaki (I had always climbed down to the streamway and then back up at the big river junction). We romped and we stomped, we ate a Christmas Pudding (or two) at Main Line Terminus. We stayed high past Scylla and Charybdis, and dived into the Rabbit Warren at Stake Pot.</p>
+
+<p>Here things went slightly awry when we stopped for a drink - Andy realised he didn't have his camera on him. Quickly checking the Rabbit Warren, he decided he most likely had left it at Main Line Terminus. Well, at least one fewer item to carry out of Pippikin. We also ran out of the trip description at this point, not having any of these NFTFH notes for this, most navigationally challenging, part.</p>
+
+<p>A curious climb down to the 88 (my fault, I stayed too high), avoided by Tetley (he heard Andy's mutterings &amp; determinedly found the correct level). Whistle down the pitch, Tetley's descent particularly magnificent due to the slow drift of cigarette embers down the spray lashed pitch. The Wormway, in spite of the recent rain, was fully open for business (though with signs of there having been a recently descended ~30cm flood). We zoomed on to Link Pot and gaped at the (cold!) fresh air dropping down the shaft. We pressed on, down the way to Dusty Junction.</p>
+
+<p>The Wet Wallows I did not enjoy. They were quite full of cobbles and fairly deep in water, and I just sort of brute forced my way through on my front, with the perhaps inevitable result that I temporarily (!) found myself stuck by my croll, with mouth and nose sub-aquatic, and one mad staring eye open above the water line. The water was also shockingly cold, leaving me stumbling around in the cross rift like a drunken sailor.</p>
+
+<p>Dusty Junction and Hall of the Ten were quickly found ~but~ here was where the direction got confused. Andy, who had been to Pippikin more recently than me, distinctly remembered going directly from Dusty Junction to Pippikin, and was totally distrusting of Hall of the Ten. After checking out the Hall of the Mountain King (still muddy; still got a hermaphrodite sculpture), we found our way below Hall of the Ten and after a few false starts (going downstream, before I remembered being there on my little crawl around with Clare a year ago - this is the Pippikin Stream to the 7th pitch, Waterfall Chamber &amp; Pip sumps), found our way to the base of Pippikin, finding the in situ rope. Here Andy was totally unsure that this was Pippikin, and wary of Rat Bags and blundering into a half-rigged Peterson or Bye George. </p>
+
+<p>So as confidence was not high, we returned to Dusty junction, Andy went and had a look at the way he thought he went to Pippikin, but came back grumbling. So we took our Mistral bolt hole, crawling along the rift to arrive at a freezing fell. We wandered back via Link to derig the ICCC rope abandoned during the winter tour proper.</p>
+
+<p>Uneventual walk back and extremely enjoyable shower at the Red Rose while munching apples and mince pies.</p>
+
+<p>The next day Andy went back to County with Dave, finding his camera minding its own merry business at Main Line Terminus.</p>
+
+<p align=right>Jarvist Moore Frost</p>
+
+
+<? require('../footer.php'); ?>

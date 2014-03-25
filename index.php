@@ -14,11 +14,10 @@
 
 <b>Mini calendar:</b> <b> Autumn 2013:</b>
 <pre>
-Spring Term 2014:
-	21-23rd Feb		Yorkshire
-	21-23rd Mar		Yorkshire
 Easter Tour 2014:
-	31st Mar - 7th Apr	Sardinia	
+	31st Mar - 7th Apr	Sardinia
+Summer Term 2014:
+	Trips will be organised on an adhoc basis, get on the mailing list to hear about them!
 </pre>
 <a href="calender.php">Google Calendar</a></b>
 <br>
@@ -55,6 +54,71 @@ function whygocaving(){document.write(why[n]);}
 whygocaving();
 </script>
 </p>
+
+<?php endtextdatebox();?>
+<?php begintextdatebox("Sic Semper Tyrannis","18th March 2014");?>
+<center>
+<a href="/rcc/caving/photo_archive/mugshots/Tanguy%20Racine.html">
+<img src="/rcc/caving/photo_archive/mugshots/Tanguy%20Racine--thumb.jpg">
+</a>
+<a href="/rcc/caving/photo_archive/mugshots/Oliver%20Myerscough.html">
+<img src="/rcc/caving/photo_archive/mugshots/Oliver%20Myerscough--thumb.jpg">
+</a>
+<a href="/rcc/caving/photo_archive/mugshots/Elijah%20Choi.html">
+<img src="/rcc/caving/photo_archive/mugshots/Elijah%20Choi--thumb.jpg">
+</a>
+
+<a href="/rcc/caving/photo_archive/mugshots/Jack%20Hare.html">
+<img src="/rcc/caving/photo_archive/mugshots/Jack%20Hare--thumb.jpg">
+</a>
+<a href="/rcc/caving/photo_archive/mugshots/Rhys%20Tyers.html">
+<img src="/rcc/caving/photo_archive/mugshots/Rhys%20Tyers--thumb.jpg">
+</a>
+<a href="/rcc/caving/photo_archive/mugshots/William%20French.html">
+<img src="/rcc/caving/photo_archive/mugshots/William%20French--thumb.jpg">
+</a>
+<a href="/rcc/caving/photo_archive/mugshots/David%20Kirkpatrick.html">
+<img src="/rcc/caving/photo_archive/mugshots/David%20Kirkpatrick--thumb.jpg">
+</a>
+</center>
+
+<p>
+Feeling the winds of change the cavers of ICCC gathered to choose the lucky few who would lead them into the next year. Through several rousing speeches (mostly consisting of nominating someone else for the job), thrilling debates ("You do it" "I already did it, you do it"), and finally indisputably fair voting (nominating a coin toss as a candidate when you're losing is standard practice) the committee was chosen.</p>
+<p> Congratulations to: </p>
+<p>
+<b>Committee:</b><br>
+&nbsp;&nbsp;<b>President:</b> Tanguy Racine<br>
+&nbsp;&nbsp;<b>Treasurer:</b> Oliver Myerscough<br>
+&nbsp;&nbsp;<b>Secretary:</b> Elijah Choi<br>
+&nbsp;&nbsp;<b>Tackle Master:</b> Jack Hare<br>
+&nbsp;&nbsp;<b>Tours Secretary:</b> Rhys Tyers<br>
+&nbsp;&nbsp;<b>Medical Officer:</b> William French<br>
+&nbsp;&nbsp;<b>Honorary Morale Officer:</b> David Kirkpatrick<br>
+<br>
+<b>Awards:</b><br>
+&nbsp;&nbsp;<b>For Evans' Sake:</b> 		Tanguy Racine for valiant attempts at decorating the SMCC<br>
+&nbsp;&nbsp;<b>Herman Herz:</b> 			Samuel Page for narrowly escaping a boulder based assassination attempt by Kate<br>
+</p>
+<?php endtextdatebox();?>
+
+<?php begintextdatebox("Mendips III","07&ndash;9th March 2014");?>
+<p>
+In a brilliant display of cunning and subterfuge we organised a trip to the Mendips to conincide with Jarv's surprise birthday celebration. At long last we managed to complete the short round trip in Swildons on Saturday finding that on our previous attempts we had been mere metres from the correct way on. In the evening we joined the eclectic gathering of Jarv's friends and family and made a sizeable dent in the huge array of delcious treats and alcohol. On Sunday we relaxed on a sunny Priddy green until it was time to head home.
+</p>
+<center><a<!-- href="/caving/yorkshire/mendip-2014-03-07.php">-->Trip Report</a> <!--| <a href="/caving/photo_archive/trips/2014-03-07 - mendips/">Photos</a> --> </center>
+<?php endtextdatebox();?>
+
+<?php begintextdatebox("Yorkshire III","21&ndash;23rd February 2014");?>
+<a href="/caving/photo_archive/trips/2014-02-21%20-%20yorkshire/JackHare-P1020956.html">
+<img align=left src="/caving/photo_archive/trips/2014-02-21%20-%20yorkshire/JackHare-P1020956--thumb.jpg">
+</a>
+<a href="/caving/photo_archive/trips/2014-02-21%20-%20yorkshire/JackHare-P1030079.html">
+<img align=right src="/caving/photo_archive/trips/2014-02-21%20-%20yorkshire/JackHare-P1030079--thumb.jpg">
+</a>
+<p>
+Yorkshire called upon us once more. We extensively visited Easegill with 4 different trips interweaving on the Saturday. We visited Top, Lanc, Cow, County, Link, and Wretched Rabbit. Sunday saw some enthusiasm but no action due to a bodged plan to retrieve some rope.
+</p>
+<center><a href="/caving/yorkshire/yorkshire-2014-02-21.php">Trip Report</a> | <a href="/caving/photo_archive/trips/2014-02-21 - yorkshire/">Photos</a></center>
 <?php endtextdatebox();?>
 
 <?php begintextdatebox("Yorkshire II","07&ndash;09th February 2014");?>

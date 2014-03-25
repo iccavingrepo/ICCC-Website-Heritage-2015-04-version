@@ -12,6 +12,29 @@ London SW7 2BB
 fax. (+44) 20 7594 8065 
 </p>
 
+<h2>Committee 2014-2015</h2>
+<a href="/rcc/caving/photo_archive/mugshots/Tanguy%20Racine.html">
+<img align=left src="/rcc/caving/photo_archive/mugshots/Tanguy%20Racine--thumb.jpg">
+</a>
+<a href="/rcc/caving/photo_archive/mugshots/Oliver%20Myerscough.html">
+<img align=left src="/rcc/caving/photo_archive/mugshots/Oliver%20Myerscough--thumb.jpg">
+</a>
+<a href="/rcc/caving/photo_archive/mugshots/Elijah%20Choi.html">
+<img align=left src="/rcc/caving/photo_archive/mugshots/Elijah%20Choi--thumb.jpg">
+</a>
+<p>
+<b>President:</b> Tanguy Racine<br>
+<b>Treasurer:</b> Oliver Myerscough<br>
+<b>Secretary:</b> Elijah Choi<br>
+<br>
+<b>Tackle Master:</b> Jack Hare<br>
+<b>Tours Secretary</b>: Rhys Tyers
+<b>Medical Officer:</b> William French<br>
+<b>Honorary Morale Officer:</b> David Kirkpatrick<br>
+</p>
+
+<br>
+
 <h2>Committee 2013-2014</h2>
 <a href="/caving/photo_archive/mugshots/Rhys%20Tyers.html">
 <img align=left src="/caving/photo_archive/mugshots/Rhys%20Tyers--thumb.jpg">
