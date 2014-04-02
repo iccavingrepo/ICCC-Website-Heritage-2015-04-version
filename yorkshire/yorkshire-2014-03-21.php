@@ -1,10 +1,10 @@
-<? require('../header.php'); ?>
+<? require('../header-UTF8.php'); ?>
 
 <h1>Yorkshire</h1>
 
 <h2>Weekend Trip 21&ndash;23 March 2014</h2>
 <h2><a href="/caving/photo_archive/trips/2014-03-21%20-%20yorkshire/">Photos</a></h2>
-<center><a href="/caving/photo_archive/trips/2014-03-21%20-%20yorkshire/"><img width=800 src="/caving/photo_archive/trips/2014-03-21%20-%20yorkshire/RhysTyers-DSC_0092--orig.jpg"></a></center>
+<center><a href="/caving/photo_archive/trips/2014-03-21%20-%20yorkshire/"><img width=800 src="yorkshire-2014-03-21.jpg"></a></center>
 
 <h3>Rhys, Jack, Fiona, Sam, Sarah, Dave KP, DW, Andy, Jarv, Dani</h3>
 <h2>Friday</h2>
@@ -29,6 +29,44 @@
 <p>In the end, we decided not to exit via Link, but take the easier exit from Mistral. This was just as well, as Andy decided to de-rig Link so we would have had to crawl through mud and streamways only to have to return the same way. Thanks Andy. Thandy.</p>
 <p>We returned to the NPC, cooked an enormous aubergine and okra balti curry, and sat around exaggerating our exploits. </p>
 <p style="text-align:right"> Jack</p>
+
+<h3>Wretched Rabbit (usual) - to Spiral Staircase: Jarv and Dani</h3>
+<p>The walk to the cave entrance is longer than I had anticipated. Through cloud and peat bog puddles, weighted with wellingtons sucking earth and a helmet which I eventually hand to Jarvist to avoid nodding-dog neck strain. My movements are restrained by the cold-hardened plastic over-suit, the surface of which flows with many miniature muddy streams down to my badly attired hands, soaking the non-waterproof material of the NPC lost property, un-matched gloves. Jarvist tells me a story of being lost on these moors in winter darkness and approaching storm, his accomplice falling into waist-high, neck-high waters. Lovely. Instinct tells me to memorise and mark the way but at each brow the previous reflective-tipped pillar is consumed by the environment, Hansel and Gretel like.</p>
+
+<p>Turn back? The temptation to do so is erased with each step further into cataract space. So with cold wet hands, and horizontal rain whipped face I continue, noting all the good omens.</p>
+
+<p>As we descend to the stream bed the mist lifts in places revealing pieces of sky and black heathered hillsides.  We follow the clear waters wary of the wetly silken stones. Jarvist tells me that the entrance should be around here somewhere, glancing into a few not very reassuring cracks in the rock. He sands up from one and smiles. Suspicious. I take a look at what he finds. Low, damp and uninviting, a short crawl over pebbly puddled ground, and beyond into the dark.</p>
+
+<p>A last ditch attempt to energise with a double decker bar (solid and tar-chewy) water slurps, followed by a fiddle with Dave Wilson’s tricky lights before Jarvist drops snake like, head first into the hole. Quietly, uncomplainingly I follow. After the crawl Jarvist points to a slice of darkness down which the stream falls. That'll be our exit he says. I ignore him and bolster myself for all the absurd journeying set to occur before that escape.</p>
+
+<p>I impersonate a caver, I follow, copy-catting his movements (though I have been warned in the past never to compare myself to this troglo-creature).</p>
+
+<p>A dubious looking scaffold warns of the cascading rope-draped drops, to be gripped in despair and through slip-sliding, fall indelicately onto each level. Trying hard not to land badly, my Swildon swollen ankle of over a year ago presents a psycho-somatic reminder.</p>
+
+<p>We then pass along narrow sideways corridors, still quite comfortably human-sized, which meander back and forth, tightly packed as intestines. Like snakes shedding skins we rub against the rock, the shushing, hushing of our suits against the scalloped walls offering a white noise surround. Inside the giant crushed and twisted fossilised body of a ancient worm. This kind of caving I get behind. Undulating, wandering, above-head-height ceilings of glittering droplets, and smooth calcified walls.</p>
+
+<p>The space comes alive when we meet water, its voice is ointment to the cave’s rasping. I splash through its body and my wellingtons fill, chilling my feet until the wet socks warm a layer. This junction requires a stooped walk as the ceiling presses in, and this movement sustained for any length of time disorientates, inducing drunken stumbling and splish-sploshing. We experience the indecision of upstream/ downstream/ upstream and with a pebble we mark our corridor of emergence. After a muddy shrinking mishap we go against the current and find a wide open room with boulders piled high.</p>
+
+<p>A fashion shoot ensues, the slaves doing their light work, and after another double decker we move on to the ascent. Jarvist spiders up and onto sheer heights and I look on caressing the reach and cursing my lack of leg-span.
+-  Are you sure this is the only way? He assures me it is. So he drops down and I use his body as a ladder, knee, shoulder and with some pushing, pulling and scrambling, I am up.</p>
+
+<p>The next corridor shrinks and I grow Alice-hunched, stepping sideways, then shuffling on bruised knees and eventually slithering along a wonderless shifting space to be met at the end by a watery threat. Hood up, a backward glance, a nod from Jarvist, yes that’s the way. Water trickles down my up-raised cuffs to bent elbows and down my neck.
+Then it's all arms and shoulders up ropes, swinging, scrambling feet against the unscarred, unholy cascades. Up, up and out. The final crawl, natural light and the sudden smell of green and atmosphere.</p>
+
+<p>There were straws somewhere, red tape to protect their formations and a low, low ceiling of sideways rolling, through puddles and sharp pointed pebbles. The order is jumbled though as I followed and considered only my most immediate challenges, the ‘how on earth am I supposed to get up there or over that, along that and not get stuck in there’.  The route and certainty of a way-out were Jarvist’s responsibility and with that I trusted him (despite the brief muddy downstream detour).  A seasoned caver could quite easily leave a novice to wander endlessly along those dark underground corridors. Terrifyingly reminiscent of a recently read novel, 'the house of leaves' describing a surreptitious and murderous shape shifting space. Happily Jarvist is not such a sinister creature and he helped me to emerge from the depths into a reformed spring evening.</p>
+<p style="text-align:right">Dani</p>
+
+<p>
+After Dani's traumatic experience in Swildons over a year previously, I had not managed to tempt her down another cave. Until now!</p>
+<p>Rhys and Sam had very kindly packed some kit and brought it up in the minibus. The Wellies fitted well, and size 5 not being in great demand, were absolutely pristine and grippy. The furry was knackered, with a broken zip, one of the knee pads actually an elbow pad in disguise, one glove XL the other L, and the oversuit a Meander 1B (the B is for Broad, I've always assumed). With, essentially, all of Dave Wilson's kit (which wasn't being used today), Dani was equipped.</p>
+<p>The walk over to WR was in low visibility, biting wind and with flurries of snow. "Where are we?", "Do you really know where you're going?" and "This isn't very much fun." were the main topics of conversation. Once underground, and over the trauma of the intial 5m crawl, we were greeted by a Bat fluttering around the pitch. Or at least I was.</p>
+<p>Down into wretched we wandered along the maze of twisty passages, rattling off the beautiful scalloping. The place seemed vaguely familiar, but I knew there were many route options on the way out, so I paid careful attention to the branches and where we joined / lost water. </p>
+<p>Down at Eureka junction I did what I always do, turning the wrong way and heading downstream then up into those little muddy chambers on the left. There was an impressive amount of foam on the ceiling, and a fairly high water level.</p>
+<p>Once I'd remembered myself, we zipped up to the crawl to Stop Pat, "Ah, this passage is more like it! It's nice when you can stand up." Dani rolled sideways through as much of the connection crawl as possible, whereupon we stood up. Wanting to keep it enjoyable &amp; bite sized, we headed upstream immediately, starting our loop back via the Spiral Staircase. The streamway was impressive. </p>
+<p>Into Green and Smelly, we kept low and kept at it, finding ourselves at an intimidating climb. I climbed up, confirming that the dry-stone walling and ludicrous-looking rift were indeed there, and that we were on the Spiral Staircase route. I popped back down to lend moral support (and a shoulder) to Dani. She wasn't enjoying the exposure here very much, and in truth neither was I.</p>
+<p>Dani led off into the Spiral Staircase proper, pausing for a few photos near the straws. She was less than impressed at the wet climb at the end of it, but then romped up the rope climbs at the entrance with ease.</p>
+<p>We burst outside to a beautiful day, pretty structured clouds and incredible visibility. Still cold, a but a beautiful walk back via Cow Dubs and Link, Lanc to get changed in the gathering twilight.</p>
+<p style="text-align:right">Jarv</p>
 
 <h2>Sunday</h2>
 
