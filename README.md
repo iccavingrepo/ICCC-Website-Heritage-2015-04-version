@@ -18,7 +18,7 @@ Host union
     ForwardAgent yes
 ```
 
-Confirm that 'ssh-agent -L' knows your identity.
+Confirm that 'ssh-add -L' knows your identity. (If not, 'ssh-add ~/.ssh/id_rsa' )
 
 You can test this with 'ssh -T git@github.com' once logged into the Union.
 
