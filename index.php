@@ -14,10 +14,14 @@
 
 <b>Mini calendar:</b> <b> Autumn 2013:</b>
 <pre>
-Easter Tour 2014:
-	31st Mar - 7th Apr	Sardinia
-Summer Term 2014:
-	Trips will be organised on an adhoc basis, get on the mailing list to hear about them!
+Pre-Autumn Term 2014:
+        September 26--28th Hidden Earth in Leek, Staffordshire
+	Come hear about our summer exploits!
+Autumn Term 2014:
+	17--19th Oct: Wales, Caerllwyn, WSG Cottage
+	31st Oct--2nd Nov: Wales, Ystradfellte, Croydon Cottage
+	14--16th Nov: Yorkshire, NPC Cottage
+	28--30th Nov: Yorkshire, NPC Cottage
 </pre>
 <a href="calender.php">Google Calendar</a></b>
 <br>
@@ -56,6 +60,63 @@ whygocaving();
 </p>
 
 <?php endtextdatebox();?>
+
+<?php begintextdatebox("Welcome 2014-2015 Cavers","2014&ndash;2015");?>
+<p>
+<p>Hello new IC students!</p>
+<p>Welcome to the Imperial College Caving Club website. If you are interested in caving, you've come to the right place.</p>
+
+<p>We are an active and friendly club. We have regular weekend caving trips, mid-week meet ups in London, and foreign expeditions (...holidays). We hope you'll want to get involved.</p>
+
+<p>A list of our upcoming trips can be found above, as well as on our <a href="calender.php">GCal</a>. There's lots of useful information for new and prospective members <a href="new_member.php">here</a>. You can also check out our trip reports in the menu to the left. <a href="/caving/wales/wales-2010-10-15.php">A typical Wales (fresher's) trip</a>; <a href="/caving/yorkshire/yorkshire-2012-11-09.php">A typical Yorkshire trip</a>. And please email us on our gmail if you have any questions.</p>
+
+<p>Our next appearance will be in Beit Quad at Fresher's Fair, maybe we will see (or have seen) you there. After that join us in <b>Princes Gardens each Wednesday at 1pm</b> where we will be doing an equipment familiarisation session (read: climbing in trees with our caving kit) or at the <b>Union Bar on Tuesdays at 7pm</b> (starting 8/10/13) for beer and wildly exaggerated tales of past caving adventures. </p> 
+
+</p>
+<?php endtextdatebox();?>
+
+<?php begintextdatebox("Skozi Zrcalo &mdash; Migovec 2014","11th July&ndash;17th August");?>
+<p>
+The club was on expedition to Tolminski Migovec, Slovenia, from the 11th July to the 17th August. There we joined the local JSPDT to continue exploration of the Tolminski Migovec mountain. Our plan is to setup an underground camp in the Migovec System at Camp X-Ray, and push the deep leads at 800-972 m of depth. The best source of in the field updates will probably be twitter, photos are most likely to appear on facebook as people come down from the mountain / fly home. We have a talk planned for Hidden Earth 2014 in September.
+</p>
+<center><a href="/caving/slovenia/slov2014/">Expedition Subsite</a> | <a href="https://www.facebook.com/events/606093562822926/">Facebook Event</a> | <a href="https://twitter.com/iccc">Twitter Updates</a></center>
+<?php endtextdatebox();?>
+
+<?php begintextdatebox("France Mini Tour","24&ndash;30th June 2014");?>
+<a href="/caving/photo_archive/tours/2014%20-%20france/RhysTyers_DSC_1060.html">
+<img align=left src="/caving/photo_archive/tours/2014%20-%20france/RhysTyers_DSC_1060--thumb.jpg">
+</a>
+<a href="/caving/photo_archive/tours/2014%20-%20france/RhysTyers_DSC_0916.html">
+<img align=right src="/caving/photo_archive/tours/2014%20-%20france/RhysTyers_DSC_0916--thumb.jpg">
+</a>
+<p>Showing incredible enthusiasm and an increasing desperation to breathe something other than diesel fumes ICCC fled to the Midi-Pyrenees on an unprecedented second foreign tour. With help from local contacts we visited three caves in total, Degaudez, Coume Ferrat, and Portillon (Portaloo). Other highlights include a walk to a frozen lake and a bbq in the pissing rain. </p>
+<center><a href="/caving/france/france-2014-06-24.php">Trip Report</a> | <a href="/caving/photo_archive/tours/2014%20-%20france/">Photos</a></center>
+<?php endtextdatebox();?>
+
+<?php begintextdatebox("Wales III","13&ndash;15th June 2014");?>
+<a href="/caving/photo_archive/trips/2014-06-13%20-%20wales/RhysTyers_DSC_0612.html">
+<img align=left src="/caving/photo_archive/trips/2014-06-13%20-%20wales/RhysTyers_DSC_0612--thumb.jpg">
+</a>
+<a href="/caving/photo_archive/trips/2014-06-13%20-%20wales/RhysTyers_DSC_0531.html">
+<img align=right src="/caving/photo_archive/trips/2014-06-13%20-%20wales/RhysTyers_DSC_0531--thumb.jpg">
+</a>
+<p>An ambitious plan to camp in Daren began ominously with broken van keys and the president out of action in a (non union)van/bike incident. Undeterred the team struck out and made a good go of Daren. Repeating the entrance crawl twice in one day is probably punishment enough for failing to find the way on. A seperate contigent accompanied the hut warden on a survey trip into Aggy, whilst the patched up president wandered across the hills.</p>
+<center><a href="/caving/wales/wales-2014-06-13.php">Trip Report</a> | <a href="/caving/photo_archive/trips/2014-06-13%20-%20wales/">Photos</a></center>
+<?php endtextdatebox();?>
+
+<?php begintextdatebox("Easter Tour","31st March&ndash;7th April 2014");?>
+<a href="/caving/photo_archive/tours/2014%20-%20sardinia/RhysTyers-DSC_0133.html">
+<img align=left src="/caving/photo_archive/tours/2014%20-%20sardinia/RhysTyers-DSC_0133--thumb.jpg">
+</a>
+<a href="/caving/photo_archive/tours/2014%20-%20sardinia/RhysTyers-DSC_0242.html">
+<img align=right src="/caving/photo_archive/tours/2014%20-%20sardinia/RhysTyers-DSC_0242--thumb.jpg">
+</a>
+<p> Striking out from the damp and dark of the UK ICCC ventured to a far off paradise, Sardinia. The caves are warm, the sun is hot, the wine is cheap. We had a wonderful time visiting Su Palu, Su Bentu, and Sa Routta 'e S'Edera and meeting the Nuoro caving club who kindly showed us round. I can see why we keep going back!
+</p>
+<center><a href="/caving/sardinia/sardinia14.php">Trip Report</a> | <a href="/caving/photo_archive/tours/2014%20-%20sardinia/">Photos</a></center>
+<?php endtextdatebox();?>
+
+
 <?php begintextdatebox("Sic Semper Tyrannis","18th March 2014");?>
 <center>
 <a href="/rcc/caving/photo_archive/mugshots/Tanguy%20Racine.html">
@@ -101,11 +162,23 @@ Feeling the winds of change the cavers of ICCC gathered to choose the lucky few 
 </p>
 <?php endtextdatebox();?>
 
+<?php begintextdatebox("Yorkshire IV","21&ndash;23rd March 2014");?>
+<a href="/caving/photo_archive/trips/2014-03-21%20-%20yorkshire/JackHare-P1030150.html">
+<img align=left src="/caving/photo_archive/trips/2014-03-21%20-%20yorkshire/JackHare-P1030150--thumb.jpg">
+</a>
+<a href="/caving/photo_archive/trips/2014-03-21%20-%20yorkshire/JackHare-P1030224.html">
+<img align=right src="/caving/photo_archive/trips/2014-03-21%20-%20yorkshire/JackHare-P1030224--thumb.jpg">
+</a>
+<p>
+A lightweight trip to Yorkshire to round off the term. The keen crack team had a variety of adventures in Easegill on Saturday and a very lightweight team had a visit to the spectacular Alum.
+</p>
+<center><a href="/caving/yorkshire/yorkshire-2014-03-21.php">Trip Report</a> | <a href="/caving/photo_archive/trips/2014-03-21 - yorkshire/">Photos</a></center>
+<?php endtextdatebox();?>
+
+
 <?php begintextdatebox("Mendips III","07&ndash;9th March 2014");?>
 <p>
 In a brilliant display of cunning and subterfuge we organised a trip to the Mendips to conincide with Jarv's surprise birthday celebration. At long last we managed to complete the short round trip in Swildons on Saturday finding that on our previous attempts we had been mere metres from the correct way on. In the evening we joined the eclectic gathering of Jarv's friends and family and made a sizeable dent in the huge array of delcious treats and alcohol. On Sunday we relaxed on a sunny Priddy green until it was time to head home.
-</p>
-<center><a<!-- href="/caving/yorkshire/mendip-2014-03-07.php">-->Trip Report</a> <!--| <a href="/caving/photo_archive/trips/2014-03-07 - mendips/">Photos</a> --> </center>
 <?php endtextdatebox();?>
 
 <?php begintextdatebox("Yorkshire III","21&ndash;23rd February 2014");?>
