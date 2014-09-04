@@ -1,9 +1,7 @@
 <?php include('header.php');?>
-<style>
-  td {font-family: verdana,arial,helvetica,sans-serif}
-  td {font-size: 10pt}
-</style>
+
 <br>
+
 <!-- Alignment to Photos box, now we have top box-->
 <?php begintextdatebox("Calendar","");?>
 <p><img align=right src="barebum_blue.gif">

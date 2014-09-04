@@ -1,4 +1,4 @@
-<? require('../header-UTF8.php'); ?>
+<? require('../header.php'); ?>
 
 <h1>Yorkshire</h1>
 

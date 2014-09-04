@@ -48,7 +48,7 @@ while ( $dataline = fgets($fp) ) {
 <?php begintextbox("Skozi Zrcalo 2014");?>
 <p class="menu">
 <a class="menu" href="/caving/slovenia/slov2014/">Skozi Zrcalo 2014</a><br>
-<!-- <a class="menu" href="/caving/photo_archive/slovenia/2014/">2014 Photos</a><br> -->
+<a class="menu" href="/caving/photo_archive/slovenia/2014/">2014 Photos</a><br> 
 </p>
 <?php endtextbox();?>
 

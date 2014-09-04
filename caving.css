@@ -1,0 +1,100 @@
+/* IC caving web site style sheet for main pages 
+(swiped from xmps.sourceforge.net)
+*/
+
+/* Page properties */
+
+body {	background-color: #000000;
+	color: #FFFFFF;
+	font-size: 11pt;
+	font-family: verdana,arial,helvetica,sans-serif; 
+	/*width: 600px;
+	margin: 0 auto;*/ }
+
+/* Paragraphs */
+
+P {	color: #FFFFFF;
+	font-family: verdana,arial,helvetica,sans-serif;
+	font-size: 11pt; }
+	
+
+P.titlemenu {	color: #FFFFFF;
+		font-family: verdana,arial,helvetica,sans-serif;
+		font-weight: bold;
+		font-size:  11pt}
+
+P.menu {	color: #FFFFFF;
+		text-align: center;
+		font-family: verdana,arial,helvetica,sans-serif;
+		font-size: 11pt; }
+		
+
+/* Link properties */
+
+A:link     {	text-decoration: none;
+		font-family: verdana,arial,helvetica,sans-serif;
+		color: #527698; 
+		font-weight: bold }
+
+A:visited  {	text-decoration: none;
+		font-family: verdana,arial,helvetica,sans-serif;
+		color: #f87a17; 
+		font-weight: bold }
+
+A.menu:link{	text-decoration: none;
+		font-family: verdana,arial,helvetica,sans-serif;
+		color: #527698;
+		font-weight: normal; }
+
+A.menu:visited{	text-decoration: none;
+	        font-family: verdana,arial,helvetica,sans-serif;
+		color: #cdcdaa;
+		font-weight: normal; }
+
+/* tables */
+
+TABLE.rootmenu{	background-color: #EEEEEE ;
+max-width: 66em;
+}
+
+TABLE.articlemenu { border:none;
+width: 100%;
+max-width: 66em;
+}
+
+TABLE.insidemenu{	 border: none }
+
+TD.titlemenu { background-color: #426688 }
+
+TD.redmenu { background-color: #106040 }
+
+TD.menu {background-color: #001121 }
+
+/* Heading Properties */
+
+H1 {	font-family: verdana,arial,helvetica,sans-serif;
+	font-size: 24pt; 
+	text-align: right;
+	color:	#EEEEEE; }
+
+H2 { font-family: verdana,arial,helvetica,sans-serif;
+     font-size: 18pt;
+     font-weight: bold;
+     color: #CDCDAA;
+     }
+
+H3 { font-family: arial,helvetica,sans-serif;
+     font-size: 12pt;
+     font-weight: bold;
+     color: #FFFF99;
+      }
+
+
+UL { color: #FFFFFF;
+     font-family: verdana,arial,helvetica,sans-serif;
+     font-size: 11pt;}
+
+DL {	color: #FFFFFF;
+	font-family: verdana,arial,helvetica,sans-serif;
+	font-size: 11pt;}
+

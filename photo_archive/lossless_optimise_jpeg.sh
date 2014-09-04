@@ -1,4 +1,4 @@
-for i in "$@"
+for i 
 do
  echo "Optimising: ${i}"
  before=` ls -l "${i}" | cut -f5 -d\  `

@@ -1,14 +1,9 @@
-<style>
-  td.titlemenu { background-color: #426688; }
-  td.menu { background-color : #001121; }
-</style>
-
 <table border="0" cellspacing="3" cellpadding="3" width="100%">
  <tr>
  <td valign="top" width="185">
 <FORM method=GET action=http://www.google.com/search>
 
-<p class="menu">
+<p class="menu" >
 <img align=left src="/caving/logo.png" width="106" height="106">
 <strong>
 <a class="menu" href="/caving/index.php"><b>Home</b></a> <br>
@@ -16,22 +11,22 @@
 <a class="menu" href="/caving/new_member.php"><b>Club Info</b></a>
 <a class="menu" href="/caving/wiki.php"><b>Wiki</b></a> <br>
 <a class="menu" href="/caving/library.php"><b>Library</b></a> <br>
-<a class="menu" href="/caving/contacts.php"><b>Contacts</b></a>
+<a class="menu" href="/caving/contacts.php"><b>Contacts</b></a> <br>
 <a class="menu" href="/caving/awards.php"><b>Awards</b></a>
 </strong>
 </p>
 
-<img src="/caving/spacer.png" width="185" height="12"></img>
+<!-- <img src="/caving/spacer.png" width="185" height="12"></img> !-->
 
 <form>
-<INPUT TYPE=text bgcolor=#000000 color=#FFFFFF name=q size=12 maxlength=255 value="                          'union.ic.ac.uk/rcc/caving'">
+<INPUT TYPE=text bgcolor=#000000 color=#FFFFFF name=q size=18 maxlength=255 value="                                'union.ic.ac.uk/rcc/caving'">
 <INPUT type=submit name=sa VALUE="Go!">
 <font size=-1>
 <input type=hidden name=domains value="">
 </input>
 </form>
 
-<img src="/caving/spacer.png" width="185" height="16"></img>
+<img src="/caving/spacer.png" width="185" height="13"></img>
 
 <?php begintextbox("Photos");?>
 <p class="menu"> 
@@ -67,8 +62,8 @@ while ( $dataline = fgets($fp) ) {
 </p>
 <?php endtextbox();?>
 
- <?php begintextbox("Expeditions");?>
-  <p class="menu">
+<?php begintextbox("Expeditions");?>
+<p class="menu">
 <a class="menu" href="/caving/slovenia/slov2013/">
 <img width=170 src="/caving/slovenia/slov2012/slov_2012_badge_day_170px.jpg"><br>
 </a>
@@ -78,7 +73,7 @@ while ( $dataline = fgets($fp) ) {
 <br> 
 Morocco: 
 <a class="menu" href="/caving/morocco/expo2001/report.php">2001</a>
- <a class="menu" href="/caving/morocco/recce99/morocco99.php">1999</a>
+<a class="menu" href="/caving/morocco/recce99/morocco99.php">1999</a>
 <br>
 </p>
 <?php endtextbox();?>
@@ -398,7 +393,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 -->
 </td>
 
-<td valign="top" width="100%">
+<td valign="top" width="100%" >
 <p class="menu" style="text-align:right">
 
 <a class="menu" href="https://plus.google.com/u/0/b/114742080073184112874/"  rel="publisher"><b>G+</b></a>
@@ -419,3 +414,6 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 <img src="/caving/union_logo.gif">
 </h1>
 <br><br>
+
+<table align="center" class="articlemenu">
+<td>

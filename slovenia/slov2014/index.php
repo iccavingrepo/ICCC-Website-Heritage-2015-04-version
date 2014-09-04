@@ -13,7 +13,8 @@ We're back after a succesful expo (~1.2 km found); social media links may have m
 <h2>Returning info...</h3>
 
 <a href="https://jarvbites.wordpress.com/2014/08/05/skozizrcalo/">Jarv's Blog Post Writeup</a><br>
-<a href="/caving/photo_archive/slovenia/2014/dirindex.html">2014 Photos</a>
+<a href="/caving/photo_archive/slovenia/2014/dirindex.html">2014 Photos</a><br>
+<a href="https://www.youtube.com/playlist?list=PLXLkC01650Kcg0lOZheIk36o2MbE5XToo">Jarv's YouTube Vids</a>
 
 
 <h2>2013 findings & report:</h2>
