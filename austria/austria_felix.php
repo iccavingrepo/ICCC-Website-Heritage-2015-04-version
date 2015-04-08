@@ -1,11 +1,5 @@
 <? require('../header.php'); ?>
 
-<style>
-A:link {color: #40B080; }
-A.menu:link {color: #40B080; }
-TD.titlemenu { background-color : #106040 }
-TD.menu {background-color : #021208 }
-</style>
 <a href="/caving/photo_archive/tours/2006%20-%20austria%20-%20various/204-csb-Mark_shinwell.html">
 <img align=right height="600" width="400" src="/caving/photo_archive/tours/2006%20-%20austria%20-%20various/204-csb-Mark_shinwell.JPG"></a>
 <a href="/caving/photo_archive/tours/2006%20-%20austria%20-%20various/">Photos</a>

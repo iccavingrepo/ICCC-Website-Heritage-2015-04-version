@@ -1,12 +1,5 @@
 <?php require('../header.php'); ?>
  
-<style>
-  A:link {color: #40B080; }
-  A.menu:link {color: #40B080; }
-  TD.titlemenu { background-color : #106040 }
-  TD.menu {background-color : #021208 }
-</style>
-
 <h1>Chillagoe, north Queensland, Australia</h1>
 <h2>Weekend Trip 18/19 October 2003</h2>
 <p>Jan (and his beast of a 4x4)</p>

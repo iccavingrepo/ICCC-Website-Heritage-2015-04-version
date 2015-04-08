@@ -1,12 +1,5 @@
 <? require('../header.php'); ?>
 
-<style>
-A:link {color: #40B080; }
-A.menu:link {color: #40B080; }
-TD.titlemenu { background-color : #106040 }
-TD.menu {background-color : #021208 }
-</style>
-
 <h1>Forest of Dean</h1>
 <h2>Daytrip 22 January 2006: <a href="/caving/photo_archive/trips/2006-01-22%20-%20dean/">Photos</a></h2>
 

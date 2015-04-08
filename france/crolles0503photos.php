@@ -1,13 +1,5 @@
 <?php require('../header.php'); ?>
  
-<style>
-  A:link {color: #40B080; }
-  A.menu:link {color: #40B080; }
-  TD.titlemenu { background-color : #106040 }
-  TD.menu {background-color : #021208 }
-  td {text-align: center }
-</style>
-
 <h2>France - 23<sup>rd</sup> to 26<sup>th</sup> May 2003</h2>
 
 <p>

@@ -1,12 +1,5 @@
 <? require('../header.php'); ?>
 
-<style>
-A:link {color: #40B080; }
-A.menu:link {color: #40B080; }
-TD.titlemenu { background-color : #106040 }
-TD.menu {background-color : #021208 }
-</style>
-
 <h1>Derbyshire [<i>the horror...</i>]</h1>
 <h2>Weekend Trip  3-5th December 2004</h2>
 <h3>Moritz [Efficient German #1], Jarvist Frost, Daniel Greenwald, 

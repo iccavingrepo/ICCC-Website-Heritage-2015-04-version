@@ -1,10 +1,13 @@
+</div>
+ <!-- class="content-box" -->
 
-</td></table>
+</div> <!-- class="centre-col" -->
 
- </td>
- </tr>
- </table>
- </font>
+<div class="right-col">
+
+</div>
+
+</div> <!-- class="container" -->
 
 </body>
  </html>

@@ -1,4 +1,4 @@
-<?php require('../../mainheader.php');?> <style>  A:link {color: #40B080; }  A.menu:link {color: #40B080; }  TD.titlemenu { background-color : #106040 }  TD.menu {background-color : #021208 }</style>   <table border="0" cellspacing="3" cellpadding="3" width="100%"> <tr> <td valign="top" width="180"> <center><img src="/caving/slovenia/miglogo.png"></center><br> <img src="/caving/spacer.png"></img><br>  
+<?php require('../../mainheader.php');?> <style> .right-col {display: none;}  A:link {color: #40B080; }  A.menu:link {color: #40B080; }  TD.titlemenu { background-color : #106040 }  TD.menu {background-color : #021208 } h1, h2 {color: inherit}</style>   <table border="0" cellspacing="3" cellpadding="3" width="100%"> <tr> <td valign="top" width="180"> <center><img src="/caving/slovenia/miglogo.png"></center><br> <img src="/caving/spacer.png"></img><br>  
 
 <center><a href="/caving/index.php"><strong>Back to ICCC...</strong></a>
 </center>

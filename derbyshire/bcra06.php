@@ -1,11 +1,5 @@
 <? require('../header.php'); ?>
 
-<style>
-A:link {color: #40B080; }
-A.menu:link {color: #40B080; }
-TD.titlemenu { background-color : #106040 }
-TD.menu {background-color : #021208 }
-</style>
 <h1>Photos</h1>
 <h2>BCRA Conference</h2>
 <a href="/caving/photo_archive/tours/2006%20-%20austria%20-%20various/tunnocks-ribsknodel-Mark_shinwell.html">

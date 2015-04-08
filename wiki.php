@@ -1,4 +1,4 @@
-<?php include('wikiheader.php');?>
+<?php include('header.php');?>
 <br>
 <!-- Alignment to Photos box, now we have top box-->
 <?php chdir('wiki'); include_once('pmwiki.php');?>

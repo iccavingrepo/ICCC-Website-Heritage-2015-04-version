@@ -1,21 +1,21 @@
 <?php include('header.php') ?>
-<img align=right src="/caving/natural_born_caver.gif">
+<img align=right height=200px src="/caving/natural_born_caver.gif">
 <h2>Information for New Members:</h2>
 
 <p>
 <ul>
 <li><a href="#about">About ICCC</a></li>
 <li><a href="#sside">Weekly Meetings [Tuesdays in the Union Bar, 7:00pm]</a></li>
-<li><a href="#train">Training [Wednesdays Princes Gardens, 1pm]</a></li>
+<li><a href="#train">Training [Wednesdays Princes Gardens, 12pm]</a></li>
 <li><a href="#trips">Weekend Trips [Fortnightly during term]</a></li>
 <li><a href="#foreign">Foreign Trips</li>
 <li><a href="#faq">FAQ</a></li>
-<br>
 <li><a href="stores.php">Getting to Stores</a></li>
-<br>
 <li><a href="fresher_first_trip_handout.pdf">Fresher First-Trip Handout (PDF)</a></li>
 </ul>
 </p>
+
+<hr>
 
 <a name="about"></a>
 <h2>About Imperial College Caving Club</h2>
@@ -50,12 +50,13 @@ Caving gets you out of London, doesn't involve sweating on indoor climbing walls
 <a href="/caving/photo_archive/slovenia/2006-Yossarian/010-Razor%20Cave/Entrance%20Chamber%204s%20exposure%20200asa%20a520.html">
 <img align=left src="/caving/photo_archive/slovenia/2006-Yossarian/010-Razor%20Cave/Entrance%20Chamber%204s%20exposure%20200asa%20a520--thumb.jpg">
 </a>
-We cave all year round (UK caves are a fairly constant 15C), and you're guaranteed to get some good trips in on the weekend, even if the weather does turn nasty.</p>
- 
-<p>
 <a href="/caving/photo_archive/slovenia/highlights/shed%20tetly%20and%20alva%20at%20the%20hotel%20sysmig%201997%20by%20mark%20evans.html">
 <img align=right src="/caving/photo_archive/slovenia/highlights/shed%20tetly%20and%20alva%20at%20the%20hotel%20sysmig%201997%20by%20mark%20evans--thumb.jpg">
 </a>
+We cave all year round (UK caves are a fairly constant 15C), and you're guaranteed to get some good trips in on the weekend, even if the weather does turn nasty.</p>
+ 
+<p>
+
 Caving doesn't require obsessive exercise or a particular build, but it's an excellent way of getting and keeping fit. </p>
 
 <p>Caving is very much a team activity - the more experienced people on a trip can make things easier for the relative novices, and with a club such as ours, new members can quickly find themselves doing significent trips.</p>
@@ -80,28 +81,34 @@ Caving exploration is not like this. There is only one way of discovering what l
  
 <p>And when underground - there is just you and your friends. Self-reliance and cooperation begin on day one, and go on to form extremely strong relationships.</p>
  
+<hr>
+ 
 <a name="sside"></a>
 <h2>Weekly Meetings</h2>
 <p>
 <a href="/caving/photo_archive/trips/2004-01-31%20-%20derbyshire%20-%20lyndon/sm_124_2454.html">
   <img src="union_bar.jpg" height=175 align="right">
   </a>
-  The club meets every term-time Tuesday night from 7:00pm in the Union bar.<br>
+  The club meets every term-time Tuesday night from 7:00pm in the Union bar.<br><br>
   At these meetings, we discuss upcoming trips, plan tours to exotic climes, and
   exchange tall tales of caverns measureless to man.  For a bit of a laugh, excellent
-  anecdotes, plus a few choice ales, come along and meet us.<br>
+  anecdotes, plus a few choice ales, come along and meet us.<br><br>
   You'll also need to come along to these meetings to book yourself a place on our
   introductory trips.  Seats in the minibus are limited, so sign up early!
 </p>
 
+<div style="clear:both"></div>
+<br>
+<hr>
+
 <a name="train"></a>
 <h2>Training</h2>
 
-<table width=600>
+<table>
 <tr>
   <td><p>
      All training and equipment is provided by the club. The first few trips of the year won't require a 
-     huge amount of rope work, so we'll start with belayed ladders and traverse lines before moving on to 
+     huge amount of rope work so we have a chance to train you up before we move on to trips that require
      SRT (single rope technique). SRT is an extremely safe and lightweight method of tackling vertical caves, 
      but does require a fair bit of practice to master it. However, once learnt, the speed and freedom with which 
      you can tackle vertical potholes is truly liberating. </p>
@@ -114,10 +121,12 @@ Caving exploration is not like this. There is only one way of discovering what l
 <tr>
   <td>
     <b><i>Where?</i></b> Prince's Gardens<br>
-    <b><i>When?</i></b> (Probably) Wednesday at 1:00pm, e-mail for confirmation.<br>
+    <b><i>When?</i></b> Wednesday at 2:00pm, e-mail for confirmation.<br>
     <b> See you there!</b>
 </tr>
 </table>
+
+<hr>
 
 <br>
 <a name="trips"></a>
@@ -154,7 +163,7 @@ Caving exploration is not like this. There is only one way of discovering what l
 
 <p>
   <b>Cost</b><br>
-  The cost for a usual weekend trip is &pound;35, the first two trips of the year will be subsidised to &pound;15.<br>
+  The cost for a usual weekend trip is &pound;35, the first two trips of the year will be subsidised to &pound;10.<br>
   This includes <b>all</b> caving kit, food and transport for the weekend.<br> 
   All you will need to bring is a sleeping bag and warm clothes. We can even lend you a sleeping bag if you don't have one!
 </p>
@@ -166,7 +175,7 @@ Caving exploration is not like this. There is only one way of discovering what l
 </p>
 
 <p>
-  <table>
+  <table width=100%>
     <tr>
       <td>
         <b>What to bring</b><br>
@@ -186,7 +195,8 @@ Caving exploration is not like this. There is only one way of discovering what l
       
       </center>
   </table>
-        Nb: This is a rather fine hut in Wales, a far more accurate guide can be found <a href="https://union.ic.ac.uk/rcc/caving/wiki.php?n=Main.HutInformation">Here</a>.
+  <br>
+  Nb: This is a rather fine hut in Wales, a far more accurate guide can be found <a href="https://union.ic.ac.uk/rcc/caving/wiki.php?n=Main.HutInformation">Here</a>.
 	
 </p>
 
@@ -208,11 +218,15 @@ Caving exploration is not like this. There is only one way of discovering what l
 </p>
 <br><br><br><br><br>
 
+<hr>
+
 <a name="foreign"></a>
 <h2>Foreign Trips</h2>
 <p>ICCC organises regular trips to the continent, and occasionall beyond. With have a large vested interest in Tolminski Migovec on Slovenia, with over twenty kilometres of passage found over the last two decades. These are organised by the interested parties during the year, come along to a weekly meeting to find out what's on the horizon. We can generally get some sort of funding from national research councils for bona fide research in order to try and keep the cost low enough for the general student.
 </p>
 <p>Also, don't forget to contribute yourself. If there's somewhere that you want to go, and it has limestone with caving potential, we can probably organise something!</p>
+
+<hr>
 
 <a name="faq"></a>
 <h1>Frequently Asked Questions</h1>
@@ -309,7 +323,7 @@ plenty we can show you that are explored by just walking, or crouching.
 <a name="lost"></a><h2>Will I get lost?
 </h2>
 <p>No. Caves can be complicated, but its hard to get lost. The more
-experienced club members lead the trips and know the caves. Whilst its
+experienced club members lead the trips and know the caves whilst its
 easy to get maps and descriptions for caves if you are doing them for
 first time.
 </p>
@@ -317,7 +331,7 @@ first time.
 <a name="deep"></a><h2>How deep are caves?
 </h2><p>The deepest in the UK is 300m, and you don't even need to take any
 ropes or ladders to get to the bottom. The deepest cave found during our 
-expeditions to Slovenia stops just shy of 1km at 970m.
+expeditions to Slovenia stops just shy of 1km at 970m. The deepest cave in the world is just over 2km.
 </p>
 
 <a name="air"></a><h2>Can I breathe that deep underground? Is there enough air?
@@ -339,7 +353,7 @@ no technical skills, there are some useful tips for traversing a passage
 or caving safely, but generally you do what works, regardless of how
 graceful or good it looks. When it comes to climbing a ladder or
 abseiling on a rope, we'll teach you all you need to know and let you
-practice in the Trees + easy caves until you are more confident.
+practice in the TreeTrees + easy caves until you are more confident.
 </p>
 
 <a name="clothes"></a><h2>What clothes will I need for caving?
@@ -357,8 +371,8 @@ we quite often end up changing on the verge of a road!
 <p>Thats the beauty of caves, they are all over the world. And its our
 mission to continually think up weird and wonderful countries to visit
 under the pretext of caving! Having a central aim when visiting other 
-countries is great - because it FORCES you out of the tourist traps + 
-into the country proper, and then propels you into some BREATHTAKING 
+countries is great - because it forces you out of the tourist traps and 
+into the country proper, and then propels you into some breathtaking 
 scenery in order to get to the entrances themselves. 
 </p>
 

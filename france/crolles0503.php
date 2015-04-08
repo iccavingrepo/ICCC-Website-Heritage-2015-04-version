@@ -1,13 +1,5 @@
 <?php require('../header.php'); ?>
  
- <style>
-  A:link {color: #40B080; }
-  A.menu:link {color: #40B080; }
-  TD.titlemenu { background-color : #106040 }
-  TD.menu {background-color : #021208 }
-</style>
-
-
 <h2>Trip to Dent de Crolles</h2>
 <b>Fri 23<sup>rd</sup> to Mon 26<sup>th</sup> May</b>
 

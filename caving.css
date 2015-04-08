@@ -1,100 +1,216 @@
 /* IC caving web site style sheet for main pages 
-(swiped from xmps.sourceforge.net)
 */
 
 /* Page properties */
 
 body {	background-color: #000000;
-	color: #FFFFFF;
-	font-size: 11pt;
-	font-family: verdana,arial,helvetica,sans-serif; 
-	/*width: 600px;
-	margin: 0 auto;*/ }
+	color: #CCCCCC;
+	font-family: Helvetica, Arial, sans-serif; 
+	font-size: 16px;
+	}
 
 /* Paragraphs */
 
-P {	color: #FFFFFF;
-	font-family: verdana,arial,helvetica,sans-serif;
-	font-size: 11pt; }
-	
-
-P.titlemenu {	color: #FFFFFF;
-		font-family: verdana,arial,helvetica,sans-serif;
-		font-weight: bold;
-		font-size:  11pt}
-
-P.menu {	color: #FFFFFF;
-		text-align: center;
-		font-family: verdana,arial,helvetica,sans-serif;
-		font-size: 11pt; }
-		
+P {	/*color: #CCCCCC;
+	font-size: 0.938rem;*/ }
 
 /* Link properties */
 
+pre {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
 A:link     {	text-decoration: none;
-		font-family: verdana,arial,helvetica,sans-serif;
-		color: #527698; 
-		font-weight: bold }
+		color: #828282; 
+		/*font-weight: bold*/ }
+A:visited {	text-decoration: none;
+		color: #828282; 
+		/*font-weight: bold*/ }
+a:hover {
+  color: #C03A33 ;}
 
-A:visited  {	text-decoration: none;
-		font-family: verdana,arial,helvetica,sans-serif;
-		color: #f87a17; 
-		font-weight: bold }
+.menuyear  {    text-align: center; }
 
-A.menu:link{	text-decoration: none;
-		font-family: verdana,arial,helvetica,sans-serif;
-		color: #527698;
-		font-weight: normal; }
+A.menu, .menu { color: #FFFFFF;
+		text-align: center;
+		font-size: 12px;
+                font-weight:normal; }
 
-A.menu:visited{	text-decoration: none;
-	        font-family: verdana,arial,helvetica,sans-serif;
-		color: #cdcdaa;
-		font-weight: normal; }
-
-/* tables */
-
-TABLE.rootmenu{	background-color: #EEEEEE ;
-max-width: 66em;
-}
-
-TABLE.articlemenu { border:none;
-width: 100%;
-max-width: 66em;
-}
-
-TABLE.insidemenu{	 border: none }
-
-TD.titlemenu { background-color: #426688 }
-
-TD.redmenu { background-color: #106040 }
-
-TD.menu {background-color: #001121 }
 
 /* Heading Properties */
 
-H1 {	font-family: verdana,arial,helvetica,sans-serif;
-	font-size: 24pt; 
+H1 {	
+	font-size: 20px; 
 	text-align: right;
-	color:	#EEEEEE; }
+	color:	#C03A33/*#F74037*/; }
 
-H2 { font-family: verdana,arial,helvetica,sans-serif;
-     font-size: 18pt;
+H2 { 
+     font-size: 18px;
      font-weight: bold;
-     color: #CDCDAA;
+     color: #C03A33;
      }
 
-H3 { font-family: arial,helvetica,sans-serif;
-     font-size: 12pt;
+H3 { 
+     font-size: 16px;
      font-weight: bold;
-     color: #FFFF99;
+     color: #CCCCCC;
       }
+	  
+.content-header-left, .content-header-right, .content-header-center {
+  margin: 5px 0px 0px 0px;} 
+
+.content-header-left {
+  float: left;
+  color: #C03A33 
+}
+
+.content-header-right {
+  float: right;
+  color: #828282; }
+
+.content-header-center {
+  text-align:center;
+  color: #C03A33 }
 
 
-UL { color: #FFFFFF;
-     font-family: verdana,arial,helvetica,sans-serif;
-     font-size: 11pt;}
+.container {
+    width: 1500px;        /*calc(860px + 320px + 320px);*/
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-DL {	color: #FFFFFF;
-	font-family: verdana,arial,helvetica,sans-serif;
-	font-size: 11pt;}
+.left-col {
+    float: left;
+    width: 320px;
+    background-image: url("/caving/caver_divider1.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100px 770px;
+    background-position: right top; 
+	
+}
 
+.right-col {
+    float: left;
+    width: 320px;
+    height: 1px;
+    background-image: url("/caving/caver_divider2.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 80px 560px;
+    background-position: left top;
+    padding-bottom: 500px;
+    margin-bottom: -500px;
+}
+
+.centre-col {
+    float: left;
+    width:  800px; /*      calc(860px - (30px * 2));*/
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.centre-col:after {
+  content: "";
+  display: table;
+  clear: both; }
+
+.sidebar {
+  width: 185px;
+}
+
+.menu-button {
+     display: none;
+}
+
+.menu-visible {
+    display: "";
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    float: none;
+    max-width: 185px;
+}
+
+.menu-hidden {
+     display: none;
+}
+
+.content-box, .main-content-box {
+  margin-bottom: 30px;
+  overflow: hidden;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  background-color: #1A1A1A;
+  padding: 5px 5px 5px 5px;
+  min-height: -30px; }
+
+  /*Screen size stuff*/
+  /* Below 1500px left hand bg image, dissapears and left-col width is reduced, right col
+     reduced symmetrically */
+@media screen and (max-width: 1500px) {
+.container {
+    width: 1230;}
+.left-col {
+    background-image: none;
+    width: 185px;
+    height: 1px;}
+.right-col {
+    width: 185px;}
+}
+
+/* Below 1230px right column is completely removed */
+
+@media screen and (max-width: 1230px) {
+.right-col {
+    display: none;}
+.container {
+    width: 1000px;}
+.centre-col {
+    max-width: 755px;}
+}
+
+/*below 1000px left column (and therefore sidebar) is completely
+  removed and replaced by a button to activate the menu 
+  */
+/*
+@media screen and (max-width: 1000px) {
+.left-col {
+    width: 0px;}
+.container { 
+   width: auto;}
+.centre-col {
+    margin-right: auto;
+    margin-left: auto;
+    float: none;
+    width: auto;
+    max-width: none;}
+.menu-button {
+    width: 50px;
+    height: 50px;
+    display: inline; }
+   .sidebar {
+    display: none;}
+.content-header-left, .content-header-right {
+    float: none; }
+pre {
+    font-size: 16px;}
+.menu-visible {
+     width: 100%;
+     margin-left: 0px;
+     margin-right: 0px;
+     text-align: center;
+     max-width: none;}
+.menu-visible .content-box {
+    display: inline-table;
+    width: 185px;
+    min-height: 210px;}
+}*/
+
+/*below 1000px some settings changed to allow for quirks of mobile devices
+  */
+@media screen and (max-width: 1000px) {
+.content-header-left, .content-header-right {
+    float: none; }
+}

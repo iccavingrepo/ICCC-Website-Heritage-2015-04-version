@@ -1,12 +1,5 @@
 <? require('../header.php'); ?>
 
-<style>
-A:link {color: #40B080; }
-A.menu:link {color: #40B080; }
-TD.titlemenu { background-color : #106040 }
-TD.menu {background-color : #021208 }
-</style>
-
 <h1>Mallorca Easter Tour</h1>
 <h2>Felix Article [As Submitted] - Sa Compana</h2>
 <h3><a href="/caving/photo_archive/tours/2005%20-%20mallorca/dirindex.html">Photos!</a>, <a href="mallorca05.php">Trip Reports</a></h3>

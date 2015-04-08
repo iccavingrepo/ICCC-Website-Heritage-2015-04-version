@@ -1,12 +1,5 @@
 <? require('../header.php'); ?>
 
-<style>
-A:link {color: #40B080; }
-A.menu:link {color: #40B080; }
-TD.titlemenu { background-color : #106040 }
-TD.menu {background-color : #021208 }
-</style>
-
 <h1>Yorkshire Christmas Tour</h1>
 <h2>25th Dec 2004 --> 1st Jan 2005</h2>
 

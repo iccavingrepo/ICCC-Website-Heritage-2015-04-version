@@ -28,7 +28,7 @@ fax. (+44) 20 7594 8065
 <b>Secretary:</b> Elijah Choi<br>
 <br>
 <b>Tackle Master:</b> Jack Hare<br>
-<b>Tours Secretary</b>: Rhys Tyers
+<b>Tours Secretary</b>: Rhys Tyers<br>
 <b>Medical Officer:</b> William French<br>
 <b>Honorary Morale Officer:</b> David Kirkpatrick<br>
 </p>

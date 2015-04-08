@@ -1,7 +1,8 @@
 <?php include('header.php');?>
 <style>
-  td {font-family: verdana,arial,helvetica,sans-serif}
-  td {font-size: 10pt}
+.main-content-box{
+  background-color: transparent;
+}
 </style>
 <br>
 

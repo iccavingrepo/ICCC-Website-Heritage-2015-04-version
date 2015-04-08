@@ -1,33 +1,45 @@
 <?php include('header.php');?>
 
-<br>
+<style>
+.main-content-box{
+  background-color: transparent;
+}
+</style>
 
 <!-- Alignment to Photos box, now we have top box-->
-<?php begintextdatebox("Calendar","");?>
-<p><img align=right src="barebum_blue.gif">
+<?php begintextdatebox('Calendar Spring 2015',"");?>
+<p><img align=right src="barebum_trans.png">
 
-<!--Welcome to the ICCC webpage, here you can read past trip reports, look at the <a href="calender.php">calendar</a> for upcoming events, browse the <a href="/caving/photo_archive">photo archive</a> and find out <a href="new_member.php">what caving's all about</a>. 
-<br>You may also be interested in nearly a decade of ongoing exploration of deep cave systems in <a href="/caving/slovenia/intro/slov_intro.php">Slovenia</a>, forty years of various escapades in our <a href="lib/lib.php">Newsletters</a> and information about our rather frivolous <a href="awards.php">yearly awards</a>. 
+<!--Welcome to the ICCC webpage, here you can read past trip reports, look at the <a href="calender.php">calendar</a> for upcoming events, browse the <a href="/caving/photo_archive">photo archive</a> and find out <a href="new_member.php">what caving's all about</a>.
+<br>You may also be interested in nearly a decade of ongoing exploration of deep cave systems in <a href="/caving/slovenia/intro/slov_intro.php">Slovenia</a>, forty years of various escapades in our <a href="lib/lib.php">Newsletters</a> and information about our rather frivolous <a href="awards.php">yearly awards</a>.
 -->
-
-<b>Mini calendar:</b> <b> Autumn 2013:</b>
-<pre>
-Pre-Autumn Term 2014:
-        September 26--28th Hidden Earth in Leek, Staffordshire
-	Come hear about our summer exploits!
-Autumn Term 2014:
-	17--19th Oct: Wales, Caerllwyn, WSG Cottage
-	31st Oct--2nd Nov: Wales, Ystradfellte, Croydon Cottage
-	14--16th Nov: Yorkshire, NPC Cottage
-	28--30th Nov: Yorkshire, NPC Cottage
-</pre>
-<a href="calender.php">Google Calendar</a></b>
+<table>
+<tr>
+    <td>30th Dec '14 - 5th Jan '15</td><td>&nbsp:&nbspWinter Tour, Yorkshire, NPC</td>
+</tr>
+<tr>
+    <td>23rd - 25th Jan</td><td>&nbsp:&nbspMendips, Wessex Cottage</td>
+</tr>
+<tr>
+    <td>20nd - 22nd Feb</td><td>&nbsp:&nbspDerbyshire, TSG Cottage</td>
+</tr>
+<tr>
+    <td>6th - 8th March</td><td>&nbsp:&nbspYorkshire, Bullpot Farm</td>
+</tr>
+<tr>
+    <td>1st - 22nd April</td><td>&nbsp:&nbspThere and Back Again Expedition, New Zealand</td>
+</tr>
+</table>
 <br>
-<br>
-<a href="new_member.php">Fresher Info:</a> <br>
-In a nutshell: <b>Weekly meetings Tues 7.00pm Stores / Union Bar</b>, Tree Training Wed afternoon, weekend trips fortnightly during term. <a href="https://www.imperialcollegeunion.org/shop/club-society-project-products/caving-products/2883/caving-membership-13-14">Club membership is &pound;16</a> (click to buy online), first two trips of the year are &pound;15 for new members, &pound;35 thereafter. Bring food for the journey up, everything else provided for.<br>
-<br>
-<b>Why go caving?</b> 
+<a href="calender.php">Click for our Google Calendar</a><br>
+<h2>Fresher Info</h2>
+<ul>
+<li>Weekly meetings Tuesday 7.00pm in the Union Bar</li>
+<li>Tree Training on Wednesday at 2pm in <a href="https://www.google.co.uk/maps/place/Princes+Gardens/@51.4995937,-0.17256,18z/data=!4m2!3m1!1s0x487605447ef7b893:0xffd02792e29e61ad">Princes Gardens</a></li>
+<li>Weekend trips fortnightly during term</li>
+</ul>
+<a href="https://www.imperialcollegeunion.org/shop/club-society-project-products/caving-products/6847/caving-membership-14-15">Club membership is &pound;25</a> (click to buy online), first two trips of the year are &pound;10 for new members, &pound;35 thereafter. Bring food for the journey up, everything else provided for. <a href="new_member.php">Click here for more information</a><br><br>
+<b>Why go caving?</b>
 <script language="JavaScript">
 var why=new Array();
 why[0]="To get out of London for the weekend and be cold, wet, exhausted and half starved yet happy.";
@@ -59,6 +71,101 @@ whygocaving();
 
 <?php endtextdatebox();?>
 
+<?php begintextdatelinkbox("New Zealand","/caving/newzealand/","2&ndash;24th April '15");?>
+<p>We've started a sub site to document our upcoming expedition to New Zealand. Check here for an introduction to the expedition, news on our preparations and ultimately the expedition itself!</p>
+<center><a href="/caving/newzealand/">Sub site</a></center>
+<?php endtextdatelinkbox();?>
+
+
+<?php begintextdatelinkbox("Derbyshire II","/caving/derbyshire/derbyshire-2015-02-20.php","20&ndash;22nd February 2015");?>
+<a href="/caving/photo_archive/trips/2015-02-20%20-%20derbyshire/CeciliaKan_P2210542.html">
+  <img align=left src="/caving/photo_archive/trips/2015-02-20%20-%20derbyshire/CeciliaKan_P2210542--thumb.jpg">
+</a>
+<a href="/caving/photo_archive/trips/2015-02-20%20-%20derbyshire/CeciliaKan_P2220573.html">
+  <img align=right src="/caving/photo_archive/trips/2015-02-20%20-%20derbyshire/CeciliaKan_P2220573--thumb.jpg">
+</a>
+<p>Derbyshire once again ensared us in it's icey grip and despite some blizzard conditions we managed a JH --> Peak trip on Saturday with some bouncing and some doing the full through trip. A small derig trip on Sunday nearly ended in disaster when half metre snow drifts cut off Rowter farm whilst the deriggers were underground. </p>
+<center><a href="/caving/derbyshire/derbyshire-2015-02-20.php">Trip Report</a> | <a href="/caving/photo_archive/trips/2015-02-20%20-%20derbyshire/">Photos</a></center>
+<?php endtextdatelinkbox();?>
+
+
+<?php begintextdatelinkbox("Mendips I","/caving/mendips/mendip-2015-01-23.php","23 &ndash; 25th Jan '15");?>
+<a href="/caving/photo_archive/trips/2015-01-23%20-%20mendips/CeciliaKan_P1250624.html">
+  <img align=left src="/caving/photo_archive/trips/2015-01-23%20-%20mendips/CeciliaKan_P1250624--thumb.jpg">
+</a>
+<a href="/caving/photo_archive/trips/2015-01-23%20-%20mendips/CeciliaKan_P1240603.html">
+  <img align=right src="/caving/photo_archive/trips/2015-01-23%20-%20mendips/CeciliaKan_P1240603--thumb.jpg">
+</a>
+<p>The new year began with the annual Mendips trip. Normally very popular and this year was no exception! Satuday saw most of the group head into Swildons, with two short round teams and one sump bounce team. Sunday saw a variety of activity, some in Eastwater, some on ladder retrieval duty in Swildons and some practicising SRT rescue techniques on the tower.</p>
+<center><a href="/caving/mendips/mendip-2015-01-23.php">Trip Report</a> | <a href="/caving/photo_archive/trips/2015-01-23%20-%20mendips/">Photos</a></center>
+<?php endtextdatelinkbox();?>
+
+<?php begintextdatelinkbox("Winter Tour","/caving/yorkshire/yorkshire-2014-winter-tour.php","30th Dec '14 &ndash; 6th Jan '15");?>
+<a href="/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/RhysTyers_DSC_0607.html">
+  <img align=left src="/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/RhysTyers_DSC_0607--thumb.jpg">
+</a>
+<a href="/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/AlexSeaton_IMGP2402.html">
+  <img align=right src="/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/AlexSeaton_IMGP2402--thumb.jpg">
+</a>
+<p>We've survived another year of caving and what better way to cap it off than a week in beautiful Yorkshire? This winter tour saw us welcoming the New Year in Easegill, some classic Lost John's action, a trip to the ever-impressive Gaping Ghyll, and a rope rescue training sesh to finish!</p>
+<center><a href="/caving/yorkshire/yorkshire-2014-winter-tour.php">Trip Report</a> | <a href="/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/">Photos</a></center>
+<?php endtextdatelinkbox();?>
+
+<?php begintextdatelinkbox("Derbyshire I","/caving/derbyshire/derbyshire-2014-12-12.php","12&ndash;14th December 2014");?>
+<a href="/caving/photo_archive/trips/2014-12-12%20-%20derbyshire/CeciliaKan_PC130523.html">
+  <img align=left src="/caving/photo_archive/trips/2014-12-12%20-%20derbyshire/CeciliaKan_PC130523--thumb.jpg">
+</a>
+<a href="/caving/photo_archive/trips/2014-12-12%20-%20derbyshire/RhysTyers_DSC_0555.html">
+  <img align=right src="/caving/photo_archive/trips/2014-12-12%20-%20derbyshire/RhysTyers_DSC_0555--thumb.jpg">
+</a>
+<p>The threat of Derbyshire discouraged many and we were left with only the keenest, crackedest cavers. Despite our Peak District misgivings it turned out to be an excellent trip. We managed an audible exchange in Maskhill/Oxlow on Saturday. On Sunday we, under the direction of our newer cavers, probed the many horrible muddy crawls of Peak.</p>
+<center><a href="/caving/derbyshire/derbyshire-2014-12-12.php">Trip Report</a> | <a href="/caving/photo_archive/trips/2014-12-12%20-%20derbyshire/">Photos</a></center>
+<?php endtextdatelinkbox();?>
+
+<?php begintextdatelinkbox("Yorkshire II","/caving/yorkshire/yorkshire-2014-11-28.php","28&ndash;30th November 2014");?>
+<a href="/caving/photo_archive/trips/2014-11-28%20-%20yorkshire/RhysTyers_DSC_0520.html">
+  <img align=left src="/caving/photo_archive/trips/2014-11-28%20-%20yorkshire/RhysTyers_DSC_0520--thumb.jpg">
+</a>
+<a href="/caving/photo_archive/trips/2014-11-28%20-%20yorkshire/RhysTyers_DSC_0547.html">
+  <img align=right src="/caving/photo_archive/trips/2014-11-28%20-%20yorkshire/RhysTyers_DSC_0547--thumb.jpg">
+</a>
+<p>Another massive Yorkshire trip! To the surprise of many we pulled of a complete Lost Johns visit with every route rigged and the bottom reached. Certainly something we haven't done in a long time. On Sunday we visited Notts 2, throughly inspecting the scaffolding and subsequent cave.</p>
+<center><a href="/caving/yorkshire/yorkshire-2014-11-28.php">Trip Report</a> | <a href="/caving/photo_archive/trips/2014-11-28%20-%20yorkshire/">Photos</a></center>
+<?php endtextdatelinkbox();?>
+
+<?php begintextdatelinkbox("Yorkshire I","/caving/yorkshire/yorkshire-2014-11-14.php","14&ndash;16th November 2014");?>
+<a href="/caving/photo_archive/trips/2014-11-14%20-%20yorkshire/JackHare_P1060215.html">
+<img align=left src="/caving/photo_archive/trips/2014-11-14%20-%20yorkshire/JackHare_P1060215--thumb.jpg">
+</a>
+<a href="/caving/photo_archive/trips/2014-11-14%20-%20yorkshire/JackHare_P1060094.html">
+<img align=right src="/caving/photo_archive/trips/2014-11-14%20-%20yorkshire/JackHare_P1060094--thumb.jpg">
+</a>
+<p>Our first Yorkshire trip proved to be very popular despite the lack of permits. West Kingsdale therefore was the unlucky host of 18 ICCCers on Satruday in Bull, Jingling, Rowten and Simpsons! Sunday saw a couple of teams swapping caves, Bull and Jingling, cleverly left rigged on Saturday and definitely no-one went to Gaping Ghyll.</p>
+<center><a href="/caving/yorkshire/yorkshire-2014-11-14.php">Trip Report</a> | <a href="/caving/photo_archive/trips/2014-11-14%20-%20yorkshire/">Photos</a></center>
+<?php endtextdatelinkbox();?>
+
+<?php begintextdatelinkbox("Wales II","/caving/wales/wales-2014-10-31.php","31&ndash;2nd November 2014");?>
+<a href="/caving/photo_archive/trips/2014-10-31%20-%20wales/DSC_0292.html">
+<img align=left src="/caving/photo_archive/trips/2014-10-31%20-%20wales/DSC_0292--thumb.jpg">
+</a>
+<a href="/caving/photo_archive/trips/2014-10-31%20-%20wales/DSC_0244.html">
+<img align=right src="/caving/photo_archive/trips/2014-10-31%20-%20wales/DSC_0244--thumb.jpg">
+</a>
+<p>Back to OFD, this time getting right into the stream way on Saturday although turning back before Top waterfall with detours to see Trident and Judge. Sunday saw a visit to Porth Y Ogof, which was doubly fun due to exceptionally high water levels.</p>
+<center><a href="/caving/wales/wales-2014-10-31.php">Trip Report</a> | <a href="/caving/photo_archive/trips/2014-10-31%20-%20wales/">Photos</a></center>
+<?php endtextdatelinkbox();?>
+
+<?php begintextdatelinkbox("Wales I","/caving/wales/wales-2014-10-17.php","17&ndash;19th October 2014");?>
+<a href="/caving/photo_archive/trips/2014-10-17%20-%20wales/RhysTyers_DSC_0216.html">
+<img align=left src="/caving/photo_archive/trips/2014-10-17%20-%20wales/RhysTyers_DSC_0216--thumb.jpg">
+</a>
+<a href="/caving/photo_archive/trips/2014-10-17%20-%20wales/RhysTyers_DSC_0163.html">
+<img align=right src="/caving/photo_archive/trips/2014-10-17%20-%20wales/RhysTyers_DSC_0163--thumb.jpg">
+</a>
+<p>A great first trip to Wales. Based in the WSG we had trips to OFD (top entrance) where we did the short loop, high waters preventing us getting into the streamway safely. On Sunday we visited the beautiful Bridge and White Lady caves.</p>
+<center><a href="/caving/wales/wales-2014-10-17.php">Trip Report</a> | <a href="/caving/photo_archive/trips/2014-10-17%20-%20wales/">Photos</a></center>
+<?php endtextdatelinkbox();?>
+
 <?php begintextdatebox("Welcome 2014-2015 Cavers","2014&ndash;2015");?>
 <p>
 <p>Hello new IC students!</p>
@@ -68,9 +175,34 @@ whygocaving();
 
 <p>A list of our upcoming trips can be found above, as well as on our <a href="calender.php">GCal</a>. There's lots of useful information for new and prospective members <a href="new_member.php">here</a>. You can also check out our trip reports in the menu to the left. <a href="/caving/wales/wales-2010-10-15.php">A typical Wales (fresher's) trip</a>; <a href="/caving/yorkshire/yorkshire-2012-11-09.php">A typical Yorkshire trip</a>. And please email us on our gmail if you have any questions.</p>
 
-<p>Our next appearance will be in Beit Quad at Fresher's Fair, maybe we will see (or have seen) you there. After that join us in <b>Princes Gardens each Wednesday at 1pm</b> where we will be doing an equipment familiarisation session (read: climbing in trees with our caving kit) or at the <b>Union Bar on Tuesdays at 7pm</b> (starting 8/10/13) for beer and wildly exaggerated tales of past caving adventures. </p> 
+<p>Our next appearance will be in Beit Quad at Fresher's Fair, maybe we will see (or have seen) you there. After that join us in <b>Princes Gardens each Wednesday at 1pm</b> where we will be doing an equipment familiarisation session (read: climbing in trees with our caving kit) or at the <b>Union Bar on Tuesdays at 7pm</b> (starting 8/10/13) for beer and wildly exaggerated tales of past caving adventures. </p>
+
+<p>Also check out our new promo video made by James O'Hanlon:</p>
+<center><video width="320" height="240" controls><source src="/caving/FILES/promotional/JamesOHanlon_PromoVideo_2014.mp4" type="video/mp4">Your browser does not support HTML5 video</video></center>
 
 </p>
+<?php endtextdatebox();?>
+
+<?php begintextdatelinkbox("Yorkshire 0","/caving/yorkshire/yorkshire-2014-09-19.php","19&ndash;21th September 2014");?>
+<a href="/caving/photo_archive/trips/2014-09-19%20-%20yorkshire/2_DSC_0136_Alum.html">
+<img align=left src="/caving/photo_archive/trips/2014-09-19%20-%20yorkshire/2_DSC_0136_Alum--thumb.jpg">
+</a>
+<a href="/caving/photo_archive/trips/2014-09-19%20-%20yorkshire/1_DSC_0120.html">
+<img align=right src="/caving/photo_archive/trips/2014-09-19%20-%20yorkshire/1_DSC_0120--thumb.jpg">
+</a>
+<p>A pre-term trip to Yorkshire to hone our leadership and teamworking skills. Saturday saw the smaller cave connoisseurs of the group head to trapdoor with its ominously named squeezes; The Ripper, The Gripper and The Stripper. A less masochistic group did SRT practice in Ireby Fell. On Sunday Alum was the cave of choice to enjoy the sunshine.</p>
+<center><a href="/caving/yorkshire/yorkshire-2014-09-19.php">Trip Report</a> | <a href="/caving/photo_archive/trips/2014-09-19%20-%20yorkshire/">Photos</a></center>
+<?php endtextdatelinkbox();?>
+
+<?php begintextdatebox("Switzerland","6&ndash;14th September 2014");?>
+<a href="/caving/photo_archive/tours/2014%20-%20switzerland/P1050308.html">
+<img align=left src="/caving/photo_archive/tours/2014%20-%20switzerland/P1050308--thumb.jpg">
+</a>
+<a href="/caving/photo_archive/tours/2014%20-%20switzerland/P1040589.html">
+<img align=right src="/caving/photo_archive/tours/2014%20-%20switzerland/P1040589--thumb.jpg">
+</a>
+<p>Canyoning! Like caving without the roof. With rope, wetsuits and a bumper book of canyons in Ticino we travelled to Northern Italy and Southern Switzerland for aquatic fun. A very succesfuly trip seeing 5 trips to 4 canyons, a lot of olive and bread eaten and only 1 hire car totalled.</p>
+<center><a href="/caving/switzerland/switzerland-2014-14-06.php">Trip Report</a> | <a href="/caving/photo_archive/tours/2014%20-%20switzerland/">Photos</a></center>
 <?php endtextdatebox();?>
 
 <?php begintextdatebox("Skozi Zrcalo &mdash; Migovec 2014","11th July&ndash;17th August");?>
@@ -227,7 +359,7 @@ The Mendip trip proved exceptionally popular this year with nearly 25 cavers sho
 <a href="/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/JackHare16.html">
 <img align=right src="/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/JackHare16--thumb.jpg">
 </a>
-<p>A classic winter tour, full of debauchery, rain, and van breakdowns. Also some caving. We visited Notts, Lost John's, Rowten, and Easegill. A walk up Ingleborough for good measure too! 
+<p>A classic winter tour, full of debauchery, rain, and van breakdowns. Also some caving. We visited Notts, Lost John's, Rowten, and Easegill. A walk up Ingleborough for good measure too!
 </p>
 <center><a href="/caving/yorkshire/yorkshire-2013-winter-tour.php">Trip Report</a> | <a href="/caving/photo_archive/tours/2013%20-%20yorkshire%20winter/dirindex.html">Photos</a></center>
 <?php endtextdatebox();?>
@@ -262,7 +394,7 @@ The Mendip trip proved exceptionally popular this year with nearly 25 cavers sho
 <a href="/caving/photo_archive/trips/2013-10-25%20-%20wales/JackHare-P1010870.html">
 <img align=right src="/caving/photo_archive/trips/2013-10-25%20-%20wales/JackHare-P1010870--thumb.jpg">
 </a>
-<p>Another superb trip to Wales, blessed by rainbows and minimal drizzle. Agen Allwedd's distant turkey streamway got a visit by most of the group, whilst a smaller party did a photo recon of the main passage. Despite a hard trip, eveyone was eager to demonstrate their skills at a variety of caving games. The night left a few souls incapacitated on Sunday but the majority managed a bimble around Eglwys Faen.</p> 
+<p>Another superb trip to Wales, blessed by rainbows and minimal drizzle. Agen Allwedd's distant turkey streamway got a visit by most of the group, whilst a smaller party did a photo recon of the main passage. Despite a hard trip, eveyone was eager to demonstrate their skills at a variety of caving games. The night left a few souls incapacitated on Sunday but the majority managed a bimble around Eglwys Faen.</p>
 </p>
 <center><a href="/caving/wales/wales-2013-10-25.php">Trip Report</a> | <a href="/caving/photo_archive/trips/2013-10-25%20-%20wales/">Photos</a></center>
 <?php endtextdatebox();?>
@@ -274,7 +406,7 @@ The Mendip trip proved exceptionally popular this year with nearly 25 cavers sho
 <a href="/caving/photo_archive/trips/2013-10-11%20-%20wales/Tamzin%20Zawadzki%20-%20iPhone%20-image_8.html">
 <img align=right src="/caving/photo_archive/trips/2013-10-11%20-%20wales/Tamzin%20Zawadzki%20-%20iPhone%20-image_8--thumb.jpg">
 </a>
-<p> The start of the caving year has come! A group of wide-eyed and eager freshers were led down the depths of OFD, visiting such sights as Top Waterfall and Swamp Creek, roused by classic caving songs; 'What shall we do with the drunken caver?', 'Captain Kangaroo' and 'Bingo Granny'. On Sunday most people went to get thoroughly confused in PYOs interweaving crawls and climbs, with a couple opting to get drenched walking instead.<p> 
+<p> The start of the caving year has come! A group of wide-eyed and eager freshers were led down the depths of OFD, visiting such sights as Top Waterfall and Swamp Creek, roused by classic caving songs; 'What shall we do with the drunken caver?', 'Captain Kangaroo' and 'Bingo Granny'. On Sunday most people went to get thoroughly confused in PYOs interweaving crawls and climbs, with a couple opting to get drenched walking instead.<p>
 </p>
 <center><a href="/caving/wales/wales-2013-10-11.php">Trip Report</a> | <a href="/caving/photo_archive/trips/2013-10-11%20-%20wales/">Photos</a></center>
 <?php endtextdatebox();?>
@@ -284,7 +416,7 @@ The Mendip trip proved exceptionally popular this year with nearly 25 cavers sho
 <p>Welcome to the Imperial College Caving Club website. If you are interested in caving, you're in the right place.</p>
 <p>We are an active and friendly club. We have regular trips, meet ups and foreign expeditions (...holidays) and we hope you'll want to get involved.</p>
 <p>A list of our upcoming trips can be found above, as well as on our <a href="calender.php">GCal</a>. There's lots of useful information for new and prospective members <a href="new_member.php">here</a>. You can also check out our trip reports in the menu to the left to find out more about our trips. <a href="/caving/wales/wales-2010-10-15.php">A typical Wales (fresher's) trip</a>. <a href="/caving/yorkshire/yorkshire-2012-11-09.php">A typical Yorkshire trip.</a></p>
-<p>Our next appearance will be in Beit Quad at fresher's fair, maybe we will see (or have seen) you there. After that join us in <b>Princes Gardens each Wednesday at 1pm</b> where we will be doing an equipment familiarisation session (read: climbing in trees with our caving kit) or at the <b>Union Bar on Tuesdays at 7pm</b> (starting 8/10/13) for beer and wildly exaggerated tales of past caving adventures. </p> 
+<p>Our next appearance will be in Beit Quad at fresher's fair, maybe we will see (or have seen) you there. After that join us in <b>Princes Gardens each Wednesday at 1pm</b> where we will be doing an equipment familiarisation session (read: climbing in trees with our caving kit) or at the <b>Union Bar on Tuesdays at 7pm</b> (starting 8/10/13) for beer and wildly exaggerated tales of past caving adventures. </p>
 
 <?php endtextdatebox();?>
 
@@ -295,7 +427,7 @@ The Mendip trip proved exceptionally popular this year with nearly 25 cavers sho
 <a href="/caving/photo_archive/trips/2013-09-27%20-%20mendips/1st%20day%20DSC09043%20%282%29.html">
 <img align=right src="/caving/photo_archive/trips/2013-09-27%20-%20mendips/1st%20day%20DSC09043%20%282%29--thumb.jpg">
 </a>
-<p> A hardened team of alpine expedition cavers braved the depths of Swildon's in a daring trip to the Mendips. The short round was nearly completed but, eager for adventure, everyone elected to go back through the ducks and sump (not because we couldn't find the way on). Sunday saw a resupply mission to Cheddar where some people bought ample supplies of cheese and cider after gorging on cream teas.<p> 
+<p> A hardened team of alpine expedition cavers braved the depths of Swildon's in a daring trip to the Mendips. The short round was nearly completed but, eager for adventure, everyone elected to go back through the ducks and sump (not because we couldn't find the way on). Sunday saw a resupply mission to Cheddar where some people bought ample supplies of cheese and cider after gorging on cream teas.<p>
 </p>
 <center><a href="/caving/mendips/mendip-2013-09-27.php">Trip Report</a> | <a href="/caving/photo_archive/trips/2013-09-27 - mendips/">Photos</a></center>
 <?php endtextdatebox();?>
@@ -313,7 +445,7 @@ Imperial are currently on expedition Z Miga na Kuk (Slovenia 2013) and will be i
 <a href="/caving/photo_archive/trips/2013-06-07%20-%20derbyshire/Su%20Teh-Derbyshire%20%2850%29.html">
 <img align=right src="/caving/photo_archive/trips/2013-06-07%20-%20derbyshire/Su%20Teh-Derbyshire%20%2850%29--thumb.jpg">
 </a>
-<p> A pleasant and productive trip to Derbsyhire. For a change staying at the TSG, ICCC managed trips to Oxlow, Maskhill and Peak. 
+<p> A pleasant and productive trip to Derbsyhire. For a change staying at the TSG, ICCC managed trips to Oxlow, Maskhill and Peak.
 </p>
 <center><a href="/caving/derbyshire/derbyshire-2013-06-07.php">Trip Report</a> | <a href="/caving/photo_archive/trips/2013-06-07 - derbyshire/">Photos</a></center>
 <?php endtextdatebox();?>
@@ -430,10 +562,10 @@ This trip marked the beginning of the SRT season with a classic Lost John's exch
 Gathering together all the various results of our summer expedition is taking a long time&mdash;the complexity of the total, now connected, system is requiring a lot of effort to produce a survey on the same projection. We have thousands of photos to edit &amp; select from, hundreds of expedition reports &amp; stories to gather. However, motivated by some immoveable deadlines, we have managed to get together a provisional written report (as submitted to our Union as our summer tour report), and produced a provisional Extended-Elevation survey (with Slovene labels, for submission to the Jamar magazine).</p>
 <p>We'll continue working on our surveys, extending &amp; editing our expedition report, and try and get some of the many photos uploaded here.</p>
 <center>
-<a href="/caving/slovenia/slov2012/gw_2012-11-08-working_copy-extended-elevation.pdf">SysMig 2012 Extended Elevation (Slovene, PDF)</a> | 
+<a href="/caving/slovenia/slov2012/gw_2012-11-08-working_copy-extended-elevation.pdf">SysMig 2012 Extended Elevation (Slovene, PDF)</a> |
 <a href="https://docs.google.com/document/pub?id=1prFIYOYQM_gI7utzH4fPcOg90EmFj1z20XXcdndVo1k">Union Tour Report (Google Docs)</a>
 <br>
-<a href="https://speakerdeck.com/jarvist/2012-hidden-earth-imperial-college-caving-club">BCRA 2012 Slides (Speakerdeck.com)</a> | 
+<a href="https://speakerdeck.com/jarvist/2012-hidden-earth-imperial-college-caving-club">BCRA 2012 Slides (Speakerdeck.com)</a> |
 <a href="http://youtu.be/s68V9EsRvmE?hd=1">HD Video Render of Survey Data (Youtube)</a>
 </center>
 <?php endtextdatebox();?>
@@ -481,7 +613,7 @@ It's difficult to put into words how much this means to the people who have spen
 <img align=right src="/caving/slovenia/slov2012/slov_2012_badge_day_170px.jpg">
 </a>
 And so off to Migovec again! <br>
-We start the expedition with Vrtnarija at 11025/888 m and the recently extended Sysmig at 11846 / 970 m. Searching for the elusive connection between the two systems (and thus forging the longest cave in Slovenia) and deep camping in Vrtnarija to continue the exploration of the 2010 and 2011 finds are the main aims of this 5 week expedition. However, there are many other projects on the side, and we will be tweeting updates from our mountaintop bivouac. 
+We start the expedition with Vrtnarija at 11025/888 m and the recently extended Sysmig at 11846 / 970 m. Searching for the elusive connection between the two systems (and thus forging the longest cave in Slovenia) and deep camping in Vrtnarija to continue the exploration of the 2010 and 2011 finds are the main aims of this 5 week expedition. However, there are many other projects on the side, and we will be tweeting updates from our mountaintop bivouac.
 </p>
 <center><a href="https://twitter.com/iccc">Twitter @ICCC</a> | <a href="https://www.facebook.com/events/117816511675201/">Facebook Event</a> | <a href="/caving/slovenia/slov2012/">Expedition Page</a></center>
 <?php endtextdatebox();?>
@@ -490,5 +622,4 @@ We start the expedition with Vrtnarija at 11025/888 m and the recently extended 
 <h1><a href="archive.php">Older News</a></h1>
 </center>
 
-<?php include('footer_nograffiti.php');?>
-
+<?php include('footer.php');?>

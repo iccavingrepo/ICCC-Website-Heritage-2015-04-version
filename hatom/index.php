@@ -1,8 +1,5 @@
 <?php include('header.php');?>
-<style>
-  td {font-family: verdana,arial,helvetica,sans-serif}
-  td {font-size: 10pt}
-</style>
+
 <br>
 <!-- Alignment to Photos box, now we have top box-->
 <?php begintextdatebox("Union meet, Tuesday 7pm onwards","");?>

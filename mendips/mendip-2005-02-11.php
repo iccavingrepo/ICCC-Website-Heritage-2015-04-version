@@ -1,12 +1,5 @@
 <? require('../header.php'); ?>
 
-<style>
-A:link {color: #40B080; }
-A.menu:link {color: #40B080; }
-TD.titlemenu { background-color : #106040 }
-TD.menu {background-color : #021208 }
-</style>
-
 <h1>Mendips</h1>
 <h2>Weekend Trip 11/13th February 2005</h2>
 <h2><a href="/caving/photo_archive/trips/2005-02-11%20-%20mendips%20-%20jan/dirindex.html">Jan's Photos</a></h2>

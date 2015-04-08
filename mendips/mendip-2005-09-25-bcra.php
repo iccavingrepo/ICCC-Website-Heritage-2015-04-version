@@ -1,11 +1,5 @@
 <? require('../header.php'); ?>
 
-<style>
-A:link {color: #40B080; }
-A.menu:link {color: #40B080; }
-TD.titlemenu { background-color : #106040 }
-TD.menu {background-color : #021208 }
-</style>
 
 <h1>Mendips BCRA</h1>
 <h2>23/25 September 2005</h2>

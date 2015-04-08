@@ -1,12 +1,5 @@
 <? require('../header.php'); ?>
 
-<style>
-  a:link {color: #40B080; }
-  a.menu:link {color: #40B080; }
-  td.titlemenu { background-color : #106040 }
-  td.menu {background-color : #021208 }
-</style>
-
 <h1>Yorkshire</h1>
 <h2>21-22 February 2004</h2>
 

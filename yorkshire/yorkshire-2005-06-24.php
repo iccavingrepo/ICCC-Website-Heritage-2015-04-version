@@ -1,12 +1,5 @@
 <? require('../header.php'); ?>
 
-<style>
-A:link {color: #40B080; }
-A.menu:link {color: #40B080; }
-TD.titlemenu { background-color : #106040 }
-TD.menu {background-color : #021208 }
-</style>
-
 <h1>Yorkshire</h1>
 <h2>ClewMobile Special 24/26 June 2005</h2>
 <h2><a href="/caving/photo_archive/trips/2005-06-24%20-%20yorkshire%20-%20various/dirindex.html">Photos!</a></h2>

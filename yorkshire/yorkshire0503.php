@@ -1,11 +1,5 @@
 <? require('../header.php'); ?>
 
- <style>
-A:link {color: #40B080; }
-A.menu:link {color: #40B080; }
-TD.titlemenu { background-color : #106040 }
-TD.menu {background-color : #021208 }
-</style>
 
 <h1>Yorkshire</h1>
 <h2>Weekend Trip 10/11 May 2003 </h2>

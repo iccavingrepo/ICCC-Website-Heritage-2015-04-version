@@ -1,11 +1,4 @@
 <?php require('../header.php'); ?>
- 
-<style>
-  A:link {color: #40B080; }
-  A.menu:link {color: #40B080; }
-  TD.titlemenu { background-color : #106040 }
-  TD.menu {background-color : #021208 }
-</style>
 
 <h2>Wales 6<sup>th</sup> and 7<sup>th</sup> April 2003</h2>
 

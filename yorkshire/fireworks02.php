@@ -1,12 +1,5 @@
 <? require('../header.php'); ?>
 
- <style>
-A:link {color: #40B080; }
-A.menu:link {color: #40B080; }
-TD.titlemenu { background-color : #106040 }
-TD.menu {background-color : #021208 }
-</style>
-
 <h1>Yorkshire - Fireworks<br>10-11<sup>th</sup> November 2002 </h2>
 
 <h3>Saturday</h3> 

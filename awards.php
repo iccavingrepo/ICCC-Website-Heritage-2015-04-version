@@ -6,6 +6,15 @@ This is awarded for lucky escapes while caving - a reminder of our underground m
 <p>Named in honour of the two brothers who dragged ICCC kicking &amp; screaming up to its current international exploration glory, while retaining an ever present connection with their bodily needs.<br>
 This award is for most creative use of a bodily fluid. The award consists of <strong>'Bob the Turd'</strong>, a large coprolite (fossilised crap) found by Goaty in the Moroccon High-Atlas and dating from the Jurassic era, most likely produced by a Shark.</p>
 
+<h2>2014</h2>
+<h3>For Evans' Sake: <i>Tanguy Racine</i></h3>
+<p>
+For an incredible attempt at redecorating the SMCC using his own vomit. During the clean-up an entire 3 litre pan was filled with said vomit.</p>
+<h3>Herman Herz:<i> Sam Page </i></h3>
+<p>
+During summer expedition (hopefully not a pattern emerging there) Sam managed to avoid being hit by a large boulder dislodged by Kate on a pitch in Undercover Squirrel.
+</p>
+
 <h2>2013</h2>
 <h3>For Evans' Sake: <i>Chris Keeley</i></h3>
 <p>

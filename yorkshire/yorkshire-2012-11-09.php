@@ -41,7 +41,7 @@ Saturday night was full of games. It was fun to join in and laugh as other compe
 Caroline Ainsworth
 </p>
 
-<center><iframe width="420" height="315" src="http://www.youtube.com/embed/R9irM_vkjU8" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="854" height="510" src="//www.youtube.com/embed/R9irM_vkjU8" frameborder="0" allowfullscreen></iframe>
 <br>Clare's birthday celebration at the Battleaxe Traverse</center>
 
 <p>Why did I go caving? Well, it was on the list of the things I have to do before I turn 25 (just above 'conquering the world' and below 'eating a goat cheese/cranberry burger' if you want to know). I guess that's the reason why I ended up on a minibus to Yorkshire on that Friday evening with twelve other companions of adventure. My mother had told me not to follow people I don't know well, but they had told me there would be tons of chocolate for the week end... And indeed there was!</p>

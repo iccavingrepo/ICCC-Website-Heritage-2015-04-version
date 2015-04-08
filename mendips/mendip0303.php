@@ -1,12 +1,5 @@
 <?php require('../header.php'); ?>
 
-<style>
-  A:link {color: #40B080; }
-  A.menu:link {color: #40B080; }
-  TD.titlemenu { background-color : #106040 }
-  TD.menu {background-color : #021208 }
-</style>
-
 <h2>Mendips - 1<sup>st</sup>/2<sup>nd</sup> March 03</h2>
 <p>
   <i><b>Lyndon</b> describes the joint WSG/ICCC trip to the Mendips</i>

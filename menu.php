@@ -1,9 +1,26 @@
-<table border="0" cellspacing="3" cellpadding="3" width="100%">
- <tr>
- <td valign="top" width="185">
-<FORM method=GET action=http://www.google.com/search>
+<?php if ($_COOKIE[$cookie_name] == $cookie_value): ?>
+<table  border="0" cellspacing="3" cellpadding="3" width="100%">
+<tr>
+<td valign="top" width="185">
+<?php endif; ?>
 
-<p class="menu" >
+<script type="text/javascript">
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + "; " + expires + '; path=/rcc/caving';
+	window.location.reload();
+}
+</script>
+
+<?php if ($_COOKIE[$cookie_name] != $cookie_value): ?>
+<?php begintextbox('');?>
+<?php endif; ?>
+
+<FORM method=GET action=https://www.google.com/search>
+
+<p class="menu">
 <img align=left src="/caving/logo.png" width="106" height="106">
 <strong>
 <a class="menu" href="/caving/index.php"><b>Home</b></a> <br>
@@ -11,25 +28,24 @@
 <a class="menu" href="/caving/new_member.php"><b>Club Info</b></a>
 <a class="menu" href="/caving/wiki.php"><b>Wiki</b></a> <br>
 <a class="menu" href="/caving/library.php"><b>Library</b></a> <br>
-<a class="menu" href="/caving/contacts.php"><b>Contacts</b></a> <br>
+<a class="menu" href="/caving/contacts.php"><b>Contacts</b></a>
 <a class="menu" href="/caving/awards.php"><b>Awards</b></a>
 </strong>
 </p>
 
-<!-- <img src="/caving/spacer.png" width="185" height="12"></img> !-->
-
 <form>
-<INPUT TYPE=text bgcolor=#000000 color=#FFFFFF name=q size=18 maxlength=255 value="                                'union.ic.ac.uk/rcc/caving'">
+<INPUT TYPE=text bgcolor=#000000 color=#FFFFFF name=q size=10 maxlength=255 value="                                                                   'union.ic.ac.uk/rcc/caving'">
 <INPUT type=submit name=sa VALUE="Go!">
-<font size=-1>
 <input type=hidden name=domains value="">
 </input>
 </form>
 
-<img src="/caving/spacer.png" width="185" height="13"></img>
+<?php if ($_COOKIE[$cookie_name] != $cookie_value): ?>
+<?php endtextbox();?>
+<?php endif; ?>
 
 <?php begintextbox("Photos");?>
-<p class="menu"> 
+<p class="menu">
 <?php
 $fp=fopen("/home/www/htdocs/rcc/caving/photorand/basemax","r");
 $picmax=fgets($fp);
@@ -55,43 +71,57 @@ while ( $dataline = fgets($fp) ) {
 ?>
 <br>
 <a class="menu" href="/caving/photorand.php">Random</a>
- | 
+ |
 <b><a class="menu" href="/caving/photo_archive/mugshots">Mugs</a></b>
- | 
+ |
 <b><a class="menu" href="/caving/photo_archive">Photos</a></b>
 </p>
 <?php endtextbox();?>
 
-<?php begintextbox("Expeditions");?>
-<p class="menu">
+ <?php begintextbox("Expeditions");?>
+  <p class="menu">
 <a class="menu" href="/caving/slovenia/slov2013/">
 <img width=170 src="/caving/slovenia/slov2012/slov_2012_badge_day_170px.jpg"><br>
 </a>
-<a class="menu" href="/caving/expeditions"><b>Expos</b></a> <br>
+<a class="menu" href="/caving/expeditions">All Expos</a><br>
 <a class="menu" href="/caving/slovenia/intro/slov_intro.php">
-<b>Slovenia Subsite</b></a>
-<br> 
-Morocco: 
-<a class="menu" href="/caving/morocco/expo2001/report.php">2001</a>
-<a class="menu" href="/caving/morocco/recce99/morocco99.php">1999</a>
+Slovenia Subsite</a>
+<br>
+<a class="menu" href="/caving/newzealand/">New Zealand 2015</a><br>
+<a class="menu" href="/caving/morocco/expo2001/report.php">Morocco 2001</a><br>
+<a class="menu" href="/caving/morocco/recce99/morocco99.php">Morocco 1999</a>
 <br>
 </p>
 <?php endtextbox();?>
 
 <?php begintextbox("Short Trips");?>
-<b>Select A Year:</b>
+<div class="menu"><h3>Select A Year:</h3></div>
+<div class="menuyear">
+    <a href="javascript:toggleVisibility('2014-2015')">2014-2015</a>
+    <div class="items" id="2014-2015" align="center" style="display: none;">
+	<a class="menu" href="/caving/derbyshire/derbyshire-2015-02-20.php">Derby II (Feb '15)</a><br>
+	<a class="menu" href="/caving/mendips/mendip-2015-01-23.php">Mendip I (Jan '15)</a><br>
+	<a class="menu" href="/caving/derbyshire/derbyshire-2014-12-12.php">Derby I (Dec '14)</a><br>
+	<a class="menu" href="/caving/yorkshire/yorkshire-2014-11-28.php">Yorks II (Nov '14)</a><br>
+	<a class="menu" href="/caving/yorkshire/yorkshire-2014-11-14.php">Yorks I (Nov '14)</a><br>
+	<a class="menu" href="/caving/wales/wales-2014-10-31.php">Wales II (Oct '14)</a><br>
+	<a class="menu" href="/caving/wales/wales-2014-10-17.php">Wales I (Oct '14)</a><br>
+   	<a class="menu" href="/caving/yorkshire/yorkshire-2014-09-19.php">Yorks 0 (Sept '14)</a><br>
+	</div>
+</div>
 <div class="menuyear">
     <a href="javascript:toggleVisibility('2013-2014')">2013-2014</a>
     <div class="items" id="2013-2014" align="center" style="display: none;">
-		<a class="menu" href="/caving/yorkshire/yorkshire-2014-03-21.php">Yorks IV (Mar '14)</a><br>
-		<a class="menu" href="/caving/yorkshire/yorkshire-2014-02-21.php">Yorks III (Feb '14)</a><br>
-		<a class="menu" href="/caving/yorkshire/yorkshire-2014-02-07.php">Yorks II (Feb '14)</a><br>
-		<a class="menu" href="/caving/mendips/mendip-2014-01-24.php">Mendip I (Jan '14)</a><br>
-		<a class="menu" href="/caving/derbyshire/derbyshire-2013-11-22.php">Derby I (Nov '13)</a><br>
-		<a class="menu" href="/caving/yorkshire/yorkshire-2013-11-08.php">Yorks I (Nov '13)</a><br>
-		<a class="menu" href="/caving/wales/wales-2013-10-25.php">Wales II (Oct '13)</a><br>
-		<a class="menu" href="/caving/wales/wales-2013-10-11.php">Wales I (Oct '13)</a><br>
-		<a class="menu" href="/caving/mendips/mendip-2013-09-27.php">Mendip I (Sep '13)</a><br>
+	<a class="menu" href="/caving/wales/wales-2014-06-13.php">Wales III (June '14)</a><br>
+	<a class="menu" href="/caving/yorkshire/yorkshire-2014-03-21.php">Yorks IV (Mar '14)</a><br>
+	<a class="menu" href="/caving/yorkshire/yorkshire-2014-02-21.php">Yorks III (Feb '14)</a><br>
+	<a class="menu" href="/caving/yorkshire/yorkshire-2014-02-07.php">Yorks II (Feb '14)</a><br>
+	<a class="menu" href="/caving/mendips/mendip-2014-01-24.php">Mendip I (Jan '14)</a><br>
+	<a class="menu" href="/caving/derbyshire/derbyshire-2013-11-22.php">Derby I (Nov '13)</a><br>
+	<a class="menu" href="/caving/yorkshire/yorkshire-2013-11-08.php">Yorks I (Nov '13)</a><br>
+	<a class="menu" href="/caving/wales/wales-2013-10-25.php">Wales II (Oct '13)</a><br>
+	<a class="menu" href="/caving/wales/wales-2013-10-11.php">Wales I (Oct '13)</a><br>
+	<a class="menu" href="/caving/mendips/mendip-2013-09-27.php">Mendip I (Sep '13)</a><br>
 	</div>
 </div>
 <div class="menuyear">
@@ -122,7 +152,7 @@ Morocco:
 		<a class="menu" href="/caving/yorkshire/yorkshire-2011-11-11.php">Yorks I (Nov '11)</a><br>
 		<a class="menu" href="/caving/wales/wales-2011-10-28.php">Wales II (Oct '11)</a><br>
 		<a class="menu" href="/caving/slovenia/slov2011/2011-10-M2.php">M2 Super (Oct '11)</a><br>
-		<a class="menu" href="/caving/wales/wales-2011-10-14.php">Wales I (Oct '11)</a><br>	
+		<a class="menu" href="/caving/wales/wales-2011-10-14.php">Wales I (Oct '11)</a><br>
 	</div>
 </div>
 <div class="menuyear">
@@ -158,7 +188,7 @@ Morocco:
 		<a class="menu" href="/caving/yorkshire/yorkshire-2009-11-13.php">Yorks II (Nov '09)</a><br>
 		<a class="menu" href="/caving/wales/wales-2009-10-30.php">Wales II (Oct '09)</a><br>
 		<a class="menu" href="/caving/wales/wales-2009-10-16.php">Wales I (Oct '09)</a><br>
-		<a class="menu" href="/caving/yorkshire/yorkshire-2009-10-02.php">Yorks I (Oct '09)</a><br>	
+		<a class="menu" href="/caving/yorkshire/yorkshire-2009-10-02.php">Yorks I (Oct '09)</a><br>
 	</div>
 </div>
 <div class="menuyear">
@@ -213,7 +243,7 @@ Morocco:
 		<a class="menu" href="/caving/wales/wales-2006-11-24.php">Wales I (Nov '06)</a><br>
 		<a class="menu" href="/caving/yorkshire/yorkshire-2006-11-10.php">Yorks I (Nov '06)</a><br>
 		<a class="menu" href="/caving/mendips/mendip-2006-10-20.php">Mendips I (Oct '06)</a><br>
-		<a class="menu" href="/caving/derbyshire/derbyshire-2006-10-13.php">Derbyshire I (Oct '06)</a><br>	
+		<a class="menu" href="/caving/derbyshire/derbyshire-2006-10-13.php">Derbyshire I (Oct '06)</a><br>
 	</div>
 </div>
 <div class="menuyear">
@@ -328,6 +358,9 @@ function toggleVisibility(id)
 
 <?php begintextbox("Tours");?>
 <p class="menu">
+<a class="menu" href="/caving/yorkshire/yorkshire-2014-winter-tour.php">Yorks New Year 2014 | <a class="menu" href="/caving/photo_archive/tours/2014%20-%20yorkshire%20winter/dirindex.html">Photos</a></a><br>
+<a class="menu" href="/caving/switzerland/switzerland-2014-14-06.php">Switzerland 2014</a> | <a class="menu" href="/caving/photo_archive/tours/2014%20-%20switzerland/dirindex.html">Photos</a><br>
+<a class="menu" href="/caving/france/france-2014-06-24.php">France 2014</a> | <a class="menu" href="/caving/photo_archive/tours/2014%20-%20france/dirindex.html">Photos</a><br>
 <a class="menu" href="/caving/sardinia/sardinia14.php">Sardinia 2014</a> | <a class="menu" href="/caving/photo_archive/tours/2014%20-%20sardinia/dirindex.html">Photos</a><br>
 <a class="menu" href="/caving/yorkshire/yorkshire-2013-winter-tour.php">Yorks Xmas 2013</a><br>
 <a class="menu" href="/caving/andalucia/andalucia13.php">Andalucia 2013</a> | <a class="menu" href="/caving/photo_archive/tours/2013%20-%20andalucia/dirindex.html">Photos</a><br>
@@ -371,9 +404,31 @@ function toggleVisibility(id)
 
 <!-- Creative Commons License -->
 <center>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">ICCC web material</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://union.ic.ac.uk/rcc/caving/" property="cc:attributionName" rel="cc:attributionURL">Imperial College Caving Club</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://union.ic.ac.uk/rcc/caving/" rel="dct:source">https://union.ic.ac.uk/rcc/caving/</a><br><br>
+</center>
+<!--
+<center>
 <a rel="license" href="http://creativecommons.org/licenses/by/2.0/uk/"><img alt="Creative Commons License" border="0" src="http://creativecommons.org/images/public/somerights20.gif" /></a><br />
 <p>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/2.0/uk/">Creative Commons License</a>.</p>
 </center>
+-->
+
+<center>
+<?php if ($_COOKIE[$cookie_name] == $cookie_value): ?>
+<a href='javascript:setCookie("legacy", "", "30")'>Change is good!</a>
+<?php else: ?>
+<a href='javascript:setCookie("legacy", "true", "30")'>I hate change</a>
+<?php endif; ?>
+</center>
+
+<center>
+<?php if ($_COOKIE["tangif"] == "true"): ?>
+<a href='javascript:setCookie("tangif", "", "1")'>Vive la revolution!</a>
+<?php else: ?>
+<a href='javascript:setCookie("tangif", "true", "1")'>Hail to the chief</a>
+<?php endif; ?>
+</center>
+
 <!-- /Creative Commons License -->
 <!--
 <rdf:RDF xmlns="http://web.resource.org/cc/"
@@ -392,10 +447,9 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 </rdf:RDF>
 -->
 </td>
-
+<?php if ($_COOKIE[$cookie_name] == $cookie_value): ?>
 <td valign="top" width="100%" >
 <p class="menu" style="text-align:right">
-
 <a class="menu" href="https://plus.google.com/u/0/b/114742080073184112874/"  rel="publisher"><b>G+</b></a>
 &nbsp;|&nbsp;
 <a class="menu" href="http://twitter.com/iccc"><b>Twitter @ICCC</b></a>
@@ -408,12 +462,11 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 &nbsp;
 <g:plusone size="small" count="false"></g:plusone>
 </p>
-
 <img src="/caving/spacer.png" width="1" height="5"></img>
 <h1 align="right">Imperial College Caving Club [ICCC]
 <img src="/caving/union_logo.gif">
 </h1>
 <br><br>
-
 <table align="center" class="articlemenu">
 <td>
+<?php endif; ?>

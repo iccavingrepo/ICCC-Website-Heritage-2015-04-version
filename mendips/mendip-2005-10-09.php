@@ -1,12 +1,5 @@
 <? require('../header.php'); ?>
 
-<style>
-A:link {color: #40B080; }
-A.menu:link {color: #40B080; }
-TD.titlemenu { background-color : #106040 }
-TD.menu {background-color : #021208 }
-</style>
-
 <h1>Mendips Fresher DayTrip</h1>
 <h2>Sunday 9th October 2005</h2>
 <h2><a href="/caving/photo_archive/trips/2005-10-09%20-%20mendips%20-%20sandeep/">Sandeep's Photos</a></h2>

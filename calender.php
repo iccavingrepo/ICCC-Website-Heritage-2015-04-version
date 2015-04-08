@@ -7,17 +7,17 @@
 
 <br>
 
-<?php beginredbox("Google Calendar");?>
+<?php begintextbox("Google Calendar");?>
 <p>Import our events to your <a href="http://www.google.com/calendar/render?cid=http%3A%2F%2Fwww.google.com%2Fcalendar%2Ffeeds%2Fic.caving%40gmail.com%2Fpublic%2Fbasic">Google Calendar</a>, or subscribe to our <a href="http://www.google.com/calendar/ical/ic.caving%40gmail.com/public/basic.ics">ICAL Feed</a>.
 </p>
 <center>
-<iframe src="https://www.google.com/calendar/embed?src=ic.caving%40gmail.com&ctz=Europe/London" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.google.com/calendar/embed?src=ic.caving%40gmail.com&ctz=Europe/London" style="border: 0" width="740" height="600" frameborder="0" scrolling="no"></iframe>
 </center>
-<?php endredbox();?>
+<?php endtextbox();?>
 
 <hr>
 
-<?php beginredbox("ARCHIVE - SEE GOOGLE CALENDER ABOVE FOR UP TO DATE INFO Autumn Calendar: Oct --> Dec, 2006");?>
+<?php begintextbox("ARCHIVE - SEE GOOGLE CALENDER ABOVE FOR UP TO DATE INFO Autumn Calendar: Oct --> Dec, 2006");?>
 <b>Tuesday 3rd October:</b> FRESHERS FAYRE!! Come and talk to us at our stall whether you're a fresher or post-grad looking for something exciting.<br>
 <br>
 <b>Weekend 13th-15th October:</b> Derbyshire. The first weekend trip of the 06/07 Academic year, open to everybody. The hut is booked, all you need is a sleeping bag and if you don't have one of those contact us and we'll find one for you. The cost will be &pound;30 inclusive of everything; food, transport, accommodation and anything to do with caving, cheaper than a single night out in London!<br>
@@ -32,7 +32,7 @@
 <br>
 <b>Weekend 8th - 10th December:</b> Yorkshire. Time to turn from a novice to an experienced caver, try some more advanced SRT techniques and get ready for our winter tour.
 <br>
-<?php endredbox();?>
+<?php endtextbox();?>
 
 <?php begintextdatebox("Summer Calendar","April --> July, 2006");?>
 <b>Tuesdays:</b> Every Tuesday you'll find us in Da Vinci's in the union come along and sign up for a trip or just to have a chat. Look out for the <a href="/caving/photo_archive/mugshots">usual suspects.</a> 
